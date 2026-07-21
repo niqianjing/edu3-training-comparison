@@ -1,0 +1,249 @@
+{
+  "asset": "edu3_nqj13_trainable_fullbody",
+  "source_raw_urdf": "C:\\Users\\joyin\\设置指南编辑器嵌入式教程\\docs\\robot\\乐享\\Zero1-edu02\\output\\edu3_nqj13\\edu3_nqj05.SLDASM\\urdf\\edu3_nqj05.SLDASM.urdf",
+  "source_raw_sha256": "e3a444c38e1a975d5fdf66d5121eab74b7e5858da714aff48965aecdfe0439e9",
+  "urdf_sha256": "f989ed31778c14587c43491b52b9f427a05ca268ddc53d77beb91589a168c0f0",
+  "mjcf_sha256": "27bcafacf9b713f88ca81e887d6d31f6fff25bfc0b5754445643775b91347853",
+  "links": 22,
+  "joints": 21,
+  "mass_kg": 9.2699999944,
+  "measured_dynamics_source": "Zeroth engineer regression, 2026-05-20/21; output-side units",
+  "limits": {
+    "left_thigh_pitch_joint": {
+      "lower": -1.5708,
+      "upper": 0.7854,
+      "effort": 50.0,
+      "velocity": 24.0,
+      "armature": 0.02649,
+      "coulomb_friction_nm": 0.51,
+      "viscous_damping_nm_s_per_rad": 0.0432
+    },
+    "left_thigh_roll_joint": {
+      "lower": -0.3491,
+      "upper": 0.7854,
+      "effort": 20.0,
+      "velocity": 24.0,
+      "armature": 0.0067367,
+      "coulomb_friction_nm": 0.146,
+      "viscous_damping_nm_s_per_rad": 0.0306
+    },
+    "left_thigh_yaw_joint": {
+      "lower": -0.7854,
+      "upper": 0.7854,
+      "effort": 20.0,
+      "velocity": 24.0,
+      "armature": 0.0067367,
+      "coulomb_friction_nm": 0.146,
+      "viscous_damping_nm_s_per_rad": 0.0306
+    },
+    "left_knee_joint": {
+      "lower": 0.0,
+      "upper": 1.2217,
+      "effort": 50.0,
+      "velocity": 24.0,
+      "armature": 0.02649,
+      "coulomb_friction_nm": 0.51,
+      "viscous_damping_nm_s_per_rad": 0.0432
+    },
+    "left_ankle_pitch_joint": {
+      "lower": -0.4363,
+      "upper": 0.4363,
+      "effort": 40.0,
+      "velocity": 12.0,
+      "armature": 0.0067367,
+      "coulomb_friction_nm": 0.146,
+      "viscous_damping_nm_s_per_rad": 0.0306
+    },
+    "left_ankle_roll_joint": {
+      "lower": -0.4363,
+      "upper": 0.4363,
+      "effort": 40.0,
+      "velocity": 12.0,
+      "armature": 0.0067367,
+      "coulomb_friction_nm": 0.146,
+      "viscous_damping_nm_s_per_rad": 0.0306
+    },
+    "right_thigh_pitch_joint": {
+      "lower": -0.7854,
+      "upper": 1.5708,
+      "effort": 50.0,
+      "velocity": 24.0,
+      "armature": 0.02649,
+      "coulomb_friction_nm": 0.51,
+      "viscous_damping_nm_s_per_rad": 0.0432
+    },
+    "right_thigh_roll_joint": {
+      "lower": -0.7854,
+      "upper": 0.3491,
+      "effort": 20.0,
+      "velocity": 24.0,
+      "armature": 0.0067367,
+      "coulomb_friction_nm": 0.146,
+      "viscous_damping_nm_s_per_rad": 0.0306
+    },
+    "right_thigh_yaw_joint": {
+      "lower": -0.7854,
+      "upper": 0.7854,
+      "effort": 20.0,
+      "velocity": 24.0,
+      "armature": 0.0067367,
+      "coulomb_friction_nm": 0.146,
+      "viscous_damping_nm_s_per_rad": 0.0306
+    },
+    "right_knee_joint": {
+      "lower": -1.2217,
+      "upper": 0.0,
+      "effort": 50.0,
+      "velocity": 24.0,
+      "armature": 0.02649,
+      "coulomb_friction_nm": 0.51,
+      "viscous_damping_nm_s_per_rad": 0.0432
+    },
+    "right_ankle_pitch_joint": {
+      "lower": -0.4363,
+      "upper": 0.4363,
+      "effort": 40.0,
+      "velocity": 12.0,
+      "armature": 0.0067367,
+      "coulomb_friction_nm": 0.146,
+      "viscous_damping_nm_s_per_rad": 0.0306
+    },
+    "right_ankle_roll_joint": {
+      "lower": -0.4363,
+      "upper": 0.4363,
+      "effort": 40.0,
+      "velocity": 12.0,
+      "armature": 0.0067367,
+      "coulomb_friction_nm": 0.146,
+      "viscous_damping_nm_s_per_rad": 0.0306
+    },
+    "torso_joint": {
+      "lower": -0.7854,
+      "upper": 0.7854,
+      "effort": 20.0,
+      "velocity": 24.0,
+      "armature": 0.0067367,
+      "coulomb_friction_nm": 0.146,
+      "viscous_damping_nm_s_per_rad": 0.0306
+    },
+    "left_arm_pitch_joint": {
+      "lower": -2.3562,
+      "upper": 0.7854,
+      "effort": 10.0,
+      "velocity": 24.0,
+      "armature": 0.0067367,
+      "coulomb_friction_nm": 0.146,
+      "viscous_damping_nm_s_per_rad": 0.0306
+    },
+    "left_arm_roll_joint": {
+      "lower": 0.0,
+      "upper": 2.3562,
+      "effort": 10.0,
+      "velocity": 24.0,
+      "armature": 0.0067367,
+      "coulomb_friction_nm": 0.146,
+      "viscous_damping_nm_s_per_rad": 0.0306
+    },
+    "left_arm_yaw_joint": {
+      "lower": -0.7854,
+      "upper": 0.7854,
+      "effort": 10.0,
+      "velocity": 24.0,
+      "armature": 0.0067367,
+      "coulomb_friction_nm": 0.146,
+      "viscous_damping_nm_s_per_rad": 0.0306
+    },
+    "left_elbow_pitch_joint": {
+      "lower": 0.0,
+      "upper": 1.5708,
+      "effort": 10.0,
+      "velocity": 24.0,
+      "armature": 0.0067367,
+      "coulomb_friction_nm": 0.146,
+      "viscous_damping_nm_s_per_rad": 0.0306
+    },
+    "right_arm_pitch_joint": {
+      "lower": -0.7854,
+      "upper": 2.3562,
+      "effort": 10.0,
+      "velocity": 24.0,
+      "armature": 0.0067367,
+      "coulomb_friction_nm": 0.146,
+      "viscous_damping_nm_s_per_rad": 0.0306
+    },
+    "right_arm_roll_joint": {
+      "lower": -2.3562,
+      "upper": 0.0,
+      "effort": 10.0,
+      "velocity": 24.0,
+      "armature": 0.0067367,
+      "coulomb_friction_nm": 0.146,
+      "viscous_damping_nm_s_per_rad": 0.0306
+    },
+    "right_arm_yaw_joint": {
+      "lower": -0.7854,
+      "upper": 0.7854,
+      "effort": 10.0,
+      "velocity": 24.0,
+      "armature": 0.0067367,
+      "coulomb_friction_nm": 0.146,
+      "viscous_damping_nm_s_per_rad": 0.0306
+    },
+    "right_elbow_pitch_joint": {
+      "lower": -1.5708,
+      "upper": 0.0,
+      "effort": 10.0,
+      "velocity": 24.0,
+      "armature": 0.0067367,
+      "coulomb_friction_nm": 0.146,
+      "viscous_damping_nm_s_per_rad": 0.0306
+    }
+  },
+  "link_map": {
+    "base_link": "base_link",
+    "link_3": "left_thigh_pitch_link",
+    "link_2": "left_thigh_roll_link",
+    "link_1": "left_thigh_yaw_link",
+    "link_4": "left_knee_link",
+    "link_5": "left_ankle_pitch_link",
+    "link_6": "left_ankle_roll_link",
+    "link_9": "right_thigh_pitch_link",
+    "link_8": "right_thigh_roll_link",
+    "link_7": "right_thigh_yaw_link",
+    "link_10": "right_knee_link",
+    "link_11": "right_ankle_pitch_link",
+    "link_12": "right_ankle_roll_link",
+    "link_13": "torso_link",
+    "link_14": "left_arm_pitch_link",
+    "link_15": "left_arm_roll_link",
+    "link_16": "left_arm_yaw_link",
+    "link_17": "left_elbow_pitch_link",
+    "link_19": "right_arm_pitch_link",
+    "link_20": "right_arm_roll_link",
+    "link_21": "right_arm_yaw_link",
+    "link_22": "right_elbow_pitch_link"
+  },
+  "joint_map": {
+    "joint_3": "left_thigh_pitch_joint",
+    "joint_2": "left_thigh_roll_joint",
+    "joint_1": "left_thigh_yaw_joint",
+    "joint_4": "left_knee_joint",
+    "joint_5": "left_ankle_pitch_joint",
+    "joint_6": "left_ankle_roll_joint",
+    "joint_9": "right_thigh_pitch_joint",
+    "joint_8": "right_thigh_roll_joint",
+    "joint_7": "right_thigh_yaw_joint",
+    "joint_10": "right_knee_joint",
+    "joint_11": "right_ankle_pitch_joint",
+    "joint_12": "right_ankle_roll_joint",
+    "joint_13": "torso_joint",
+    "joint_14": "left_arm_pitch_joint",
+    "joint_15": "left_arm_roll_joint",
+    "joint_16": "left_arm_yaw_joint",
+    "joint_17": "left_elbow_pitch_joint",
+    "joint_19": "right_arm_pitch_joint",
+    "joint_20": "right_arm_roll_joint",
+    "joint_21": "right_arm_yaw_joint",
+    "joint_22": "right_elbow_pitch_joint"
+  }
+}
