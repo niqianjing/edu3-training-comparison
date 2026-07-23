@@ -1,0 +1,783 @@
+{
+  "status": "PASS",
+  "contract_sha256": "3f3a53c4a00808aca079d6dd3fe0d126ed5931ee555838adfda036491c76a34d",
+  "thresholds": {
+    "5": {
+      "q_delta_rad": 0.002,
+      "velocity_rad_s": 0.3
+    },
+    "20": {
+      "q_delta_rad": 0.01,
+      "velocity_rad_s": 0.5
+    }
+  },
+  "max_abs_difference": {
+    "5": {
+      "q_delta_rad": 0.0016676069551492833,
+      "velocity_rad_s": 0.1051748283669971
+    },
+    "20": {
+      "q_delta_rad": 0.00660683282865638,
+      "velocity_rad_s": 0.10468357512395654
+    }
+  },
+  "joint_count": 21,
+  "results": {
+    "left_thigh_pitch_joint": {
+      "5": {
+        "isaac": {
+          "q_delta_rad": 0.0005908012390136719,
+          "velocity_rad_s": 0.11817925423383713,
+          "applied_torque_nm": 1.0
+        },
+        "mujoco": {
+          "q_delta_rad": 0.0002037504059226869,
+          "velocity_rad_s": 0.058250955150293826,
+          "applied_torque_nm": 0.48791650119675734
+        },
+        "abs_difference": {
+          "q_delta_rad": 0.000387050833090985,
+          "velocity_rad_s": 0.0599282990835433
+        },
+        "pass": true
+      },
+      "20": {
+        "isaac": {
+          "q_delta_rad": 0.0035505294799804688,
+          "velocity_rad_s": 0.23407764732837677,
+          "applied_torque_nm": 0.4803959131240845
+        },
+        "mujoco": {
+          "q_delta_rad": 0.002107897206815701,
+          "velocity_rad_s": 0.18670197422454113,
+          "applied_torque_nm": 0.4823006844610287
+        },
+        "abs_difference": {
+          "q_delta_rad": 0.0014426322731647678,
+          "velocity_rad_s": 0.04737567310383564
+        },
+        "pass": true
+      }
+    },
+    "right_thigh_pitch_joint": {
+      "5": {
+        "isaac": {
+          "q_delta_rad": 0.0005908012390136719,
+          "velocity_rad_s": 0.11815302073955536,
+          "applied_torque_nm": 1.0
+        },
+        "mujoco": {
+          "q_delta_rad": 0.00020367825298295283,
+          "velocity_rad_s": 0.05822824775925284,
+          "applied_torque_nm": 0.4879175118974609
+        },
+        "abs_difference": {
+          "q_delta_rad": 0.00038712298603071904,
+          "velocity_rad_s": 0.05992477298030252
+        },
+        "pass": true
+      },
+      "20": {
+        "isaac": {
+          "q_delta_rad": 0.003548145294189453,
+          "velocity_rad_s": 0.233773335814476,
+          "applied_torque_nm": 0.48040008544921875
+        },
+        "mujoco": {
+          "q_delta_rad": 0.0021065764267497733,
+          "velocity_rad_s": 0.18653896768677375,
+          "applied_torque_nm": 0.48230705404714813
+        },
+        "abs_difference": {
+          "q_delta_rad": 0.0014415688674396798,
+          "velocity_rad_s": 0.047234368127702264
+        },
+        "pass": true
+      }
+    },
+    "torso_joint": {
+      "5": {
+        "isaac": {
+          "q_delta_rad": 0.0008365148678421974,
+          "velocity_rad_s": 0.16730298101902008,
+          "applied_torque_nm": 1.0
+        },
+        "mujoco": {
+          "q_delta_rad": 0.00032889929608465214,
+          "velocity_rad_s": 0.09770306819833166,
+          "applied_torque_nm": 0.8515004778941988
+        },
+        "abs_difference": {
+          "q_delta_rad": 0.0005076155717575453,
+          "velocity_rad_s": 0.06959991282068842
+        },
+        "pass": true
+      },
+      "20": {
+        "isaac": {
+          "q_delta_rad": 0.005366445519030094,
+          "velocity_rad_s": 0.37415632605552673,
+          "applied_torque_nm": 0.8441503643989563
+        },
+        "mujoco": {
+          "q_delta_rad": 0.003587854789679525,
+          "velocity_rad_s": 0.320196653447047,
+          "applied_torque_nm": 0.844639349465837
+        },
+        "abs_difference": {
+          "q_delta_rad": 0.0017785907293505691,
+          "velocity_rad_s": 0.053959672608479725
+        },
+        "pass": true
+      }
+    },
+    "left_thigh_roll_joint": {
+      "5": {
+        "isaac": {
+          "q_delta_rad": 0.0004258155822753906,
+          "velocity_rad_s": 0.08515419811010361,
+          "applied_torque_nm": 1.0
+        },
+        "mujoco": {
+          "q_delta_rad": 0.00013247472128108395,
+          "velocity_rad_s": 0.03663930599293508,
+          "applied_torque_nm": 0.4905967323945106
+        },
+        "abs_difference": {
+          "q_delta_rad": 0.0002933408609943067,
+          "velocity_rad_s": 0.04851489211716853
+        },
+        "pass": true
+      },
+      "20": {
+        "isaac": {
+          "q_delta_rad": 0.002153754234313965,
+          "velocity_rad_s": 0.12751761078834534,
+          "applied_torque_nm": 0.48427432775497437
+        },
+        "mujoco": {
+          "q_delta_rad": 0.0013210731128489028,
+          "velocity_rad_s": 0.11646486990458066,
+          "applied_torque_nm": 0.48519525692941623
+        },
+        "abs_difference": {
+          "q_delta_rad": 0.000832681121465062,
+          "velocity_rad_s": 0.011052740883764678
+        },
+        "pass": true
+      }
+    },
+    "right_thigh_roll_joint": {
+      "5": {
+        "isaac": {
+          "q_delta_rad": 0.00042510032653808594,
+          "velocity_rad_s": 0.08502660691738129,
+          "applied_torque_nm": 1.0
+        },
+        "mujoco": {
+          "q_delta_rad": 0.0001323175150496625,
+          "velocity_rad_s": 0.036605512254762336,
+          "applied_torque_nm": 0.4906106656199789
+        },
+        "abs_difference": {
+          "q_delta_rad": 0.00029278281148842344,
+          "velocity_rad_s": 0.04842109466261895
+        },
+        "pass": true
+      },
+      "20": {
+        "isaac": {
+          "q_delta_rad": 0.0021501779556274414,
+          "velocity_rad_s": 0.12732969224452972,
+          "applied_torque_nm": 0.484283447265625
+        },
+        "mujoco": {
+          "q_delta_rad": 0.00131975052996805,
+          "velocity_rad_s": 0.11633973432999381,
+          "applied_torque_nm": 0.485200316050433
+        },
+        "abs_difference": {
+          "q_delta_rad": 0.0008304274256593913,
+          "velocity_rad_s": 0.010989957914535914
+        },
+        "pass": true
+      }
+    },
+    "left_arm_pitch_joint": {
+      "5": {
+        "isaac": {
+          "q_delta_rad": 0.00305938720703125,
+          "velocity_rad_s": 0.6118935942649841,
+          "applied_torque_nm": 1.0
+        },
+        "mujoco": {
+          "q_delta_rad": 0.0016065890440192243,
+          "velocity_rad_s": 0.5197346370174218,
+          "applied_torque_nm": 0.841127761652391
+        },
+        "abs_difference": {
+          "q_delta_rad": 0.0014527981630120257,
+          "velocity_rad_s": 0.09215895724756229
+        },
+        "pass": true
+      },
+      "20": {
+        "isaac": {
+          "q_delta_rad": 0.026699066162109375,
+          "velocity_rad_s": 2.046739339828491,
+          "applied_torque_nm": 0.8049230575561523
+        },
+        "mujoco": {
+          "q_delta_rad": 0.02099239906820005,
+          "velocity_rad_s": 1.9561530502817346,
+          "applied_torque_nm": 0.7969949031881124
+        },
+        "abs_difference": {
+          "q_delta_rad": 0.005706667093909323,
+          "velocity_rad_s": 0.09058628954675663
+        },
+        "pass": true
+      }
+    },
+    "right_arm_pitch_joint": {
+      "5": {
+        "isaac": {
+          "q_delta_rad": 0.00305938720703125,
+          "velocity_rad_s": 0.6118998527526855,
+          "applied_torque_nm": 1.0
+        },
+        "mujoco": {
+          "q_delta_rad": 0.0016064932761140627,
+          "velocity_rad_s": 0.519682362015496,
+          "applied_torque_nm": 0.8411286475144049
+        },
+        "abs_difference": {
+          "q_delta_rad": 0.0014528939309171873,
+          "velocity_rad_s": 0.09221749073718954
+        },
+        "pass": true
+      },
+      "20": {
+        "isaac": {
+          "q_delta_rad": 0.026674747467041016,
+          "velocity_rad_s": 2.043701171875,
+          "applied_torque_nm": 0.8049620389938354
+        },
+        "mujoco": {
+          "q_delta_rad": 0.020982989569943822,
+          "velocity_rad_s": 1.9547263167719011,
+          "applied_torque_nm": 0.7970339336279432
+        },
+        "abs_difference": {
+          "q_delta_rad": 0.005691757897097194,
+          "velocity_rad_s": 0.08897485510309888
+        },
+        "pass": true
+      }
+    },
+    "left_thigh_yaw_joint": {
+      "5": {
+        "isaac": {
+          "q_delta_rad": 0.002673572162166238,
+          "velocity_rad_s": 0.5347144603729248,
+          "applied_torque_nm": 1.0
+        },
+        "mujoco": {
+          "q_delta_rad": 0.0013440849979232136,
+          "velocity_rad_s": 0.42955792392826336,
+          "applied_torque_nm": 0.8433023004594267
+        },
+        "abs_difference": {
+          "q_delta_rad": 0.0013294871642430242,
+          "velocity_rad_s": 0.10515653644466144
+        },
+        "pass": true
+      },
+      "20": {
+        "isaac": {
+          "q_delta_rad": 0.02239179238677025,
+          "velocity_rad_s": 1.6970219612121582,
+          "applied_torque_nm": 0.8132160902023315
+        },
+        "mujoco": {
+          "q_delta_rad": 0.017178286090958342,
+          "velocity_rad_s": 1.5941208297223017,
+          "applied_torque_nm": 0.807536885792774
+        },
+        "abs_difference": {
+          "q_delta_rad": 0.005213506295811906,
+          "velocity_rad_s": 0.10290113148985647
+        },
+        "pass": true
+      }
+    },
+    "right_thigh_yaw_joint": {
+      "5": {
+        "isaac": {
+          "q_delta_rad": 0.002679383149370551,
+          "velocity_rad_s": 0.5358766317367554,
+          "applied_torque_nm": 1.0
+        },
+        "mujoco": {
+          "q_delta_rad": 0.0013475358069040036,
+          "velocity_rad_s": 0.4307018033697583,
+          "applied_torque_nm": 0.8432742038229347
+        },
+        "abs_difference": {
+          "q_delta_rad": 0.0013318473424665475,
+          "velocity_rad_s": 0.1051748283669971
+        },
+        "pass": true
+      },
+      "20": {
+        "isaac": {
+          "q_delta_rad": 0.022446725517511368,
+          "velocity_rad_s": 1.7012991905212402,
+          "applied_torque_nm": 0.8131223917007446
+        },
+        "mujoco": {
+          "q_delta_rad": 0.01722695063738911,
+          "velocity_rad_s": 1.5988554560543515,
+          "applied_torque_nm": 0.8073999363962537
+        },
+        "abs_difference": {
+          "q_delta_rad": 0.005219774880122256,
+          "velocity_rad_s": 0.1024437344668887
+        },
+        "pass": true
+      }
+    },
+    "left_arm_roll_joint": {
+      "5": {
+        "isaac": {
+          "q_delta_rad": 0.0020265579223632812,
+          "velocity_rad_s": 0.4054059684276581,
+          "applied_torque_nm": 1.0
+        },
+        "mujoco": {
+          "q_delta_rad": 0.0010290882349890396,
+          "velocity_rad_s": 0.3307999082987219,
+          "applied_torque_nm": 0.8457926220305085
+        },
+        "abs_difference": {
+          "q_delta_rad": 0.0009974696873742417,
+          "velocity_rad_s": 0.07460606012893617
+        },
+        "pass": true
+      },
+      "20": {
+        "isaac": {
+          "q_delta_rad": 0.017182350158691406,
+          "velocity_rad_s": 1.3064887523651123,
+          "applied_torque_nm": 0.8220091462135315
+        },
+        "mujoco": {
+          "q_delta_rad": 0.013384491009710953,
+          "velocity_rad_s": 1.250349097286846,
+          "applied_torque_nm": 0.8175856209482777
+        },
+        "abs_difference": {
+          "q_delta_rad": 0.0037978591489804536,
+          "velocity_rad_s": 0.05613965507826624
+        },
+        "pass": true
+      }
+    },
+    "right_arm_roll_joint": {
+      "5": {
+        "isaac": {
+          "q_delta_rad": 0.0020275115966796875,
+          "velocity_rad_s": 0.405443400144577,
+          "applied_torque_nm": 1.0
+        },
+        "mujoco": {
+          "q_delta_rad": 0.0010291166424325482,
+          "velocity_rad_s": 0.3307955750969679,
+          "applied_torque_nm": 0.8457924532864571
+        },
+        "abs_difference": {
+          "q_delta_rad": 0.0009983949542471393,
+          "velocity_rad_s": 0.07464782504760914
+        },
+        "pass": true
+      },
+      "20": {
+        "isaac": {
+          "q_delta_rad": 0.017172813415527344,
+          "velocity_rad_s": 1.3049273490905762,
+          "applied_torque_nm": 0.8220275640487671
+        },
+        "mujoco": {
+          "q_delta_rad": 0.013374972594533574,
+          "velocity_rad_s": 1.2485417503407978,
+          "applied_torque_nm": 0.8176328251837319
+        },
+        "abs_difference": {
+          "q_delta_rad": 0.0037978408209937697,
+          "velocity_rad_s": 0.05638559874977833
+        },
+        "pass": true
+      }
+    },
+    "left_knee_joint": {
+      "5": {
+        "isaac": {
+          "q_delta_rad": 0.0007395744323730469,
+          "velocity_rad_s": 0.14795425534248352,
+          "applied_torque_nm": 1.0
+        },
+        "mujoco": {
+          "q_delta_rad": 0.00027742175475053976,
+          "velocity_rad_s": 0.08149292482634225,
+          "applied_torque_nm": 0.4870409521806037
+        },
+        "abs_difference": {
+          "q_delta_rad": 0.0004621526776225071,
+          "velocity_rad_s": 0.06646133051614127
+        },
+        "pass": true
+      },
+      "20": {
+        "isaac": {
+          "q_delta_rad": 0.004780769348144531,
+          "velocity_rad_s": 0.32802945375442505,
+          "applied_torque_nm": 0.47787362337112427
+        },
+        "mujoco": {
+          "q_delta_rad": 0.0030220892810899347,
+          "velocity_rad_s": 0.2707207258271412,
+          "applied_torque_nm": 0.4788414639609826
+        },
+        "abs_difference": {
+          "q_delta_rad": 0.0017586800670545966,
+          "velocity_rad_s": 0.057308727927283865
+        },
+        "pass": true
+      }
+    },
+    "right_knee_joint": {
+      "5": {
+        "isaac": {
+          "q_delta_rad": 0.00074005126953125,
+          "velocity_rad_s": 0.14799581468105316,
+          "applied_torque_nm": 1.0
+        },
+        "mujoco": {
+          "q_delta_rad": 0.000277479063039765,
+          "velocity_rad_s": 0.08150834621747828,
+          "applied_torque_nm": 0.48704038094632573
+        },
+        "abs_difference": {
+          "q_delta_rad": 0.000462572206491485,
+          "velocity_rad_s": 0.06648746846357488
+        },
+        "pass": true
+      },
+      "20": {
+        "isaac": {
+          "q_delta_rad": 0.004782199859619141,
+          "velocity_rad_s": 0.32811853289604187,
+          "applied_torque_nm": 0.47787296772003174
+        },
+        "mujoco": {
+          "q_delta_rad": 0.0030231675380942846,
+          "velocity_rad_s": 0.27087118814583944,
+          "applied_torque_nm": 0.47883572101919103
+        },
+        "abs_difference": {
+          "q_delta_rad": 0.001759032321524856,
+          "velocity_rad_s": 0.057247344750202434
+        },
+        "pass": true
+      }
+    },
+    "left_arm_yaw_joint": {
+      "5": {
+        "isaac": {
+          "q_delta_rad": 0.0035239101853221655,
+          "velocity_rad_s": 0.7047820091247559,
+          "applied_torque_nm": 1.0
+        },
+        "mujoco": {
+          "q_delta_rad": 0.001886053009999192,
+          "velocity_rad_s": 0.6124773457681475,
+          "applied_torque_nm": 0.8388428231282006
+        },
+        "abs_difference": {
+          "q_delta_rad": 0.0016378571753229735,
+          "velocity_rad_s": 0.09230466335660836
+        },
+        "pass": true
+      },
+      "20": {
+        "isaac": {
+          "q_delta_rad": 0.03127172589302063,
+          "velocity_rad_s": 2.413239002227783,
+          "applied_torque_nm": 0.7971944808959961
+        },
+        "mujoco": {
+          "q_delta_rad": 0.02478285685855373,
+          "velocity_rad_s": 2.3090992356081212,
+          "applied_torque_nm": 0.7866985197364091
+        },
+        "abs_difference": {
+          "q_delta_rad": 0.006488869034466899,
+          "velocity_rad_s": 0.10413976661966196
+        },
+        "pass": true
+      }
+    },
+    "right_arm_yaw_joint": {
+      "5": {
+        "isaac": {
+          "q_delta_rad": 0.0035239141434431076,
+          "velocity_rad_s": 0.7047828435897827,
+          "applied_torque_nm": 1.0
+        },
+        "mujoco": {
+          "q_delta_rad": 0.0018860516096154624,
+          "velocity_rad_s": 0.6124756987341324,
+          "applied_torque_nm": 0.8388428328734703
+        },
+        "abs_difference": {
+          "q_delta_rad": 0.0016378625338276452,
+          "velocity_rad_s": 0.09230714485565028
+        },
+        "pass": true
+      },
+      "20": {
+        "isaac": {
+          "q_delta_rad": 0.03127318620681763,
+          "velocity_rad_s": 2.4135336875915527,
+          "applied_torque_nm": 0.7971943020820618
+        },
+        "mujoco": {
+          "q_delta_rad": 0.02478154197797011,
+          "velocity_rad_s": 2.308850112467596,
+          "applied_torque_nm": 0.786705109894154
+        },
+        "abs_difference": {
+          "q_delta_rad": 0.006491644228847519,
+          "velocity_rad_s": 0.10468357512395654
+        },
+        "pass": true
+      }
+    },
+    "left_ankle_pitch_joint": {
+      "5": {
+        "isaac": {
+          "q_delta_rad": 0.0031889283563941717,
+          "velocity_rad_s": 0.6377856731414795,
+          "applied_torque_nm": 1.0
+        },
+        "mujoco": {
+          "q_delta_rad": 0.0017165625644567717,
+          "velocity_rad_s": 0.5582490869592066,
+          "applied_torque_nm": 0.8401935408070252
+        },
+        "abs_difference": {
+          "q_delta_rad": 0.0014723657919374,
+          "velocity_rad_s": 0.07953658618227288
+        },
+        "pass": true
+      },
+      "20": {
+        "isaac": {
+          "q_delta_rad": 0.028494030237197876,
+          "velocity_rad_s": 2.198007583618164,
+          "applied_torque_nm": 0.8020796775817871
+        },
+        "mujoco": {
+          "q_delta_rad": 0.022656266818317235,
+          "velocity_rad_s": 2.1148265689308223,
+          "applied_torque_nm": 0.7923755633048146
+        },
+        "abs_difference": {
+          "q_delta_rad": 0.005837763418880641,
+          "velocity_rad_s": 0.08318101468734174
+        },
+        "pass": true
+      }
+    },
+    "right_ankle_pitch_joint": {
+      "5": {
+        "isaac": {
+          "q_delta_rad": 0.0031833110842853785,
+          "velocity_rad_s": 0.6366622447967529,
+          "applied_torque_nm": 1.0
+        },
+        "mujoco": {
+          "q_delta_rad": 0.0017134753031629022,
+          "velocity_rad_s": 0.5572421057352881,
+          "applied_torque_nm": 0.8402184410183364
+        },
+        "abs_difference": {
+          "q_delta_rad": 0.0014698357811224762,
+          "velocity_rad_s": 0.07942013906146483
+        },
+        "pass": true
+      },
+      "20": {
+        "isaac": {
+          "q_delta_rad": 0.02844220958650112,
+          "velocity_rad_s": 2.1940855979919434,
+          "applied_torque_nm": 0.8021748065948486
+        },
+        "mujoco": {
+          "q_delta_rad": 0.022615240525630548,
+          "velocity_rad_s": 2.110977614528981,
+          "applied_torque_nm": 0.792487575044494
+        },
+        "abs_difference": {
+          "q_delta_rad": 0.005826969060870574,
+          "velocity_rad_s": 0.08310798346296222
+        },
+        "pass": true
+      }
+    },
+    "left_elbow_pitch_joint": {
+      "5": {
+        "isaac": {
+          "q_delta_rad": 0.0034508705139160156,
+          "velocity_rad_s": 0.6902195811271667,
+          "applied_torque_nm": 1.0
+        },
+        "mujoco": {
+          "q_delta_rad": 0.0018513247927296472,
+          "velocity_rad_s": 0.6016365997145485,
+          "applied_torque_nm": 0.839116566963178
+        },
+        "abs_difference": {
+          "q_delta_rad": 0.0015995457211863684,
+          "velocity_rad_s": 0.08858298141261822
+        },
+        "pass": true
+      },
+      "20": {
+        "isaac": {
+          "q_delta_rad": 0.030702590942382812,
+          "velocity_rad_s": 2.3647966384887695,
+          "applied_torque_nm": 0.7979762554168701
+        },
+        "mujoco": {
+          "q_delta_rad": 0.02437082193366047,
+          "velocity_rad_s": 2.2719959379410897,
+          "applied_torque_nm": 0.7877833448696845
+        },
+        "abs_difference": {
+          "q_delta_rad": 0.006331769008722343,
+          "velocity_rad_s": 0.09280070054767986
+        },
+        "pass": true
+      }
+    },
+    "right_elbow_pitch_joint": {
+      "5": {
+        "isaac": {
+          "q_delta_rad": 0.0034508705139160156,
+          "velocity_rad_s": 0.6902210116386414,
+          "applied_torque_nm": 1.0
+        },
+        "mujoco": {
+          "q_delta_rad": 0.0018513395504956565,
+          "velocity_rad_s": 0.6016439229416124,
+          "applied_torque_nm": 0.8391164380155881
+        },
+        "abs_difference": {
+          "q_delta_rad": 0.0015995309634203592,
+          "velocity_rad_s": 0.08857708869702896
+        },
+        "pass": true
+      },
+      "20": {
+        "isaac": {
+          "q_delta_rad": 0.030706405639648438,
+          "velocity_rad_s": 2.3652760982513428,
+          "applied_torque_nm": 0.7979707717895508
+        },
+        "mujoco": {
+          "q_delta_rad": 0.024372559622079848,
+          "velocity_rad_s": 2.2722882862133837,
+          "applied_torque_nm": 0.7877755820444456
+        },
+        "abs_difference": {
+          "q_delta_rad": 0.0063338460175685896,
+          "velocity_rad_s": 0.09298781203795903
+        },
+        "pass": true
+      }
+    },
+    "left_ankle_roll_joint": {
+      "5": {
+        "isaac": {
+          "q_delta_rad": 0.003611363470554352,
+          "velocity_rad_s": 0.7222726941108704,
+          "applied_torque_nm": 1.0
+        },
+        "mujoco": {
+          "q_delta_rad": 0.0019437609692016964,
+          "velocity_rad_s": 0.6319720503154896,
+          "applied_torque_nm": 0.8383665072709985
+        },
+        "abs_difference": {
+          "q_delta_rad": 0.0016676025013526554,
+          "velocity_rad_s": 0.09030064379538072
+        },
+        "pass": true
+      },
+      "20": {
+        "isaac": {
+          "q_delta_rad": 0.032199639827013016,
+          "velocity_rad_s": 2.484400749206543,
+          "applied_torque_nm": 0.7955227494239807
+        },
+        "mujoco": {
+          "q_delta_rad": 0.025592979066000533,
+          "velocity_rad_s": 2.3850592886161888,
+          "applied_torque_nm": 0.784483661652438
+        },
+        "abs_difference": {
+          "q_delta_rad": 0.0066066607610124825,
+          "velocity_rad_s": 0.0993414605903542
+        },
+        "pass": true
+      }
+    },
+    "right_ankle_roll_joint": {
+      "5": {
+        "isaac": {
+          "q_delta_rad": 0.003611368592828512,
+          "velocity_rad_s": 0.7222736477851868,
+          "applied_torque_nm": 1.0
+        },
+        "mujoco": {
+          "q_delta_rad": 0.0019437616376792289,
+          "velocity_rad_s": 0.6319723405484233,
+          "applied_torque_nm": 0.8383665051714977
+        },
+        "abs_difference": {
+          "q_delta_rad": 0.0016676069551492833,
+          "velocity_rad_s": 0.09030130723676344
+        },
+        "pass": true
+      },
+      "20": {
+        "isaac": {
+          "q_delta_rad": 0.032199859619140625,
+          "velocity_rad_s": 2.484438896179199,
+          "applied_torque_nm": 0.7955223917961121
+        },
+        "mujoco": {
+          "q_delta_rad": 0.025593026790484245,
+          "velocity_rad_s": 2.3850669223666308,
+          "applied_torque_nm": 0.7844834559172843
+        },
+        "abs_difference": {
+          "q_delta_rad": 0.00660683282865638,
+          "velocity_rad_s": 0.09937197381256846
+        },
+        "pass": true
+      }
+    }
+  }
+}

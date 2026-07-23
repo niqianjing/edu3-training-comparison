@@ -1,0 +1,134 @@
+{
+  "engine": "mujoco",
+  "fell": false,
+  "duration_s": 8.000000000001005,
+  "forward_m": 1.4700536502172303,
+  "lateral_m": 0.12143714972035023,
+  "min_height_m": 0.3477764957191973,
+  "yaw_change_deg": -0.14559331652982263,
+  "max_abs_roll_deg": 1.4967585682370514,
+  "max_abs_pitch_deg": 0.8535730428328392,
+  "target_oob_total": 101,
+  "joints": {
+    "l_hip_pitch_joint": {
+      "q_mean_deg": -4.2083977435967554,
+      "q_min_deg": -19.013257493767984,
+      "q_max_deg": 2.267236758278617,
+      "lower_edge_rate": 0.0,
+      "upper_edge_rate": 0.0,
+      "motor_rms_Nm": 3.068648411107643,
+      "continuous_ratio": 0.438378344443949,
+      "peak_saturation_rate": 0.0
+    },
+    "l_hip_roll_joint": {
+      "q_mean_deg": -3.878618774530197,
+      "q_min_deg": -8.853616109458473,
+      "q_max_deg": 3.945716985955125,
+      "lower_edge_rate": 0.0,
+      "upper_edge_rate": 0.0,
+      "motor_rms_Nm": 5.6639020496742,
+      "continuous_ratio": 0.8091288642391714,
+      "peak_saturation_rate": 0.0
+    },
+    "l_thigh_joint": {
+      "q_mean_deg": 1.3032841232882404,
+      "q_min_deg": -4.401126420550088,
+      "q_max_deg": 4.246479886038648,
+      "lower_edge_rate": 0.0,
+      "upper_edge_rate": 0.0,
+      "motor_rms_Nm": 1.4440663048172688,
+      "continuous_ratio": 0.38508434795127167,
+      "peak_saturation_rate": 0.0
+    },
+    "l_calf_joint": {
+      "q_mean_deg": 27.33386754367066,
+      "q_min_deg": 17.188733853924695,
+      "q_max_deg": 40.79567202466787,
+      "lower_edge_rate": 0.0,
+      "upper_edge_rate": 0.0,
+      "motor_rms_Nm": 3.552511214129688,
+      "continuous_ratio": 0.5075016020185269,
+      "peak_saturation_rate": 0.0025
+    },
+    "l_ankle_pitch_joint": {
+      "q_mean_deg": -20.319357733899377,
+      "q_min_deg": -26.90017686609169,
+      "q_max_deg": -9.230304880278782,
+      "lower_edge_rate": 0.4575,
+      "upper_edge_rate": 0.0,
+      "motor_rms_Nm": 4.049732700700612,
+      "continuous_ratio": 1.0799287201868297,
+      "peak_saturation_rate": 0.0025
+    },
+    "l_ankle_roll_joint": {
+      "q_mean_deg": 2.2488715978055516,
+      "q_min_deg": -0.7102094709652785,
+      "q_max_deg": 5.30625881322381,
+      "lower_edge_rate": 0.0,
+      "upper_edge_rate": 0.0,
+      "motor_rms_Nm": 0.8059422652752672,
+      "continuous_ratio": 0.21491793740673792,
+      "peak_saturation_rate": 0.0
+    },
+    "r_hip_pitch_joint": {
+      "q_mean_deg": 21.683331758319632,
+      "q_min_deg": 5.729577951308233,
+      "q_max_deg": 33.26234682090819,
+      "lower_edge_rate": 0.0,
+      "upper_edge_rate": 0.0,
+      "motor_rms_Nm": 3.3941563961170322,
+      "continuous_ratio": 0.484879485159576,
+      "peak_saturation_rate": 0.0
+    },
+    "r_hip_roll_joint": {
+      "q_mean_deg": -0.7072666686749892,
+      "q_min_deg": -8.262786390847747,
+      "q_max_deg": 5.8661962810109385,
+      "lower_edge_rate": 0.0,
+      "upper_edge_rate": 0.0,
+      "motor_rms_Nm": 5.067452415227304,
+      "continuous_ratio": 0.7239217736039006,
+      "peak_saturation_rate": 0.0
+    },
+    "r_thigh_joint": {
+      "q_mean_deg": -0.7618323029232772,
+      "q_min_deg": -5.3798744556497615,
+      "q_max_deg": 4.866035318261563,
+      "lower_edge_rate": 0.0,
+      "upper_edge_rate": 0.0,
+      "motor_rms_Nm": 2.5188257175734567,
+      "continuous_ratio": 0.6716868580195885,
+      "peak_saturation_rate": 0.0
+    },
+    "r_calf_joint": {
+      "q_mean_deg": -35.358306420810855,
+      "q_min_deg": -53.971019064024055,
+      "q_max_deg": -17.188733853924695,
+      "lower_edge_rate": 0.0,
+      "upper_edge_rate": 0.0,
+      "motor_rms_Nm": 5.405438792281154,
+      "continuous_ratio": 0.7722055417544506,
+      "peak_saturation_rate": 0.0
+    },
+    "r_ankle_pitch_joint": {
+      "q_mean_deg": 14.659595120535386,
+      "q_min_deg": 3.8670920482208606,
+      "q_max_deg": 26.839799745466607,
+      "lower_edge_rate": 0.0,
+      "upper_edge_rate": 0.2475,
+      "motor_rms_Nm": 2.7765790982978515,
+      "continuous_ratio": 0.740421092879427,
+      "peak_saturation_rate": 0.0
+    },
+    "r_ankle_roll_joint": {
+      "q_mean_deg": -0.5907417004893863,
+      "q_min_deg": -3.7793418829390975,
+      "q_max_deg": 1.5599334530025373,
+      "lower_edge_rate": 0.0,
+      "upper_edge_rate": 0.0,
+      "motor_rms_Nm": 0.8021911349519328,
+      "continuous_ratio": 0.21391763598718208,
+      "peak_saturation_rate": 0.0
+    }
+  }
+}

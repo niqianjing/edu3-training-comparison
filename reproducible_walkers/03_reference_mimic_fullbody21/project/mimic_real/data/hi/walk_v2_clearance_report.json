@@ -1,0 +1,132 @@
+{
+  "optimizer": [
+    {
+      "iteration": 0,
+      "loss": 2.3031556606292725,
+      "position_loss": 0.00011515778896864504,
+      "rotation_loss": 0.0
+    },
+    {
+      "iteration": 100,
+      "loss": 0.016683585941791534,
+      "position_loss": 2.566260661751585e-07,
+      "rotation_loss": 0.0026054922491312027
+    },
+    {
+      "iteration": 200,
+      "loss": 0.01636493019759655,
+      "position_loss": 2.3142781913065846e-07,
+      "rotation_loss": 0.002730374690145254
+    },
+    {
+      "iteration": 300,
+      "loss": 0.016346793621778488,
+      "position_loss": 2.2853730285987695e-07,
+      "rotation_loss": 0.002749980427324772
+    },
+    {
+      "iteration": 400,
+      "loss": 0.016344187781214714,
+      "position_loss": 2.285382834088523e-07,
+      "rotation_loss": 0.0027478099800646305
+    },
+    {
+      "iteration": 500,
+      "loss": 0.01634351722896099,
+      "position_loss": 2.2866996118864336e-07,
+      "rotation_loss": 0.0027458909898996353
+    },
+    {
+      "iteration": 600,
+      "loss": 0.01634671725332737,
+      "position_loss": 2.288230405156355e-07,
+      "rotation_loss": 0.002745297970250249
+    },
+    {
+      "iteration": 700,
+      "loss": 0.01641647331416607,
+      "position_loss": 2.3235558899159514e-07,
+      "rotation_loss": 0.0027440262492746115
+    },
+    {
+      "iteration": 800,
+      "loss": 0.01640024408698082,
+      "position_loss": 2.3138481708429026e-07,
+      "rotation_loss": 0.002745118923485279
+    },
+    {
+      "iteration": 900,
+      "loss": 0.016688374802470207,
+      "position_loss": 2.4478742943756515e-07,
+      "rotation_loss": 0.002743937075138092
+    },
+    {
+      "iteration": 1000,
+      "loss": 0.016435746103525162,
+      "position_loss": 2.3302717977458087e-07,
+      "rotation_loss": 0.002744759898632765
+    },
+    {
+      "iteration": 1100,
+      "loss": 0.016901543363928795,
+      "position_loss": 2.550582109961397e-07,
+      "rotation_loss": 0.0027446807362139225
+    },
+    {
+      "iteration": 1200,
+      "loss": 0.01732729561626911,
+      "position_loss": 2.744078813066153e-07,
+      "rotation_loss": 0.002745884470641613
+    },
+    {
+      "iteration": 1300,
+      "loss": 0.017285112291574478,
+      "position_loss": 2.726171715039527e-07,
+      "rotation_loss": 0.0027450253255665302
+    },
+    {
+      "iteration": 1400,
+      "loss": 0.017345914617180824,
+      "position_loss": 2.7495130439092463e-07,
+      "rotation_loss": 0.0027465512976050377
+    },
+    {
+      "iteration": 1500,
+      "loss": 0.017404817044734955,
+      "position_loss": 2.7812760095002886e-07,
+      "rotation_loss": 0.0027462677098810673
+    },
+    {
+      "iteration": 1599,
+      "loss": 0.018122801557183266,
+      "position_loss": 3.1130264233070193e-07,
+      "rotation_loss": 0.0027464614249765873
+    }
+  ],
+  "feet": {
+    "l": {
+      "ground_z_m": -0.0004647839069366455,
+      "bad_frames_before": 32,
+      "bad_frames_after": 0,
+      "max_target_error_m": 0.0028582776430994272,
+      "mean_target_error_m": 0.0004999192315153778,
+      "max_added_clearance_requested_m": 0.03008250519633293,
+      "max_actual_toe_change_m": 0.030059145763516426
+    },
+    "r": {
+      "ground_z_m": -0.0004282605648040772,
+      "bad_frames_before": 38,
+      "bad_frames_after": 0,
+      "max_target_error_m": 0.0025402125902473927,
+      "mean_target_error_m": 0.00039230447146110237,
+      "max_added_clearance_requested_m": 0.030109671875834465,
+      "max_actual_toe_change_m": 0.030150877311825752
+    }
+  },
+  "joint_checks": {
+    "position_limit_violations": [],
+    "minimum_position_margin_rad": 0.00147324800491333,
+    "max_abs_reference_velocity_rad_s": 5.822183609008789,
+    "max_abs_joint_change_rad": 0.29727450013160706
+  }
+}

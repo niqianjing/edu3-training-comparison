@@ -1,0 +1,440 @@
+{
+  "engine": "isaac_physx_explicit_si_friction_motor_pulse",
+  "contract_path": "/home/zero/edu3_reference_mimic_v1/contract/edu3_reference_contract_v1.json",
+  "contract_version": "EDU3-REFERENCE-25-10-V1",
+  "contract_sha256": "3f3a53c4a00808aca079d6dd3fe0d126ed5931ee555838adfda036491c76a34d",
+  "physics_dt_s": 0.005,
+  "pulse_motor_torque_nm": 1.0,
+  "joint_names": [
+    "left_thigh_pitch_joint",
+    "right_thigh_pitch_joint",
+    "torso_joint",
+    "left_thigh_roll_joint",
+    "right_thigh_roll_joint",
+    "left_arm_pitch_joint",
+    "right_arm_pitch_joint",
+    "left_thigh_yaw_joint",
+    "right_thigh_yaw_joint",
+    "left_arm_roll_joint",
+    "right_arm_roll_joint",
+    "left_knee_joint",
+    "right_knee_joint",
+    "left_arm_yaw_joint",
+    "right_arm_yaw_joint",
+    "left_ankle_pitch_joint",
+    "right_ankle_pitch_joint",
+    "left_elbow_pitch_joint",
+    "right_elbow_pitch_joint",
+    "left_ankle_roll_joint",
+    "right_ankle_roll_joint"
+  ],
+  "gravity_disabled": true,
+  "contacts_isolated": true,
+  "policy_disabled": true,
+  "randomization_disabled": true,
+  "physx_legacy_joint_friction": [
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "armature": [
+    0.026489999145269394,
+    0.026489999145269394,
+    0.00673669995740056,
+    0.026489999145269394,
+    0.026489999145269394,
+    0.00673669995740056,
+    0.00673669995740056,
+    0.00673669995740056,
+    0.00673669995740056,
+    0.00673669995740056,
+    0.00673669995740056,
+    0.026489999145269394,
+    0.026489999145269394,
+    0.00673669995740056,
+    0.00673669995740056,
+    0.00673669995740056,
+    0.00673669995740056,
+    0.00673669995740056,
+    0.00673669995740056,
+    0.00673669995740056,
+    0.00673669995740056
+  ],
+  "results": {
+    "left_thigh_pitch_joint": {
+      "0": {
+        "q_delta_rad": 0.0,
+        "velocity_rad_s": 0.0,
+        "applied_torque_nm": 0.0
+      },
+      "5": {
+        "q_delta_rad": 0.0005908012390136719,
+        "velocity_rad_s": 0.11817925423383713,
+        "applied_torque_nm": 1.0
+      },
+      "20": {
+        "q_delta_rad": 0.0035505294799804688,
+        "velocity_rad_s": 0.23407764732837677,
+        "applied_torque_nm": 0.4803959131240845
+      }
+    },
+    "right_thigh_pitch_joint": {
+      "0": {
+        "q_delta_rad": 0.0,
+        "velocity_rad_s": 0.0,
+        "applied_torque_nm": 0.0
+      },
+      "5": {
+        "q_delta_rad": 0.0005908012390136719,
+        "velocity_rad_s": 0.11815302073955536,
+        "applied_torque_nm": 1.0
+      },
+      "20": {
+        "q_delta_rad": 0.003548145294189453,
+        "velocity_rad_s": 0.233773335814476,
+        "applied_torque_nm": 0.48040008544921875
+      }
+    },
+    "torso_joint": {
+      "0": {
+        "q_delta_rad": 0.0,
+        "velocity_rad_s": 0.0,
+        "applied_torque_nm": 0.0
+      },
+      "5": {
+        "q_delta_rad": 0.0008365148678421974,
+        "velocity_rad_s": 0.16730298101902008,
+        "applied_torque_nm": 1.0
+      },
+      "20": {
+        "q_delta_rad": 0.005366445519030094,
+        "velocity_rad_s": 0.37415632605552673,
+        "applied_torque_nm": 0.8441503643989563
+      }
+    },
+    "left_thigh_roll_joint": {
+      "0": {
+        "q_delta_rad": 0.0,
+        "velocity_rad_s": 0.0,
+        "applied_torque_nm": 0.0
+      },
+      "5": {
+        "q_delta_rad": 0.0004258155822753906,
+        "velocity_rad_s": 0.08515419811010361,
+        "applied_torque_nm": 1.0
+      },
+      "20": {
+        "q_delta_rad": 0.002153754234313965,
+        "velocity_rad_s": 0.12751761078834534,
+        "applied_torque_nm": 0.48427432775497437
+      }
+    },
+    "right_thigh_roll_joint": {
+      "0": {
+        "q_delta_rad": 0.0,
+        "velocity_rad_s": 0.0,
+        "applied_torque_nm": 0.0
+      },
+      "5": {
+        "q_delta_rad": 0.00042510032653808594,
+        "velocity_rad_s": 0.08502660691738129,
+        "applied_torque_nm": 1.0
+      },
+      "20": {
+        "q_delta_rad": 0.0021501779556274414,
+        "velocity_rad_s": 0.12732969224452972,
+        "applied_torque_nm": 0.484283447265625
+      }
+    },
+    "left_arm_pitch_joint": {
+      "0": {
+        "q_delta_rad": 0.0,
+        "velocity_rad_s": 0.0,
+        "applied_torque_nm": 0.0
+      },
+      "5": {
+        "q_delta_rad": 0.00305938720703125,
+        "velocity_rad_s": 0.6118935942649841,
+        "applied_torque_nm": 1.0
+      },
+      "20": {
+        "q_delta_rad": 0.026699066162109375,
+        "velocity_rad_s": 2.046739339828491,
+        "applied_torque_nm": 0.8049230575561523
+      }
+    },
+    "right_arm_pitch_joint": {
+      "0": {
+        "q_delta_rad": 0.0,
+        "velocity_rad_s": 0.0,
+        "applied_torque_nm": 0.0
+      },
+      "5": {
+        "q_delta_rad": 0.00305938720703125,
+        "velocity_rad_s": 0.6118998527526855,
+        "applied_torque_nm": 1.0
+      },
+      "20": {
+        "q_delta_rad": 0.026674747467041016,
+        "velocity_rad_s": 2.043701171875,
+        "applied_torque_nm": 0.8049620389938354
+      }
+    },
+    "left_thigh_yaw_joint": {
+      "0": {
+        "q_delta_rad": 0.0,
+        "velocity_rad_s": 0.0,
+        "applied_torque_nm": 0.0
+      },
+      "5": {
+        "q_delta_rad": 0.002673572162166238,
+        "velocity_rad_s": 0.5347144603729248,
+        "applied_torque_nm": 1.0
+      },
+      "20": {
+        "q_delta_rad": 0.02239179238677025,
+        "velocity_rad_s": 1.6970219612121582,
+        "applied_torque_nm": 0.8132160902023315
+      }
+    },
+    "right_thigh_yaw_joint": {
+      "0": {
+        "q_delta_rad": 0.0,
+        "velocity_rad_s": 0.0,
+        "applied_torque_nm": 0.0
+      },
+      "5": {
+        "q_delta_rad": 0.002679383149370551,
+        "velocity_rad_s": 0.5358766317367554,
+        "applied_torque_nm": 1.0
+      },
+      "20": {
+        "q_delta_rad": 0.022446725517511368,
+        "velocity_rad_s": 1.7012991905212402,
+        "applied_torque_nm": 0.8131223917007446
+      }
+    },
+    "left_arm_roll_joint": {
+      "0": {
+        "q_delta_rad": 0.0,
+        "velocity_rad_s": 0.0,
+        "applied_torque_nm": 0.0
+      },
+      "5": {
+        "q_delta_rad": 0.0020265579223632812,
+        "velocity_rad_s": 0.4054059684276581,
+        "applied_torque_nm": 1.0
+      },
+      "20": {
+        "q_delta_rad": 0.017182350158691406,
+        "velocity_rad_s": 1.3064887523651123,
+        "applied_torque_nm": 0.8220091462135315
+      }
+    },
+    "right_arm_roll_joint": {
+      "0": {
+        "q_delta_rad": 0.0,
+        "velocity_rad_s": 0.0,
+        "applied_torque_nm": 0.0
+      },
+      "5": {
+        "q_delta_rad": 0.0020275115966796875,
+        "velocity_rad_s": 0.405443400144577,
+        "applied_torque_nm": 1.0
+      },
+      "20": {
+        "q_delta_rad": 0.017172813415527344,
+        "velocity_rad_s": 1.3049273490905762,
+        "applied_torque_nm": 0.8220275640487671
+      }
+    },
+    "left_knee_joint": {
+      "0": {
+        "q_delta_rad": 0.0,
+        "velocity_rad_s": 0.0,
+        "applied_torque_nm": 0.0
+      },
+      "5": {
+        "q_delta_rad": 0.0007395744323730469,
+        "velocity_rad_s": 0.14795425534248352,
+        "applied_torque_nm": 1.0
+      },
+      "20": {
+        "q_delta_rad": 0.004780769348144531,
+        "velocity_rad_s": 0.32802945375442505,
+        "applied_torque_nm": 0.47787362337112427
+      }
+    },
+    "right_knee_joint": {
+      "0": {
+        "q_delta_rad": 0.0,
+        "velocity_rad_s": 0.0,
+        "applied_torque_nm": 0.0
+      },
+      "5": {
+        "q_delta_rad": 0.00074005126953125,
+        "velocity_rad_s": 0.14799581468105316,
+        "applied_torque_nm": 1.0
+      },
+      "20": {
+        "q_delta_rad": 0.004782199859619141,
+        "velocity_rad_s": 0.32811853289604187,
+        "applied_torque_nm": 0.47787296772003174
+      }
+    },
+    "left_arm_yaw_joint": {
+      "0": {
+        "q_delta_rad": 0.0,
+        "velocity_rad_s": 0.0,
+        "applied_torque_nm": 0.0
+      },
+      "5": {
+        "q_delta_rad": 0.0035239101853221655,
+        "velocity_rad_s": 0.7047820091247559,
+        "applied_torque_nm": 1.0
+      },
+      "20": {
+        "q_delta_rad": 0.03127172589302063,
+        "velocity_rad_s": 2.413239002227783,
+        "applied_torque_nm": 0.7971944808959961
+      }
+    },
+    "right_arm_yaw_joint": {
+      "0": {
+        "q_delta_rad": 0.0,
+        "velocity_rad_s": 0.0,
+        "applied_torque_nm": 0.0
+      },
+      "5": {
+        "q_delta_rad": 0.0035239141434431076,
+        "velocity_rad_s": 0.7047828435897827,
+        "applied_torque_nm": 1.0
+      },
+      "20": {
+        "q_delta_rad": 0.03127318620681763,
+        "velocity_rad_s": 2.4135336875915527,
+        "applied_torque_nm": 0.7971943020820618
+      }
+    },
+    "left_ankle_pitch_joint": {
+      "0": {
+        "q_delta_rad": 0.0,
+        "velocity_rad_s": 0.0,
+        "applied_torque_nm": 0.0
+      },
+      "5": {
+        "q_delta_rad": 0.0031889283563941717,
+        "velocity_rad_s": 0.6377856731414795,
+        "applied_torque_nm": 1.0
+      },
+      "20": {
+        "q_delta_rad": 0.028494030237197876,
+        "velocity_rad_s": 2.198007583618164,
+        "applied_torque_nm": 0.8020796775817871
+      }
+    },
+    "right_ankle_pitch_joint": {
+      "0": {
+        "q_delta_rad": 0.0,
+        "velocity_rad_s": 0.0,
+        "applied_torque_nm": 0.0
+      },
+      "5": {
+        "q_delta_rad": 0.0031833110842853785,
+        "velocity_rad_s": 0.6366622447967529,
+        "applied_torque_nm": 1.0
+      },
+      "20": {
+        "q_delta_rad": 0.02844220958650112,
+        "velocity_rad_s": 2.1940855979919434,
+        "applied_torque_nm": 0.8021748065948486
+      }
+    },
+    "left_elbow_pitch_joint": {
+      "0": {
+        "q_delta_rad": 0.0,
+        "velocity_rad_s": 0.0,
+        "applied_torque_nm": 0.0
+      },
+      "5": {
+        "q_delta_rad": 0.0034508705139160156,
+        "velocity_rad_s": 0.6902195811271667,
+        "applied_torque_nm": 1.0
+      },
+      "20": {
+        "q_delta_rad": 0.030702590942382812,
+        "velocity_rad_s": 2.3647966384887695,
+        "applied_torque_nm": 0.7979762554168701
+      }
+    },
+    "right_elbow_pitch_joint": {
+      "0": {
+        "q_delta_rad": 0.0,
+        "velocity_rad_s": 0.0,
+        "applied_torque_nm": 0.0
+      },
+      "5": {
+        "q_delta_rad": 0.0034508705139160156,
+        "velocity_rad_s": 0.6902210116386414,
+        "applied_torque_nm": 1.0
+      },
+      "20": {
+        "q_delta_rad": 0.030706405639648438,
+        "velocity_rad_s": 2.3652760982513428,
+        "applied_torque_nm": 0.7979707717895508
+      }
+    },
+    "left_ankle_roll_joint": {
+      "0": {
+        "q_delta_rad": 0.0,
+        "velocity_rad_s": 0.0,
+        "applied_torque_nm": 0.0
+      },
+      "5": {
+        "q_delta_rad": 0.003611363470554352,
+        "velocity_rad_s": 0.7222726941108704,
+        "applied_torque_nm": 1.0
+      },
+      "20": {
+        "q_delta_rad": 0.032199639827013016,
+        "velocity_rad_s": 2.484400749206543,
+        "applied_torque_nm": 0.7955227494239807
+      }
+    },
+    "right_ankle_roll_joint": {
+      "0": {
+        "q_delta_rad": 0.0,
+        "velocity_rad_s": 0.0,
+        "applied_torque_nm": 0.0
+      },
+      "5": {
+        "q_delta_rad": 0.003611368592828512,
+        "velocity_rad_s": 0.7222736477851868,
+        "applied_torque_nm": 1.0
+      },
+      "20": {
+        "q_delta_rad": 0.032199859619140625,
+        "velocity_rad_s": 2.484438896179199,
+        "applied_torque_nm": 0.7955223917961121
+      }
+    }
+  }
+}

@@ -1,0 +1,3842 @@
+{
+  "algorithm": "sha256",
+  "file_count": 767,
+  "total_bytes": 616060188,
+  "files": [
+    {
+      "path": ".gitattributes",
+      "bytes": 83,
+      "sha256": "14dc809b7105b830ff40dbd39885f2380b2c814c0933c103ca5739999397e833"
+    },
+    {
+      "path": ".gitignore",
+      "bytes": 77,
+      "sha256": "06ecb96fda0208f57419fb213f7d56debd1f77354f186c9b22a1c30b962b55f2"
+    },
+    {
+      "path": "01_xiaohai_r4_lowerbody12/README.md",
+      "bytes": 1688,
+      "sha256": "5fbbe4f299f2ec0be46b5efbb976a8e3aeac6cb04105cde038b740ea34a0f0ae"
+    },
+    {
+      "path": "01_xiaohai_r4_lowerbody12/assets/edu3_xiaohai12/meshes/base_link.STL",
+      "bytes": 4870084,
+      "sha256": "b46e15f130e5a57ebe0b2ff47606615f51e005744b1a017d537351aa1f0b90d9"
+    },
+    {
+      "path": "01_xiaohai_r4_lowerbody12/assets/edu3_xiaohai12/meshes/link_1.STL",
+      "bytes": 197584,
+      "sha256": "7664d4472ed7f5113d9c69b1a3c37700cee79183ac51914d3f202ffc1abb58f8"
+    },
+    {
+      "path": "01_xiaohai_r4_lowerbody12/assets/edu3_xiaohai12/meshes/link_10.STL",
+      "bytes": 2425384,
+      "sha256": "faba313a2e324e91e9400199266ba2a4bf9d300d738f6c5a18ded62e9577c168"
+    },
+    {
+      "path": "01_xiaohai_r4_lowerbody12/assets/edu3_xiaohai12/meshes/link_11.STL",
+      "bytes": 105984,
+      "sha256": "d2ee5ae08f081093b6b542384afeb0b3f38794d8c8f0bcde62f350a2007d5b24"
+    },
+    {
+      "path": "01_xiaohai_r4_lowerbody12/assets/edu3_xiaohai12/meshes/link_12.STL",
+      "bytes": 442584,
+      "sha256": "56cb60a0ab72fa025c0d72b8abe3c4766c30b997e0c76561eae2846831e7e15c"
+    },
+    {
+      "path": "01_xiaohai_r4_lowerbody12/assets/edu3_xiaohai12/meshes/link_13.STL",
+      "bytes": 1292484,
+      "sha256": "b478e95f4b93b7637fdd5a58c5a63fce5e41f02e5d0a003de2803916f67f7be0"
+    },
+    {
+      "path": "01_xiaohai_r4_lowerbody12/assets/edu3_xiaohai12/meshes/link_14.STL",
+      "bytes": 270084,
+      "sha256": "9af33663f0be2e80081f7caa647cab20c1cd73840a7bd84cafcda18a6aeeb5ae"
+    },
+    {
+      "path": "01_xiaohai_r4_lowerbody12/assets/edu3_xiaohai12/meshes/link_15.STL",
+      "bytes": 143584,
+      "sha256": "0ca54186f1cc94134416eecdeccf3a8a969ae21a36225d1e5fba111d7f5d1aa2"
+    },
+    {
+      "path": "01_xiaohai_r4_lowerbody12/assets/edu3_xiaohai12/meshes/link_16.STL",
+      "bytes": 168384,
+      "sha256": "fe049105a5fafd06b64fbbeb495a97f2c5737d8668f4c14f6932b843d2811c99"
+    },
+    {
+      "path": "01_xiaohai_r4_lowerbody12/assets/edu3_xiaohai12/meshes/link_17.STL",
+      "bytes": 230884,
+      "sha256": "f693e59ead1e110c98b470e7d86e3df9c9a8a8ac0ba816371f33504e190bfbf3"
+    },
+    {
+      "path": "01_xiaohai_r4_lowerbody12/assets/edu3_xiaohai12/meshes/link_19.STL",
+      "bytes": 270084,
+      "sha256": "2ebf41801d8578642ece403d8877c1339e6ea40de290f919c1932038eae5dade"
+    },
+    {
+      "path": "01_xiaohai_r4_lowerbody12/assets/edu3_xiaohai12/meshes/link_2.STL",
+      "bytes": 143884,
+      "sha256": "dd791cd2902d22da4cce85ba51b7c10c5cbb0e5aab4b738eb97fced3e9a615f5"
+    },
+    {
+      "path": "01_xiaohai_r4_lowerbody12/assets/edu3_xiaohai12/meshes/link_20.STL",
+      "bytes": 143584,
+      "sha256": "685659a3cdc8e20c5c284e545cffd9ae30fdf3a2c51627b04b3439ef17f2d5fc"
+    },
+    {
+      "path": "01_xiaohai_r4_lowerbody12/assets/edu3_xiaohai12/meshes/link_21.STL",
+      "bytes": 168284,
+      "sha256": "5ab8aba5cb2fc376c7ca338f24e3e57ecf4af69c53de629ad68696535fbd4c39"
+    },
+    {
+      "path": "01_xiaohai_r4_lowerbody12/assets/edu3_xiaohai12/meshes/link_22.STL",
+      "bytes": 230884,
+      "sha256": "c7a97564a049e8d0a123748c0bcf9b9d16932a3f70945fcfc12ca3517721b457"
+    },
+    {
+      "path": "01_xiaohai_r4_lowerbody12/assets/edu3_xiaohai12/meshes/link_3.STL",
+      "bytes": 332084,
+      "sha256": "94df510ba74ec5e033d352fd6dd4c2ba0beffdbaf60e7bfd7fb23260580e9398"
+    },
+    {
+      "path": "01_xiaohai_r4_lowerbody12/assets/edu3_xiaohai12/meshes/link_4.STL",
+      "bytes": 2425484,
+      "sha256": "ee04be722306d0a429068bfe2f8ffb0352ccd54a56e1e472cbe450e80cac2920"
+    },
+    {
+      "path": "01_xiaohai_r4_lowerbody12/assets/edu3_xiaohai12/meshes/link_5.STL",
+      "bytes": 105984,
+      "sha256": "ecd0306c8c605399a7a8ad103468aecf464f7f41bbf6bd84bb6298f7b8457b37"
+    },
+    {
+      "path": "01_xiaohai_r4_lowerbody12/assets/edu3_xiaohai12/meshes/link_6.STL",
+      "bytes": 442584,
+      "sha256": "2a977dbc89665b07e86e84614f60725c89b5228a6c34aa016a1c36fffbb7e3a4"
+    },
+    {
+      "path": "01_xiaohai_r4_lowerbody12/assets/edu3_xiaohai12/meshes/link_7.STL",
+      "bytes": 197284,
+      "sha256": "2f0a8a646538a8561eef80f8a016b7d15d09297d603530bc212dcda879d55459"
+    },
+    {
+      "path": "01_xiaohai_r4_lowerbody12/assets/edu3_xiaohai12/meshes/link_8.STL",
+      "bytes": 143884,
+      "sha256": "b0ba210a8911fef18a242fbe8a6e71759b255326c170074476b04fffe4eb7a34"
+    },
+    {
+      "path": "01_xiaohai_r4_lowerbody12/assets/edu3_xiaohai12/meshes/link_9.STL",
+      "bytes": 331984,
+      "sha256": "9e3fcb0b82545d3b385faf548dbbdace196a84c0856278d65cd6147f64592746"
+    },
+    {
+      "path": "01_xiaohai_r4_lowerbody12/assets/edu3_xiaohai12/urdf/edu3_xiaohai12_original.urdf",
+      "bytes": 24726,
+      "sha256": "b83d19d57ef03c451d8c8cf918f2c65f224473b9475de711987f6c4100b95284"
+    },
+    {
+      "path": "01_xiaohai_r4_lowerbody12/assets/edu3_xiaohai12/urdf/edu3_xiaohai12_roll25.urdf",
+      "bytes": 24724,
+      "sha256": "12e15d3660797c8384982afb00d62649b852b7dafdf39e2bbdce735d8803e1e2"
+    },
+    {
+      "path": "01_xiaohai_r4_lowerbody12/assets/fullbody_usd_reference_not_used_by_r4/.asset_hash",
+      "bytes": 32,
+      "sha256": "d753c50734514e67b074f87c87ffbc740e1054214a8b46fd142487ba3543090e"
+    },
+    {
+      "path": "01_xiaohai_r4_lowerbody12/assets/fullbody_usd_reference_not_used_by_r4/config.yaml",
+      "bytes": 719,
+      "sha256": "94a2e8df3668ebeb08e26baef7d446bdd0c084c9d0b9a69e446a9239508192fb"
+    },
+    {
+      "path": "01_xiaohai_r4_lowerbody12/assets/fullbody_usd_reference_not_used_by_r4/configuration/edu3_nqj13_trainable_fullbody_base.usd",
+      "bytes": 21528073,
+      "sha256": "3669243b83b697e6ba13cd09827bd996d2b5f95341b1bb0160ccbde97eecbc00"
+    },
+    {
+      "path": "01_xiaohai_r4_lowerbody12/assets/fullbody_usd_reference_not_used_by_r4/configuration/edu3_nqj13_trainable_fullbody_physics.usd",
+      "bytes": 7796,
+      "sha256": "abab5b7fb372a8ffb55f0b26b7c9afb9cfb618cf1c8bbb9060218b2249042fce"
+    },
+    {
+      "path": "01_xiaohai_r4_lowerbody12/assets/fullbody_usd_reference_not_used_by_r4/configuration/edu3_nqj13_trainable_fullbody_robot.usd",
+      "bytes": 2361,
+      "sha256": "994162face263629f95f130a7724d15d4c9e895f0dbe1f42a0569ec068ded973"
+    },
+    {
+      "path": "01_xiaohai_r4_lowerbody12/assets/fullbody_usd_reference_not_used_by_r4/configuration/edu3_nqj13_trainable_fullbody_sensor.usd",
+      "bytes": 669,
+      "sha256": "72d8e503116078267720230ca1010f6581fe1908b32ba512fdff3ed9557d8767"
+    },
+    {
+      "path": "01_xiaohai_r4_lowerbody12/assets/fullbody_usd_reference_not_used_by_r4/edu3_nqj13_trainable_fullbody.usd",
+      "bytes": 2243,
+      "sha256": "057c53a757f5d6e9516d1024186c05b8fdf424e3e4134c8a567409864251b320"
+    },
+    {
+      "path": "01_xiaohai_r4_lowerbody12/eval/edu3_mujoco_timing_eval.py",
+      "bytes": 9932,
+      "sha256": "14d0cebe0430477a0cae724de4e6c2ae50d7ffd4b98ac0e823243e96b8843e55"
+    },
+    {
+      "path": "01_xiaohai_r4_lowerbody12/eval/edu3_mujoco_timing_eval_visual.py",
+      "bytes": 10558,
+      "sha256": "c40cc62247a23fc1c04a907de07619a2e770bf4c981a6bd82b91d7e1073f824d"
+    },
+    {
+      "path": "01_xiaohai_r4_lowerbody12/eval/edu3_xiaohai_roll25_timing20ms_r4_seed42_Jul21_03-06-00_seed42_model1000.json",
+      "bytes": 5345,
+      "sha256": "87487234c2649c576a97292011a864b9fe8ce8d0a815f38f384daba4dbea5a7b"
+    },
+    {
+      "path": "01_xiaohai_r4_lowerbody12/eval/edu3_xiaohai_roll25_timing20ms_r4_seed42_Jul21_03-06-00_seed42_model1000.npz",
+      "bytes": 133656,
+      "sha256": "f13f6f3f5b39cedc1d77be81c7ae7f865fddf47d6edf14e6bf4f13680d53a49f"
+    },
+    {
+      "path": "01_xiaohai_r4_lowerbody12/eval/edu3_xiaohai_roll25_timing20ms_r4_seed43_Jul21_03-06-01_seed43_model1000.json",
+      "bytes": 5345,
+      "sha256": "86c3813feb80d7f0eec1bb0f97bd8aaa519a22d016a49c74e1478509deb073be"
+    },
+    {
+      "path": "01_xiaohai_r4_lowerbody12/eval/edu3_xiaohai_roll25_timing20ms_r4_seed43_Jul21_03-06-01_seed43_model1000.npz",
+      "bytes": 133656,
+      "sha256": "eb496e2f0f88034b6cbc7996cf937c257b929e27df3c76d4a96e5b68e3266a84"
+    },
+    {
+      "path": "01_xiaohai_r4_lowerbody12/eval/r4_roll25_seed42_model1000_mujoco.json",
+      "bytes": 4357,
+      "sha256": "955d28be39dbb11236923eda8dc22abb5c5670a6329b8cf3cff19850a6f0f75a"
+    },
+    {
+      "path": "01_xiaohai_r4_lowerbody12/eval/r4_roll25_seed42_model1000_mujoco.npz",
+      "bytes": 255896,
+      "sha256": "18b88003b25acea1a643d67352e352f402b76504224352f72d5b4dc41c40e6b7"
+    },
+    {
+      "path": "01_xiaohai_r4_lowerbody12/eval/r4_roll25_seed42_model1000_mujoco_compiled.xml",
+      "bytes": 9261,
+      "sha256": "d4bb994132b2bb89ea6e0a292c6a9ddb664e738f48891ce5fdca04633e5c3653"
+    },
+    {
+      "path": "01_xiaohai_r4_lowerbody12/eval/r4_roll25_seed42_model1000_mujoco_h264.mp4",
+      "bytes": 124837,
+      "sha256": "d9bedd9253c9713b346e58b58085d15dbb039db2da5b2175dcc9bf876eb95108"
+    },
+    {
+      "path": "01_xiaohai_r4_lowerbody12/eval/r4_roll25_seed43_model1000_mujoco_mesh.json",
+      "bytes": 4352,
+      "sha256": "008410a45b262d290c4f1ad110bfbc7ff83053737c5ed8eb71712544273dfa3b"
+    },
+    {
+      "path": "01_xiaohai_r4_lowerbody12/eval/r4_roll25_seed43_model1000_mujoco_mesh.npz",
+      "bytes": 255896,
+      "sha256": "98744c7430e33cf41358fefdea3a36af0ecf2a1840c78eb449b7731760bc00d5"
+    },
+    {
+      "path": "01_xiaohai_r4_lowerbody12/eval/r4_roll25_seed43_model1000_mujoco_mesh_compiled.xml",
+      "bytes": 14913,
+      "sha256": "732915ddb685f024ce58ef15e44ef5fde1b313cf149772535010afa62b9f9d6b"
+    },
+    {
+      "path": "01_xiaohai_r4_lowerbody12/eval/r4_roll25_seed43_model1000_mujoco_mesh_h264.mp4",
+      "bytes": 204371,
+      "sha256": "4ce1e21c7ea3b6136d7654ca50dfc76ac6686b55631b9032f3b9557ebedf2519"
+    },
+    {
+      "path": "01_xiaohai_r4_lowerbody12/models/seed42/model_1000.pt",
+      "bytes": 79529937,
+      "sha256": "0671bb9121ba489ab30e72aaf405783e108cce8946002424cadcc8df0a58360a"
+    },
+    {
+      "path": "01_xiaohai_r4_lowerbody12/models/seed43/model_1000.pt",
+      "bytes": 79529937,
+      "sha256": "aaba34a7257c331edc22703d0754cb1226ee35c54f777fd54ee9470505a11586"
+    },
+    {
+      "path": "01_xiaohai_r4_lowerbody12/training_snapshot/files/gym/__init__.py",
+      "bytes": 1860,
+      "sha256": "ea3cc32384d07b4ecf2bae4f70d7465971c90cdab9f8e6a24570713763409193"
+    },
+    {
+      "path": "01_xiaohai_r4_lowerbody12/training_snapshot/files/gym/envs/__init__.py",
+      "bytes": 3927,
+      "sha256": "f998a5f4298b90e191acbba0bf75c40736a59295b97bca9401ebed77c6665efa"
+    },
+    {
+      "path": "01_xiaohai_r4_lowerbody12/training_snapshot/files/gym/envs/_cartpole/cartpole.py",
+      "bytes": 3369,
+      "sha256": "d38a51f473e26b1ad1a898fd41c77f283cbae8508527633a86f35cfc7dee1657"
+    },
+    {
+      "path": "01_xiaohai_r4_lowerbody12/training_snapshot/files/gym/envs/_cartpole/cartpole_config.py",
+      "bytes": 4205,
+      "sha256": "f008d8f927e7ed6d167b453810bf882a6d8529d114d7dbac95592515bdd2b359"
+    },
+    {
+      "path": "01_xiaohai_r4_lowerbody12/training_snapshot/files/gym/envs/_pendulum/pendulum.py",
+      "bytes": 3234,
+      "sha256": "0914266dc56657053119110b9a435221a91ffe4401836d2c54158d1da0643e05"
+    },
+    {
+      "path": "01_xiaohai_r4_lowerbody12/training_snapshot/files/gym/envs/_pendulum/pendulum_config.py",
+      "bytes": 5185,
+      "sha256": "18f6351cf6036eb52c46c44bf22db28cad02a2a350df1a5bf3ec500010c2d337"
+    },
+    {
+      "path": "01_xiaohai_r4_lowerbody12/training_snapshot/files/gym/envs/base/base_config.py",
+      "bytes": 2680,
+      "sha256": "c4a732c4e1df012c2cfe304b226d95f30cc19165a62fefafc49d9955d12fcc04"
+    },
+    {
+      "path": "01_xiaohai_r4_lowerbody12/training_snapshot/files/gym/envs/base/base_task.py",
+      "bytes": 9624,
+      "sha256": "37997393f01ab2ce7d88c677362220835ffd06b9f121919a573d2cd505edb179"
+    },
+    {
+      "path": "01_xiaohai_r4_lowerbody12/training_snapshot/files/gym/envs/base/fixed_robot.py",
+      "bytes": 30938,
+      "sha256": "cf75fa78f4eb2482707ba52b7f458ff79bd032c89c79e3055d4d6d3720dfb927"
+    },
+    {
+      "path": "01_xiaohai_r4_lowerbody12/training_snapshot/files/gym/envs/base/fixed_robot_config.py",
+      "bytes": 7492,
+      "sha256": "a32179916f1072cb3d438cc7dec195f33c05c8caebee9f0175862a64c2aa80cb"
+    },
+    {
+      "path": "01_xiaohai_r4_lowerbody12/training_snapshot/files/gym/envs/base/legged_robot.py",
+      "bytes": 53900,
+      "sha256": "19d16b5e2a4df75ecd3707a1d3ac6f94b46ea910863825f6e1d2538e919d34d0"
+    },
+    {
+      "path": "01_xiaohai_r4_lowerbody12/training_snapshot/files/gym/envs/base/legged_robot_config.py",
+      "bytes": 12189,
+      "sha256": "cebf9db9edfa5a4e3611800f81130db4f3816b7f7e8b844ac1968e287de4682b"
+    },
+    {
+      "path": "01_xiaohai_r4_lowerbody12/training_snapshot/files/gym/envs/edu3_12/__init__.py",
+      "bytes": 42,
+      "sha256": "e733234a953fcfa5f77973a0c554b81c07a6a7f909a6904bf19404b7c4dbce30"
+    },
+    {
+      "path": "01_xiaohai_r4_lowerbody12/training_snapshot/files/gym/envs/edu3_12/edu3_controller.py",
+      "bytes": 2882,
+      "sha256": "2487a989dba19974ea7f17575b7195bcde247ef061770ce073012bceb0841954"
+    },
+    {
+      "path": "01_xiaohai_r4_lowerbody12/training_snapshot/files/gym/envs/edu3_12/edu3_controller_config.py",
+      "bytes": 8517,
+      "sha256": "71c7d54695bb5e04d3e1837bf02fe54bf75f2aad5765f3dd76a7de7197ee949a"
+    },
+    {
+      "path": "01_xiaohai_r4_lowerbody12/training_snapshot/files/gym/envs/edu3_12/edu3_tasks.py",
+      "bytes": 2030,
+      "sha256": "e2beacef181eae548fc6f0ba5743f5bd6d32c7bd043be59a5582fee28d8e569d"
+    },
+    {
+      "path": "01_xiaohai_r4_lowerbody12/training_snapshot/files/gym/envs/hi_12/hi_controller.py",
+      "bytes": 55602,
+      "sha256": "f32e6e8598065e8544fc3b75b16c0dce4d015f15178e88c87a349f2707b40e3c"
+    },
+    {
+      "path": "01_xiaohai_r4_lowerbody12/training_snapshot/files/gym/envs/hi_12/hi_controller_config.py",
+      "bytes": 13047,
+      "sha256": "19208b4e7572663eab23a27d8ae8fba4372366ab1b2f52e2f94220bbd03c1844"
+    },
+    {
+      "path": "01_xiaohai_r4_lowerbody12/training_snapshot/files/gym/envs/hi_12/hi_utils.py",
+      "bytes": 10811,
+      "sha256": "02773d0ea9f70c0ad30fe04b0b16e72497814d0853b17bb55f883503ceb93f8d"
+    },
+    {
+      "path": "01_xiaohai_r4_lowerbody12/training_snapshot/files/gym/envs/hi_12/hi_vanilla.py",
+      "bytes": 16109,
+      "sha256": "68c724ca46df90a5ca3d65cc974a64c90359dfa06dc49338e7236b7342521f35"
+    },
+    {
+      "path": "01_xiaohai_r4_lowerbody12/training_snapshot/files/gym/envs/hi_12/hi_vanilla_config.py",
+      "bytes": 12965,
+      "sha256": "0b7f2fe33c665797d189a8355300366d03ff6734391d117889c17d0b8a6774e4"
+    },
+    {
+      "path": "01_xiaohai_r4_lowerbody12/training_snapshot/files/gym/envs/hi_12/jacobian.py",
+      "bytes": 1154,
+      "sha256": "a9f355754053ca5a2f064913a3a36aacfb2c3409717288c0bd872040c7690a75"
+    },
+    {
+      "path": "01_xiaohai_r4_lowerbody12/training_snapshot/files/gym/envs/hi_12/log.py",
+      "bytes": 7559,
+      "sha256": "ffd64bf2f168fabaa532bcf8ece1818ce579e2fb39c44cfa846c3a3a74c61b70"
+    },
+    {
+      "path": "01_xiaohai_r4_lowerbody12/training_snapshot/files/gym/envs/hi_cl_12/hi_cl12_controller.py",
+      "bytes": 54115,
+      "sha256": "0c842b5add2450b572bdf29af5fe0dcaa3d31c59d9bc1f57dbe97f2fbd325036"
+    },
+    {
+      "path": "01_xiaohai_r4_lowerbody12/training_snapshot/files/gym/envs/hi_cl_12/hi_cl12_controller_config.py",
+      "bytes": 13820,
+      "sha256": "36eb128da1514fab6f33896fc8d212f3252b292ccb244d5ecc53160bdee8dd9c"
+    },
+    {
+      "path": "01_xiaohai_r4_lowerbody12/training_snapshot/files/gym/envs/hi_cl_12/hi_cl12_utils.py",
+      "bytes": 10811,
+      "sha256": "02773d0ea9f70c0ad30fe04b0b16e72497814d0853b17bb55f883503ceb93f8d"
+    },
+    {
+      "path": "01_xiaohai_r4_lowerbody12/training_snapshot/files/gym/envs/hi_cl_12/hi_cl12_vanilla.py",
+      "bytes": 16114,
+      "sha256": "2602117addd44487369ed1f51d19f3d015c9d9806b934cc1dd7727f1c2b2dec4"
+    },
+    {
+      "path": "01_xiaohai_r4_lowerbody12/training_snapshot/files/gym/envs/hi_cl_12/hi_cl12_vanilla_config.py",
+      "bytes": 12965,
+      "sha256": "0b7f2fe33c665797d189a8355300366d03ff6734391d117889c17d0b8a6774e4"
+    },
+    {
+      "path": "01_xiaohai_r4_lowerbody12/training_snapshot/files/gym/envs/hi_cl_12/jacobian.py",
+      "bytes": 1154,
+      "sha256": "a9f355754053ca5a2f064913a3a36aacfb2c3409717288c0bd872040c7690a75"
+    },
+    {
+      "path": "01_xiaohai_r4_lowerbody12/training_snapshot/files/gym/envs/humanoid/humanoid_controller.py",
+      "bytes": 63263,
+      "sha256": "2541ff42687c80aeea0667cd2578726ecf32e53b05e592e11bc2f5ec775a8132"
+    },
+    {
+      "path": "01_xiaohai_r4_lowerbody12/training_snapshot/files/gym/envs/humanoid/humanoid_controller_config.py",
+      "bytes": 11439,
+      "sha256": "7cf5267f447fcab04dc828c4406b7b56e444f1de1c4850766715e6ad7974e1cf"
+    },
+    {
+      "path": "01_xiaohai_r4_lowerbody12/training_snapshot/files/gym/envs/humanoid/humanoid_utils.py",
+      "bytes": 10811,
+      "sha256": "02773d0ea9f70c0ad30fe04b0b16e72497814d0853b17bb55f883503ceb93f8d"
+    },
+    {
+      "path": "01_xiaohai_r4_lowerbody12/training_snapshot/files/gym/envs/humanoid/humanoid_vanilla.py",
+      "bytes": 16122,
+      "sha256": "683b69e71f99ff4e017719a875a2d4217733b526f40e696164f60dbff64858d1"
+    },
+    {
+      "path": "01_xiaohai_r4_lowerbody12/training_snapshot/files/gym/envs/humanoid/humanoid_vanilla_config.py",
+      "bytes": 12975,
+      "sha256": "c159ab6f63c02be7d3c2b31227a12d82c5907a30940a07b46bef29ddfdfabc5e"
+    },
+    {
+      "path": "01_xiaohai_r4_lowerbody12/training_snapshot/files/gym/envs/humanoid/jacobian.py",
+      "bytes": 1154,
+      "sha256": "a9f355754053ca5a2f064913a3a36aacfb2c3409717288c0bd872040c7690a75"
+    },
+    {
+      "path": "01_xiaohai_r4_lowerbody12/training_snapshot/files/gym/envs/pi_cl_12/jacobian.py",
+      "bytes": 1154,
+      "sha256": "a9f355754053ca5a2f064913a3a36aacfb2c3409717288c0bd872040c7690a75"
+    },
+    {
+      "path": "01_xiaohai_r4_lowerbody12/training_snapshot/files/gym/envs/pi_cl_12/pi_cl12_controller.py",
+      "bytes": 54229,
+      "sha256": "1a9fa5d4a64d0a3c4e505bbab86bffd0aae63deb2c545f50e017d5090e580e29"
+    },
+    {
+      "path": "01_xiaohai_r4_lowerbody12/training_snapshot/files/gym/envs/pi_cl_12/pi_cl12_controller_config.py",
+      "bytes": 12712,
+      "sha256": "6911a91f27ddf2399cdaacf4014aba6158640da0b6cfd857c214821c199f5998"
+    },
+    {
+      "path": "01_xiaohai_r4_lowerbody12/training_snapshot/files/gym/envs/pi_cl_12/pi_cl12_high_dyna_controller.py",
+      "bytes": 54603,
+      "sha256": "7fdacfe3d4d29c1396c80d3d957c13cf53bdea0e1a312ea7cea9a3f385568906"
+    },
+    {
+      "path": "01_xiaohai_r4_lowerbody12/training_snapshot/files/gym/envs/pi_cl_12/pi_cl12_high_dyna_controller_config.py",
+      "bytes": 14436,
+      "sha256": "3c67bc9c07b463714ea8ba93162b1c7bbdbac164517c050852ed3914897b52f0"
+    },
+    {
+      "path": "01_xiaohai_r4_lowerbody12/training_snapshot/files/gym/envs/pi_cl_12/pi_cl12_utils.py",
+      "bytes": 10811,
+      "sha256": "02773d0ea9f70c0ad30fe04b0b16e72497814d0853b17bb55f883503ceb93f8d"
+    },
+    {
+      "path": "01_xiaohai_r4_lowerbody12/training_snapshot/files/gym/envs/pi_cl_12/pi_cl12_vanilla.py",
+      "bytes": 16114,
+      "sha256": "ec82b379bc217cb2b0088673a5b99f73e90ec89cc733a655c01ee58a2a826960"
+    },
+    {
+      "path": "01_xiaohai_r4_lowerbody12/training_snapshot/files/gym/envs/pi_cl_12/pi_cl12_vanilla_config.py",
+      "bytes": 12965,
+      "sha256": "ea5943db2df723662ce30618f7545bcf02b1207b783f050b6d900bbd4ff41c21"
+    },
+    {
+      "path": "01_xiaohai_r4_lowerbody12/training_snapshot/files/gym/scripts/edu3_pulse_isaac.py",
+      "bytes": 2900,
+      "sha256": "7ee5dfb9e3df10520d1e9e4792b9948090cf439ccbb758789751530b9381dfbd"
+    },
+    {
+      "path": "01_xiaohai_r4_lowerbody12/training_snapshot/files/gym/scripts/lowerbody_pulse_gate_free.py",
+      "bytes": 2920,
+      "sha256": "13ca8183d48ee3c4976632e95da21369359c5f6e5e1b629a89581a51a2b9bbfe"
+    },
+    {
+      "path": "01_xiaohai_r4_lowerbody12/training_snapshot/files/gym/scripts/play.py",
+      "bytes": 9931,
+      "sha256": "709c375105b9e5f9513cf1b1f96c00d5f5c7f03865bb15182fd9be07f2dccb62"
+    },
+    {
+      "path": "01_xiaohai_r4_lowerbody12/training_snapshot/files/gym/scripts/play_edu3_strict.py",
+      "bytes": 6552,
+      "sha256": "1e14fd8d04ec5b98dd3fede3690cb01c0f70ea67f3b9a7e530e599d1f2ce1eed"
+    },
+    {
+      "path": "01_xiaohai_r4_lowerbody12/training_snapshot/files/gym/scripts/play_strict.py",
+      "bytes": 11287,
+      "sha256": "95f34fbf1c42bde9956798d2d00373d3035fb5c7adbec5bff1ad879f39fc4b7a"
+    },
+    {
+      "path": "01_xiaohai_r4_lowerbody12/training_snapshot/files/gym/scripts/play_xiaohai_envelope.py",
+      "bytes": 6926,
+      "sha256": "ac8f4d0ae1125773ab36f6b2aacb034f47e312677a4ccec00c1e6dd44f7d97ff"
+    },
+    {
+      "path": "01_xiaohai_r4_lowerbody12/training_snapshot/files/gym/scripts/plotting/__init__.py",
+      "bytes": 38,
+      "sha256": "89ceab38a78c50de24d1741a35be9de190b6b2a214c813ccb92e3d6a8e87260f"
+    },
+    {
+      "path": "01_xiaohai_r4_lowerbody12/training_snapshot/files/gym/scripts/plotting/live_plotting.py",
+      "bytes": 12633,
+      "sha256": "f13cd680a54683953f0362f305c62603b69cf2aedcd425ff509a11b9afe572ad"
+    },
+    {
+      "path": "01_xiaohai_r4_lowerbody12/training_snapshot/files/gym/scripts/plotting/npz_plotter.py",
+      "bytes": 25431,
+      "sha256": "52f03f3ed9f2ce8381c8ce71addb3d61da9925a36d40dd21d1618ff6f0e82108"
+    },
+    {
+      "path": "01_xiaohai_r4_lowerbody12/training_snapshot/files/gym/scripts/plotting/show_csv.py",
+      "bytes": 1783,
+      "sha256": "2fe422cb6882a1cf775ac104d06e84336295fed372f10f1ed259ae7a63613c7a"
+    },
+    {
+      "path": "01_xiaohai_r4_lowerbody12/training_snapshot/files/gym/scripts/pulse_gate.py",
+      "bytes": 2628,
+      "sha256": "35bc97f5a82924e17a5f4cec2a803566170a8e72470595b261eb87955800c739"
+    },
+    {
+      "path": "01_xiaohai_r4_lowerbody12/training_snapshot/files/gym/scripts/sim2sim.py",
+      "bytes": 8124,
+      "sha256": "21ae89e89a6025c2c03c5907da0f628cfdc1543f253b8afcd843f664db9a9e02"
+    },
+    {
+      "path": "01_xiaohai_r4_lowerbody12/training_snapshot/files/gym/scripts/sim2sim_hi_12dof.py",
+      "bytes": 13953,
+      "sha256": "cf9edfdb9c7a323404c6cf68a9b7e6d88935199412654637e1ffd69b4bcba3dc"
+    },
+    {
+      "path": "01_xiaohai_r4_lowerbody12/training_snapshot/files/gym/scripts/sim2sim_hi_12dof_eval.py",
+      "bytes": 14237,
+      "sha256": "346e55a4c995f8aa60b5394243689749015967c5bafefb81042810736c7eb800"
+    },
+    {
+      "path": "01_xiaohai_r4_lowerbody12/training_snapshot/files/gym/scripts/sim2sim_hi_12dof_video.py",
+      "bytes": 15228,
+      "sha256": "4463ee1e0f09a7da597728e00bf9eefc56c741964083a036ea7bed8014e760e8"
+    },
+    {
+      "path": "01_xiaohai_r4_lowerbody12/training_snapshot/files/gym/scripts/sim2sim_hi_cl_12dof.py",
+      "bytes": 14347,
+      "sha256": "20924cb6070b87dcefb30416cae431c25572d818c8dcd59bc30e393719701834"
+    },
+    {
+      "path": "01_xiaohai_r4_lowerbody12/training_snapshot/files/gym/scripts/sim2sim_pi.py",
+      "bytes": 14016,
+      "sha256": "a28185c2744e563e97c5674f1e2d212da585389aaab82f9db65eb5d8e4f3ed68"
+    },
+    {
+      "path": "01_xiaohai_r4_lowerbody12/training_snapshot/files/gym/scripts/sim2sim_pi_cl_12dof.py",
+      "bytes": 14093,
+      "sha256": "2a29053274031f95f587414f53a2a8ed1d5225061c5f8b6e7b23ca8ac446216a"
+    },
+    {
+      "path": "01_xiaohai_r4_lowerbody12/training_snapshot/files/gym/scripts/sweep.py",
+      "bytes": 2254,
+      "sha256": "7acb00566b0f3076aa68f59ef2ed884671ed7b54fe0a8cf1a22525fa6bef6d4e"
+    },
+    {
+      "path": "01_xiaohai_r4_lowerbody12/training_snapshot/files/gym/scripts/sweep_configs/sweep_config_cartpole.json",
+      "bytes": 976,
+      "sha256": "531a4a98044762d28ba9c2ac393841fa74997e14ea563031998399a772390275"
+    },
+    {
+      "path": "01_xiaohai_r4_lowerbody12/training_snapshot/files/gym/scripts/sweep_configs/sweep_config_example.json",
+      "bytes": 545,
+      "sha256": "c5371357c7c752e62b944f053895e47deb4c10783396ebe4323e6e76c5089f54"
+    },
+    {
+      "path": "01_xiaohai_r4_lowerbody12/training_snapshot/files/gym/scripts/sweep_configs/sweep_config_humanoid_controller.json",
+      "bytes": 976,
+      "sha256": "531a4a98044762d28ba9c2ac393841fa74997e14ea563031998399a772390275"
+    },
+    {
+      "path": "01_xiaohai_r4_lowerbody12/training_snapshot/files/gym/scripts/sweep_configs/sweep_config_pendulum.json",
+      "bytes": 977,
+      "sha256": "fe886fd4bd624dbe4423ee18fd9525d1fa1a828ccf14f51429bb3fc327835007"
+    },
+    {
+      "path": "01_xiaohai_r4_lowerbody12/training_snapshot/files/gym/scripts/sweep_configs/sweep_config_test_sweeps.json",
+      "bytes": 444,
+      "sha256": "a8e0c9c271eb27742b5885ace1afa2803aa2051be897495a5c2f283226d31da5"
+    },
+    {
+      "path": "01_xiaohai_r4_lowerbody12/training_snapshot/files/gym/scripts/test.py",
+      "bytes": 3995,
+      "sha256": "8266cd37447719e9f74b181e901974546fa363b7961f7504e131d2235dd1bb1b"
+    },
+    {
+      "path": "01_xiaohai_r4_lowerbody12/training_snapshot/files/gym/scripts/train.py",
+      "bytes": 3199,
+      "sha256": "ec4a07964a164df170139b1c5c8d3862fd3a5b62504fb59122d6409198f84e78"
+    },
+    {
+      "path": "01_xiaohai_r4_lowerbody12/training_snapshot/files/gym/scripts/train_edu3.py",
+      "bytes": 284,
+      "sha256": "4e66e24dd6e4e1f6216ffb056e59f145c1e869f41aa151b940f1476aa88b30d6"
+    },
+    {
+      "path": "01_xiaohai_r4_lowerbody12/training_snapshot/files/gym/scripts/train_edu3_timing.py",
+      "bytes": 3254,
+      "sha256": "35d052a30e7ab2545facf64be3a1d62a63f7171992e8468eeabff777987915d5"
+    },
+    {
+      "path": "01_xiaohai_r4_lowerbody12/training_snapshot/files/gym/tests/test_env.py",
+      "bytes": 2476,
+      "sha256": "0875a926cc10631acbc5d45aebd0f96b9541c762dcffe9327571dbfc456de436"
+    },
+    {
+      "path": "01_xiaohai_r4_lowerbody12/training_snapshot/files/gym/utils/__init__.py",
+      "bytes": 2318,
+      "sha256": "940c46200fcebff2d4320ae98c6fa5bac84e9440da0ae07233c262c477c65340"
+    },
+    {
+      "path": "01_xiaohai_r4_lowerbody12/training_snapshot/files/gym/utils/augmentor.py",
+      "bytes": 9305,
+      "sha256": "10210b497be84d565f3b5fb67cdf2829508d561ebd49fd47b26de5dc939d96e9"
+    },
+    {
+      "path": "01_xiaohai_r4_lowerbody12/training_snapshot/files/gym/utils/gait_scheduler.py",
+      "bytes": 7067,
+      "sha256": "0d77289d85d1a28d3b4792a9396df26db4a21cb42b6aaa35fe1fb2a8cc6be40a"
+    },
+    {
+      "path": "01_xiaohai_r4_lowerbody12/training_snapshot/files/gym/utils/helpers.py",
+      "bytes": 9853,
+      "sha256": "ac5717ad2471e288415c9167e95bcec7f5e9979204ad8562c79c90edb1e565b7"
+    },
+    {
+      "path": "01_xiaohai_r4_lowerbody12/training_snapshot/files/gym/utils/interfaces/GamepadInterface.py",
+      "bytes": 2644,
+      "sha256": "aea8df8c1ad67b085a584de32d049693c641cebb0963dcc07d670863fe54870b"
+    },
+    {
+      "path": "01_xiaohai_r4_lowerbody12/training_snapshot/files/gym/utils/interfaces/KeyboardInterface.py",
+      "bytes": 12562,
+      "sha256": "9f479e3e5b5d7fe2904e73538e30a787201849684372ae73194570e1475b8b70"
+    },
+    {
+      "path": "01_xiaohai_r4_lowerbody12/training_snapshot/files/gym/utils/interfaces/interfaces.py",
+      "bytes": 231,
+      "sha256": "035a2a815ed58c403044b34ea56f3de2b191275a6e9f2429f60ef79fd28e09a5"
+    },
+    {
+      "path": "01_xiaohai_r4_lowerbody12/training_snapshot/files/gym/utils/logger.py",
+      "bytes": 6167,
+      "sha256": "4008040970d0b20dfc2947c06da239654dcd3ced77208aff4d380ee2065fb79a"
+    },
+    {
+      "path": "01_xiaohai_r4_lowerbody12/training_snapshot/files/gym/utils/logging_and_saving/AnalysisRecorder.py",
+      "bytes": 21246,
+      "sha256": "4140b530eb7ae137efe20334cc38400b77e63de0202ba0164d3d502a2bff58c2"
+    },
+    {
+      "path": "01_xiaohai_r4_lowerbody12/training_snapshot/files/gym/utils/logging_and_saving/VisualizationRecorder.py",
+      "bytes": 3591,
+      "sha256": "af20570fefaa59794d2ce31a812704d399ff6da29da5ef538957966890749016"
+    },
+    {
+      "path": "01_xiaohai_r4_lowerbody12/training_snapshot/files/gym/utils/logging_and_saving/__init__.py",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "01_xiaohai_r4_lowerbody12/training_snapshot/files/gym/utils/logging_and_saving/local_code_save_helper.py",
+      "bytes": 1525,
+      "sha256": "068c0ec9ff5457f21579d114ab455f43cae6ada02f1f6d893b02039f394a8ecc"
+    },
+    {
+      "path": "01_xiaohai_r4_lowerbody12/training_snapshot/files/gym/utils/logging_and_saving/wandb_singleton.py",
+      "bytes": 4317,
+      "sha256": "42f8c795722e90df561fd719dce40883c46055f8e1b868abd8d4fe643a6c3204"
+    },
+    {
+      "path": "01_xiaohai_r4_lowerbody12/training_snapshot/files/gym/utils/math.py",
+      "bytes": 3114,
+      "sha256": "01f1858212fe5e855c3594c45bae875eb33b525682cdd68accf93f803fd3bb35"
+    },
+    {
+      "path": "01_xiaohai_r4_lowerbody12/training_snapshot/files/gym/utils/task_registry.py",
+      "bytes": 10241,
+      "sha256": "2dcca9d515c5a88549c024bf8947767e8b9dc27f6ce410e0d5376a550acb8508"
+    },
+    {
+      "path": "01_xiaohai_r4_lowerbody12/training_snapshot/files/gym/utils/terrain.py",
+      "bytes": 14123,
+      "sha256": "b56137697b219e7f48edd076dfd81f2100b09604af3d37514b1607f66a0cab22"
+    },
+    {
+      "path": "01_xiaohai_r4_lowerbody12/training_snapshot/files/gym/utils/wandb_helper.py",
+      "bytes": 819,
+      "sha256": "10c1fb34e5ce3190e8aabfd8ae78dd6d01ae9aa03ebe51d45707d660f63f54b4"
+    },
+    {
+      "path": "01_xiaohai_r4_lowerbody12/training_snapshot/files/learning/__init__.py",
+      "bytes": 1689,
+      "sha256": "d48de5fbb3d17befd9d1345ea8a53bbb682a0a3bb70433dcc554f5e8633ace59"
+    },
+    {
+      "path": "01_xiaohai_r4_lowerbody12/training_snapshot/files/learning/algorithms/__init__.py",
+      "bytes": 1713,
+      "sha256": "9ec970f2927ef4cc5851745b7ea4d6353900b5918433d2452124ac05b7f783e6"
+    },
+    {
+      "path": "01_xiaohai_r4_lowerbody12/training_snapshot/files/learning/algorithms/ppo.py",
+      "bytes": 9512,
+      "sha256": "33437c559110ea3160a7602c6b2bf77aa593d71a08b0ab76f14809eefeabb77a"
+    },
+    {
+      "path": "01_xiaohai_r4_lowerbody12/training_snapshot/files/learning/env/__init__.py",
+      "bytes": 1720,
+      "sha256": "db9cda11715dceee82c7a810fec932b44b60f6616fb9e30d9236b35a3b5bd1b3"
+    },
+    {
+      "path": "01_xiaohai_r4_lowerbody12/training_snapshot/files/learning/env/vec_env.py",
+      "bytes": 2649,
+      "sha256": "87006b543047074131a38e1bf76eaee492597b13ab638442158559cfb85db054"
+    },
+    {
+      "path": "01_xiaohai_r4_lowerbody12/training_snapshot/files/learning/modules/__init__.py",
+      "bytes": 1784,
+      "sha256": "0b73a1c5ef3fff61fe42482fbffab6c178ba2f39f0cb89155c79a8514830bc98"
+    },
+    {
+      "path": "01_xiaohai_r4_lowerbody12/training_snapshot/files/learning/modules/actor.py",
+      "bytes": 5397,
+      "sha256": "fdb0850f0e2aadc18f9f7c842b845e87328909718d9af4c79424db414a59bc7c"
+    },
+    {
+      "path": "01_xiaohai_r4_lowerbody12/training_snapshot/files/learning/modules/actor_critic.py",
+      "bytes": 5559,
+      "sha256": "32ed2d0094f56d7d1ffe99c7d9346652f92b1e622b2ee09b7fae7679db0aa1c2"
+    },
+    {
+      "path": "01_xiaohai_r4_lowerbody12/training_snapshot/files/learning/modules/actor_critic_DWAQ.py",
+      "bytes": 6075,
+      "sha256": "f1506f06724f36c72d17f72fc8cc36dcbe72ae494b1fae60c9a2abca8cfa3077"
+    },
+    {
+      "path": "01_xiaohai_r4_lowerbody12/training_snapshot/files/learning/modules/critic.py",
+      "bytes": 1937,
+      "sha256": "60bbd0612a3b52323af289bf5f15a81102cc224601512139aed1545b6623e156"
+    },
+    {
+      "path": "01_xiaohai_r4_lowerbody12/training_snapshot/files/learning/modules/estimator.py",
+      "bytes": 5351,
+      "sha256": "94fa36dd1d68de533d89dc976eebc8602135b589276984b40e9f2c99faca35bb"
+    },
+    {
+      "path": "01_xiaohai_r4_lowerbody12/training_snapshot/files/learning/modules/utils/__init__.py",
+      "bytes": 139,
+      "sha256": "7a4a489ae03f10d8d06bb86c5ec00a5abc24c4e48398997fb5d7ceac91e51fd0"
+    },
+    {
+      "path": "01_xiaohai_r4_lowerbody12/training_snapshot/files/learning/modules/utils/neural_net.py",
+      "bytes": 1824,
+      "sha256": "9d450828aa223eea89874a5cd6dba22ccc671b4bb1217eff76b2cb27d13f8279"
+    },
+    {
+      "path": "01_xiaohai_r4_lowerbody12/training_snapshot/files/learning/modules/utils/running_mean_std.py",
+      "bytes": 4131,
+      "sha256": "f272269aaf6577541a361a2845fa33042477b9f720bc87b8772ea311c19ce677"
+    },
+    {
+      "path": "01_xiaohai_r4_lowerbody12/training_snapshot/files/learning/runners/__init__.py",
+      "bytes": 1737,
+      "sha256": "e17481b321d860f226c11294997efe67861dabb9e50ca36038652e71b6809847"
+    },
+    {
+      "path": "01_xiaohai_r4_lowerbody12/training_snapshot/files/learning/runners/on_policy_runner.py",
+      "bytes": 16222,
+      "sha256": "f8b5654b985cb326691b76db70332b44c4457a226abbd0965972623a06590e8e"
+    },
+    {
+      "path": "01_xiaohai_r4_lowerbody12/training_snapshot/files/learning/storage/__init__.py",
+      "bytes": 137,
+      "sha256": "db16e5a4c8a127d38d1767431b2ad5655f54bb387cf1f0779fe8fdd049cb4676"
+    },
+    {
+      "path": "01_xiaohai_r4_lowerbody12/training_snapshot/files/learning/storage/base_storage.py",
+      "bytes": 1624,
+      "sha256": "f58408e2068b77a73a2c49a65173d04c9e23e13342b7f598a7df2b280c22365b"
+    },
+    {
+      "path": "01_xiaohai_r4_lowerbody12/training_snapshot/files/learning/storage/rollout_storage.py",
+      "bytes": 9418,
+      "sha256": "7968cff6fc54337547cf4e2c1aaba4ee7374eac4f18869e3af21dbd9031d91a8"
+    },
+    {
+      "path": "01_xiaohai_r4_lowerbody12/training_snapshot/files/learning/utils/__init__.py",
+      "bytes": 1789,
+      "sha256": "419f646b8664134556c05785c268afc8ad345f98a6bfe7174b575db64a8b3d9c"
+    },
+    {
+      "path": "01_xiaohai_r4_lowerbody12/training_snapshot/files/learning/utils/logging.py",
+      "bytes": 6623,
+      "sha256": "16ee497b79474682ff3b644d9f4c754796f83d0c4441a835d9eb4077184166ec"
+    },
+    {
+      "path": "01_xiaohai_r4_lowerbody12/training_snapshot/files/learning/utils/utils.py",
+      "bytes": 4444,
+      "sha256": "acdbbc4c9b7ba92f8895f6c47b7466159b098385d26fde1ffb17a54267304f61"
+    },
+    {
+      "path": "01_xiaohai_r4_lowerbody12/training_snapshot/requirements.txt",
+      "bytes": 1371,
+      "sha256": "04e05e178a0536423a32facc6b0e9dfd04f94d420e5b6466f50bb6fdc7b7b9ec"
+    },
+    {
+      "path": "01_xiaohai_r4_lowerbody12/training_snapshot/setup.py",
+      "bytes": 1159,
+      "sha256": "cce5852966857a4ed68986650f7835bd73b8b353f072a756ee0d7bc90584be60"
+    },
+    {
+      "path": "02_xingzhi_fullbody21/README.md",
+      "bytes": 1499,
+      "sha256": "40a5f84289d93b214a8b75701c8b8e64866197abbb461615d29dc1f92269cc7f"
+    },
+    {
+      "path": "02_xingzhi_fullbody21/eval/isaac_seed42.log",
+      "bytes": 16010,
+      "sha256": "7261bdcd3fcfe7bf0913c3307c4ad1a28c257ba2e061de04aded6dfd95ce4c09"
+    },
+    {
+      "path": "02_xingzhi_fullbody21/eval/isaac_seed42.npz",
+      "bytes": 380440,
+      "sha256": "353f985b47b1eea4f21802e8c4159d62620d16e8222fec6c19861541bcfea309"
+    },
+    {
+      "path": "02_xingzhi_fullbody21/eval/isaac_seed42.pid",
+      "bytes": 7,
+      "sha256": "4726386a4be177895a6cc3512e7ab94e2e242bf64affbd690f7d4c3c5a7b3b49"
+    },
+    {
+      "path": "02_xingzhi_fullbody21/eval/isaac_seed43.log",
+      "bytes": 16359,
+      "sha256": "727f6f4dc89c18356c9f206a9dfb17f67abda2a917bde956f97af65b7ad6d3fb"
+    },
+    {
+      "path": "02_xingzhi_fullbody21/eval/isaac_seed43.npz",
+      "bytes": 380440,
+      "sha256": "c9c5e1c0cb564b80d5ad1a575d87c7a72c75898e923e0455591fb91015170999"
+    },
+    {
+      "path": "02_xingzhi_fullbody21/eval/isaac_seed43.pid",
+      "bytes": 7,
+      "sha256": "08914ba5598e561e6e6dc7318bfc6b9767578310f5d48e8329c067b84e43b0ae"
+    },
+    {
+      "path": "02_xingzhi_fullbody21/eval/mujoco_seed42.log",
+      "bytes": 2512,
+      "sha256": "dacac74a8e4158720c04a87fadc8e59483046a3d7491c01c90544550a6a3b969"
+    },
+    {
+      "path": "02_xingzhi_fullbody21/eval/mujoco_seed42.mp4",
+      "bytes": 18361753,
+      "sha256": "2f19089afd9ff4ffc3aad93d65f50889d0c941cd0a7ed1f100d55973ce835565"
+    },
+    {
+      "path": "02_xingzhi_fullbody21/eval/mujoco_seed42.pid",
+      "bytes": 7,
+      "sha256": "ba1517debaedcce5eb7c90fb241ddb7eec1e410368639726590b474c5f9cb24e"
+    },
+    {
+      "path": "02_xingzhi_fullbody21/eval/mujoco_seed43.log",
+      "bytes": 2512,
+      "sha256": "ff6baaccaa2ad66af1f33f3de2f40c5a40b52029f6a0bba9e6d92f5b0c714941"
+    },
+    {
+      "path": "02_xingzhi_fullbody21/eval/mujoco_seed43.mp4",
+      "bytes": 17762669,
+      "sha256": "deee8f43125fd0b0522d19efb62a6b8936c8c23f1a50489ec59959c4a9e139f8"
+    },
+    {
+      "path": "02_xingzhi_fullbody21/eval/mujoco_seed43.pid",
+      "bytes": 7,
+      "sha256": "d422aad3db0e7139dad0f403113ff6a70c366f919344646b376ab9105a4c0fcd"
+    },
+    {
+      "path": "02_xingzhi_fullbody21/eval/true_25_10_exam/Xingzhi_Retrain_seed43_25_10Nm_MuJoCo_H264.mp4",
+      "bytes": 1734823,
+      "sha256": "957235691aa5b5e7e029fba08cc39870d0d3c1be5f1ab6e4c9b1f2561977a010"
+    },
+    {
+      "path": "02_xingzhi_fullbody21/eval/true_25_10_exam/Xingzhi_Retrain_seed43_25_10Nm_MuJoCo_raw.mp4",
+      "bytes": 10715061,
+      "sha256": "75113282b646e638e43156525702164ab5efb6e6e442568781cfc1a832acd929"
+    },
+    {
+      "path": "02_xingzhi_fullbody21/eval/true_25_10_exam/Xingzhi_Retrain_seed43_TRUE_25_10Nm_Isaac.log",
+      "bytes": 16417,
+      "sha256": "74b9fb5e0d5f4356d4247d7d4a2357bfb4a19d41de3a1433dc9442e4ed078e67"
+    },
+    {
+      "path": "02_xingzhi_fullbody21/eval/true_25_10_exam/Xingzhi_Retrain_seed43_TRUE_25_10Nm_Isaac.pid",
+      "bytes": 7,
+      "sha256": "d9cec249ed4b58065d60af7d1fd32d673df13b1664997e0b53d78a176052bcc3"
+    },
+    {
+      "path": "02_xingzhi_fullbody21/eval/true_25_10_exam/Xingzhi_Retrain_seed43_TRUE_25_10Nm_Isaac_H264.mp4",
+      "bytes": 417233,
+      "sha256": "dc5fd22c4be9a6b58d3e149a41c434d1c5c4cbdffedd684fa4c737cb0c60d646"
+    },
+    {
+      "path": "02_xingzhi_fullbody21/eval/true_25_10_exam/Xingzhi_Retrain_seed43_TRUE_25_10Nm_Isaac_dump.npz",
+      "bytes": 380440,
+      "sha256": "6c90c774457217c4dab2e23f6353dbfc57381bdd539703a14da4314c50e2b7d5"
+    },
+    {
+      "path": "02_xingzhi_fullbody21/eval/true_25_10_exam/Xingzhi_Retrain_seed43_TRUE_25_10Nm_MuJoCo_H264.mp4",
+      "bytes": 1700613,
+      "sha256": "2bc3c5cdee7d859209fdda5efe6b6dc25db8c37cbb44920d9c9ef0f44541c0f7"
+    },
+    {
+      "path": "02_xingzhi_fullbody21/eval/true_25_10_exam/Xingzhi_Retrain_seed43_TRUE_25_10Nm_MuJoCo_raw.mp4",
+      "bytes": 10396070,
+      "sha256": "07239529768f2e9b4946395a6e139fe1213352dfcb622f213398f6418b1c8af4"
+    },
+    {
+      "path": "02_xingzhi_fullbody21/framework_overlay/base/__init__.py",
+      "bytes": 2692,
+      "sha256": "b5d906268e923d0400bebdc5ebac3623f120a60d38a47727b5b9fca16b0f4422"
+    },
+    {
+      "path": "02_xingzhi_fullbody21/framework_overlay/base/agents/__init__.py",
+      "bytes": 1675,
+      "sha256": "b563e4e4c43f2cde76b259d91b1850f18acb93835d9085cd8503eb510df86ec0"
+    },
+    {
+      "path": "02_xingzhi_fullbody21/framework_overlay/base/agents/rpo_agent_cfg.py",
+      "bytes": 9127,
+      "sha256": "cbe45f1048539e5ef0533120318a923c77796ba4dfeed01c0102d77c74a2930a"
+    },
+    {
+      "path": "02_xingzhi_fullbody21/framework_overlay/base/base_config.py",
+      "bytes": 10906,
+      "sha256": "cd0b10d22009b54bc99ff8beafbd0cbc258dd400772a2137b12c318207412aff"
+    },
+    {
+      "path": "02_xingzhi_fullbody21/framework_overlay/base/base_env.py",
+      "bytes": 27981,
+      "sha256": "5e99986b419d543857b6ab5f48904449a0627f21542f8dde03776ce383f9ed14"
+    },
+    {
+      "path": "02_xingzhi_fullbody21/framework_overlay/base/mdp/__init__.py",
+      "bytes": 1827,
+      "sha256": "87fc5843cfda6ba5618b273f9d987d1b430e136e0360a36da93befc4d86c0b4b"
+    },
+    {
+      "path": "02_xingzhi_fullbody21/framework_overlay/base/mdp/rewards.py",
+      "bytes": 27442,
+      "sha256": "1cff60f311558cc4eda108fe7cdf2a7447e46bbea52d7eea4b1c22a34e40e43b"
+    },
+    {
+      "path": "02_xingzhi_fullbody21/framework_overlay/base/rpo_env_cfg.py",
+      "bytes": 9440,
+      "sha256": "d47d480bb2ed083fb9e7a7b0905893952b1183996ad6466f2036a38fd844a416"
+    },
+    {
+      "path": "02_xingzhi_fullbody21/framework_overlay/base/scene_cfg.py",
+      "bytes": 5657,
+      "sha256": "044bdb150189de11a51fa93390c44cec23445f75549202e9cd1e9443421f618d"
+    },
+    {
+      "path": "02_xingzhi_fullbody21/framework_overlay/base/terrain_generator_cfg.py",
+      "bytes": 7680,
+      "sha256": "1ac66c093c6bf0ef74c98c9303f4cd77afc034227229b0796bc375fc07682286"
+    },
+    {
+      "path": "02_xingzhi_fullbody21/framework_overlay/train.py",
+      "bytes": 11269,
+      "sha256": "ab17992c6693f35a0c72f9cb57055201ddc07899d087b554dccdd01fa1434169"
+    },
+    {
+      "path": "02_xingzhi_fullbody21/models/seed42/exported/policy.onnx",
+      "bytes": 2186556,
+      "sha256": "4d06b0fe6e5b73e7bbefec6d366159e9725153fd58735ce0c7e4fd6340759e15"
+    },
+    {
+      "path": "02_xingzhi_fullbody21/models/seed42/exported/policy.pt",
+      "bytes": 2197458,
+      "sha256": "7e9b1f9b315c0a435d65a17846d9698756268e84619136293b360e1b8376bc67"
+    },
+    {
+      "path": "02_xingzhi_fullbody21/models/seed42/model_5999.pt",
+      "bytes": 16604021,
+      "sha256": "9dbf47bc2912ce554674d5140767c753babcb9c05d793ddb931bd419ed3cf526"
+    },
+    {
+      "path": "02_xingzhi_fullbody21/models/seed42/params/agent.yaml",
+      "bytes": 1077,
+      "sha256": "5776d389e31b0771da52b29e91087b0f6ce683f21c3e2964fd36f5f90bbe6b8d"
+    },
+    {
+      "path": "02_xingzhi_fullbody21/models/seed42/params/env.yaml",
+      "bytes": 44799,
+      "sha256": "b2796dec8cf89dd51c1dd229e705fbd3b59505f9c14315276fa88a2abd18e370"
+    },
+    {
+      "path": "02_xingzhi_fullbody21/models/seed43/exported/policy.onnx",
+      "bytes": 2186556,
+      "sha256": "d17d2eef7f90ce7bd381a38ebedfc0c95e1607ebc2579749fcfdac88f7facea7"
+    },
+    {
+      "path": "02_xingzhi_fullbody21/models/seed43/exported/policy.pt",
+      "bytes": 2197458,
+      "sha256": "3cd80742e92e18641e759ca0135632aa1afec829b2397fd5e16133df5d7b71fb"
+    },
+    {
+      "path": "02_xingzhi_fullbody21/models/seed43/model_5999.pt",
+      "bytes": 16604021,
+      "sha256": "9f64added22a48220c65117110ecdbdc7de5fd5a550d76e2916a4e0b24241736"
+    },
+    {
+      "path": "02_xingzhi_fullbody21/models/seed43/params/agent.yaml",
+      "bytes": 1077,
+      "sha256": "a2519cc6c3069349615b64a61bbc321e9eef5648428fe5ef89538915ad434252"
+    },
+    {
+      "path": "02_xingzhi_fullbody21/models/seed43/params/env.yaml",
+      "bytes": 44799,
+      "sha256": "d51d39d53fd988a42a74440239f62b727145f2748945cf59a775e2c2a260692c"
+    },
+    {
+      "path": "02_xingzhi_fullbody21/original_package/external_edu3_flat_20260721/FINAL_VERIFICATION.md",
+      "bytes": 1983,
+      "sha256": "74a7b773132402d98dde9d8c6953918eb45e4a1eabd39901dfb07439db77b4b0"
+    },
+    {
+      "path": "02_xingzhi_fullbody21/original_package/external_edu3_flat_20260721/PACKAGE_SHA256SUMS",
+      "bytes": 4214,
+      "sha256": "a4bff78e07659b5350091e4d74ff2eb0bc93dc61ce03541ef49ea5a663a4e357"
+    },
+    {
+      "path": "02_xingzhi_fullbody21/original_package/external_edu3_flat_20260721/README.md",
+      "bytes": 3791,
+      "sha256": "3346b6cb94d397f71bb36490db54bc3a71b85b0fbd75bb9c4ca589af2ab86ab5"
+    },
+    {
+      "path": "02_xingzhi_fullbody21/original_package/external_edu3_flat_20260721/TRAIN_EDU3_FLAT.md",
+      "bytes": 1178,
+      "sha256": "ae45697ddbf14d7b5db479bfea4d4bb603d30f4b94f8c6d82b7dfa2d81ce372f"
+    },
+    {
+      "path": "02_xingzhi_fullbody21/original_package/external_edu3_flat_20260721/VERIFICATION.md",
+      "bytes": 574,
+      "sha256": "98ca72371f531c06ebd4ccc8c39b85c63d69e462a999e4bb70a7faee68548a8e"
+    },
+    {
+      "path": "02_xingzhi_fullbody21/original_package/external_edu3_flat_20260721/asset_manifest.json",
+      "bytes": 7608,
+      "sha256": "19e3fb460977800b4ebd08c505a3db6e1ae1f294dc5328020ad35f096005ea45"
+    },
+    {
+      "path": "02_xingzhi_fullbody21/original_package/external_edu3_flat_20260721/edu3_nqj13_flat/REWARDS.md",
+      "bytes": 1034,
+      "sha256": "05cdb2a36da5b8235c867d56f7f36b2b2a1dabd2d1c49d2dba57eb257074765d"
+    },
+    {
+      "path": "02_xingzhi_fullbody21/original_package/external_edu3_flat_20260721/edu3_nqj13_flat/__init__.py",
+      "bytes": 425,
+      "sha256": "50e3f19dce4b5178264d7a0d424b1e762c8b38fa84d0b10cc1dc0d750322e4a9"
+    },
+    {
+      "path": "02_xingzhi_fullbody21/original_package/external_edu3_flat_20260721/edu3_nqj13_flat/agents/__init__.py",
+      "bytes": 85,
+      "sha256": "eba86cac0332b83d2e9b897737eaca477c5636d2f69f18e453977f669082cd07"
+    },
+    {
+      "path": "02_xingzhi_fullbody21/original_package/external_edu3_flat_20260721/edu3_nqj13_flat/agents/edu3_flat_agent_cfg.py",
+      "bytes": 1584,
+      "sha256": "177e8c13c14c17b6d161cac8bc7a557a1607b90d973f1e0cbeae2e97c51af46b"
+    },
+    {
+      "path": "02_xingzhi_fullbody21/original_package/external_edu3_flat_20260721/edu3_nqj13_flat/edu3_flat_env.py",
+      "bytes": 711,
+      "sha256": "132b8b5bc8d87d976c88613e4a674aaf9bcfcd09d7892c4942bdfeb30b3a793a"
+    },
+    {
+      "path": "02_xingzhi_fullbody21/original_package/external_edu3_flat_20260721/edu3_nqj13_flat/edu3_flat_env_cfg.py",
+      "bytes": 11701,
+      "sha256": "e574b9da7332fd5c201dae59898d35f8273c6b1fda8100c9c928fd0557c5afd5"
+    },
+    {
+      "path": "02_xingzhi_fullbody21/original_package/external_edu3_flat_20260721/edu3_nqj13_flat/gait_params.py",
+      "bytes": 1283,
+      "sha256": "09f0cc06584d86893366eb17d684f44a2989a039f1028c38c47380567135420a"
+    },
+    {
+      "path": "02_xingzhi_fullbody21/original_package/external_edu3_flat_20260721/edu3_nqj13_flat/mdp/__init__.py",
+      "bytes": 303,
+      "sha256": "d672b7088eeabdf922f479bba9add1bbef54487127575b8b45e42efd173a8355"
+    },
+    {
+      "path": "02_xingzhi_fullbody21/original_package/external_edu3_flat_20260721/edu3_nqj13_flat/mdp/rewards.py",
+      "bytes": 5842,
+      "sha256": "88113b3611ca6f235294b472951af08a668a0a272879042cd08e935f7c64cc2f"
+    },
+    {
+      "path": "02_xingzhi_fullbody21/original_package/external_edu3_flat_20260721/edu3_nqj13_flat/robot_cfg.py",
+      "bytes": 1216,
+      "sha256": "9b3933896a50b3f5637a2261886fe3943e48c5b55336c7d3da05cc9e707c6e02"
+    },
+    {
+      "path": "02_xingzhi_fullbody21/original_package/external_edu3_flat_20260721/edu3_robot/__init__.py",
+      "bytes": 413,
+      "sha256": "4798f27f8b95a2f0169b74530e8c36bd43e05177101ff288a585f7004f15ab19"
+    },
+    {
+      "path": "02_xingzhi_fullbody21/original_package/external_edu3_flat_20260721/edu3_robot/edu3_legacy_friction_gate.py",
+      "bytes": 2157,
+      "sha256": "06459e05da155aafe0281bb607f28a33beb499a7f8abf0ba21c03747062aeeb3"
+    },
+    {
+      "path": "02_xingzhi_fullbody21/original_package/external_edu3_flat_20260721/edu3_robot/edu3_nqj13_trainable_cfg.py",
+      "bytes": 5800,
+      "sha256": "8a62e86c0e5d620646c7c69d49a75d237c4c4db8e6e8032e437ca06d7edba06c"
+    },
+    {
+      "path": "02_xingzhi_fullbody21/original_package/external_edu3_flat_20260721/edu3_robot/measured_friction_actuator.py",
+      "bytes": 2719,
+      "sha256": "306ed3a5c4dc1054642e2acf6d9ba52cdcd1ffd53856ad0f017a0103a7c645d4"
+    },
+    {
+      "path": "02_xingzhi_fullbody21/original_package/external_edu3_flat_20260721/integration/asset_manifest.json",
+      "bytes": 7608,
+      "sha256": "19e3fb460977800b4ebd08c505a3db6e1ae1f294dc5328020ad35f096005ea45"
+    },
+    {
+      "path": "02_xingzhi_fullbody21/original_package/external_edu3_flat_20260721/integration/edu3_nqj13_flat_external/REWARDS.md",
+      "bytes": 1034,
+      "sha256": "05cdb2a36da5b8235c867d56f7f36b2b2a1dabd2d1c49d2dba57eb257074765d"
+    },
+    {
+      "path": "02_xingzhi_fullbody21/original_package/external_edu3_flat_20260721/integration/edu3_nqj13_flat_external/__init__.py",
+      "bytes": 470,
+      "sha256": "a47049bd1b7a043a6cdab220e20b37ae1793a032e4fafbc173eb17fa6ac2c368"
+    },
+    {
+      "path": "02_xingzhi_fullbody21/original_package/external_edu3_flat_20260721/integration/edu3_nqj13_flat_external/agents/__init__.py",
+      "bytes": 85,
+      "sha256": "eba86cac0332b83d2e9b897737eaca477c5636d2f69f18e453977f669082cd07"
+    },
+    {
+      "path": "02_xingzhi_fullbody21/original_package/external_edu3_flat_20260721/integration/edu3_nqj13_flat_external/agents/edu3_flat_agent_cfg.py",
+      "bytes": 1584,
+      "sha256": "177e8c13c14c17b6d161cac8bc7a557a1607b90d973f1e0cbeae2e97c51af46b"
+    },
+    {
+      "path": "02_xingzhi_fullbody21/original_package/external_edu3_flat_20260721/integration/edu3_nqj13_flat_external/edu3_flat_env.py",
+      "bytes": 711,
+      "sha256": "132b8b5bc8d87d976c88613e4a674aaf9bcfcd09d7892c4942bdfeb30b3a793a"
+    },
+    {
+      "path": "02_xingzhi_fullbody21/original_package/external_edu3_flat_20260721/integration/edu3_nqj13_flat_external/edu3_flat_env_cfg.py",
+      "bytes": 11701,
+      "sha256": "e574b9da7332fd5c201dae59898d35f8273c6b1fda8100c9c928fd0557c5afd5"
+    },
+    {
+      "path": "02_xingzhi_fullbody21/original_package/external_edu3_flat_20260721/integration/edu3_nqj13_flat_external/gait_params.py",
+      "bytes": 1283,
+      "sha256": "09f0cc06584d86893366eb17d684f44a2989a039f1028c38c47380567135420a"
+    },
+    {
+      "path": "02_xingzhi_fullbody21/original_package/external_edu3_flat_20260721/integration/edu3_nqj13_flat_external/mdp/__init__.py",
+      "bytes": 303,
+      "sha256": "d672b7088eeabdf922f479bba9add1bbef54487127575b8b45e42efd173a8355"
+    },
+    {
+      "path": "02_xingzhi_fullbody21/original_package/external_edu3_flat_20260721/integration/edu3_nqj13_flat_external/mdp/rewards.py",
+      "bytes": 5842,
+      "sha256": "88113b3611ca6f235294b472951af08a668a0a272879042cd08e935f7c64cc2f"
+    },
+    {
+      "path": "02_xingzhi_fullbody21/original_package/external_edu3_flat_20260721/integration/edu3_nqj13_flat_external/robot_cfg.py",
+      "bytes": 1216,
+      "sha256": "9b3933896a50b3f5637a2261886fe3943e48c5b55336c7d3da05cc9e707c6e02"
+    },
+    {
+      "path": "02_xingzhi_fullbody21/original_package/external_edu3_flat_20260721/integration/edu3_robot/__init__.py",
+      "bytes": 413,
+      "sha256": "4798f27f8b95a2f0169b74530e8c36bd43e05177101ff288a585f7004f15ab19"
+    },
+    {
+      "path": "02_xingzhi_fullbody21/original_package/external_edu3_flat_20260721/integration/edu3_robot/edu3_legacy_friction_gate.py",
+      "bytes": 2157,
+      "sha256": "06459e05da155aafe0281bb607f28a33beb499a7f8abf0ba21c03747062aeeb3"
+    },
+    {
+      "path": "02_xingzhi_fullbody21/original_package/external_edu3_flat_20260721/integration/edu3_robot/edu3_nqj13_trainable_cfg.py",
+      "bytes": 5800,
+      "sha256": "8a62e86c0e5d620646c7c69d49a75d237c4c4db8e6e8032e437ca06d7edba06c"
+    },
+    {
+      "path": "02_xingzhi_fullbody21/original_package/external_edu3_flat_20260721/integration/edu3_robot/measured_friction_actuator.py",
+      "bytes": 2719,
+      "sha256": "306ed3a5c4dc1054642e2acf6d9ba52cdcd1ffd53856ad0f017a0103a7c645d4"
+    },
+    {
+      "path": "02_xingzhi_fullbody21/original_package/external_edu3_flat_20260721/integration/external_compat_patch.py",
+      "bytes": 6773,
+      "sha256": "15680951c56630a60af7b86a9439af1e53ebcd92aa100b20ae9c07c459c9a4e1"
+    },
+    {
+      "path": "02_xingzhi_fullbody21/original_package/external_edu3_flat_20260721/integration/external_mujoco_eval.py",
+      "bytes": 7992,
+      "sha256": "85708f7444b59725c2f67f4ad702883b8e17bd2d6e8e9f043e2a94fd123171b8"
+    },
+    {
+      "path": "02_xingzhi_fullbody21/original_package/external_edu3_flat_20260721/integration/external_play_eval.py",
+      "bytes": 23806,
+      "sha256": "4a904074e3a8d899476294453f0bb0922738f56b75e616e1f363a263be6b6ab1"
+    },
+    {
+      "path": "02_xingzhi_fullbody21/original_package/external_edu3_flat_20260721/integration/finalize_runtime_readback_external.py",
+      "bytes": 5398,
+      "sha256": "a9ae5ecdfac8eccd7abd1d96e92070287ae0b8dc4af3f0f92bbce3692617f7eb"
+    },
+    {
+      "path": "02_xingzhi_fullbody21/original_package/external_edu3_flat_20260721/integration/launch_external_probe_dual_gpu.sh",
+      "bytes": 1982,
+      "sha256": "2b6500b5f7f5c36b1cb16a217d0e4fe6a849e113eb97f7aa6f009a61b1a35e43"
+    },
+    {
+      "path": "02_xingzhi_fullbody21/original_package/external_edu3_flat_20260721/integration/meshes/base_link.STL",
+      "bytes": 4870084,
+      "sha256": "b46e15f130e5a57ebe0b2ff47606615f51e005744b1a017d537351aa1f0b90d9"
+    },
+    {
+      "path": "02_xingzhi_fullbody21/original_package/external_edu3_flat_20260721/integration/meshes/link_1.STL",
+      "bytes": 197584,
+      "sha256": "7664d4472ed7f5113d9c69b1a3c37700cee79183ac51914d3f202ffc1abb58f8"
+    },
+    {
+      "path": "02_xingzhi_fullbody21/original_package/external_edu3_flat_20260721/integration/meshes/link_10.STL",
+      "bytes": 2425384,
+      "sha256": "faba313a2e324e91e9400199266ba2a4bf9d300d738f6c5a18ded62e9577c168"
+    },
+    {
+      "path": "02_xingzhi_fullbody21/original_package/external_edu3_flat_20260721/integration/meshes/link_11.STL",
+      "bytes": 105984,
+      "sha256": "d2ee5ae08f081093b6b542384afeb0b3f38794d8c8f0bcde62f350a2007d5b24"
+    },
+    {
+      "path": "02_xingzhi_fullbody21/original_package/external_edu3_flat_20260721/integration/meshes/link_12.STL",
+      "bytes": 442584,
+      "sha256": "56cb60a0ab72fa025c0d72b8abe3c4766c30b997e0c76561eae2846831e7e15c"
+    },
+    {
+      "path": "02_xingzhi_fullbody21/original_package/external_edu3_flat_20260721/integration/meshes/link_13.STL",
+      "bytes": 1292484,
+      "sha256": "b478e95f4b93b7637fdd5a58c5a63fce5e41f02e5d0a003de2803916f67f7be0"
+    },
+    {
+      "path": "02_xingzhi_fullbody21/original_package/external_edu3_flat_20260721/integration/meshes/link_14.STL",
+      "bytes": 270084,
+      "sha256": "9af33663f0be2e80081f7caa647cab20c1cd73840a7bd84cafcda18a6aeeb5ae"
+    },
+    {
+      "path": "02_xingzhi_fullbody21/original_package/external_edu3_flat_20260721/integration/meshes/link_15.STL",
+      "bytes": 143584,
+      "sha256": "0ca54186f1cc94134416eecdeccf3a8a969ae21a36225d1e5fba111d7f5d1aa2"
+    },
+    {
+      "path": "02_xingzhi_fullbody21/original_package/external_edu3_flat_20260721/integration/meshes/link_16.STL",
+      "bytes": 168384,
+      "sha256": "fe049105a5fafd06b64fbbeb495a97f2c5737d8668f4c14f6932b843d2811c99"
+    },
+    {
+      "path": "02_xingzhi_fullbody21/original_package/external_edu3_flat_20260721/integration/meshes/link_17.STL",
+      "bytes": 230884,
+      "sha256": "f693e59ead1e110c98b470e7d86e3df9c9a8a8ac0ba816371f33504e190bfbf3"
+    },
+    {
+      "path": "02_xingzhi_fullbody21/original_package/external_edu3_flat_20260721/integration/meshes/link_19.STL",
+      "bytes": 270084,
+      "sha256": "2ebf41801d8578642ece403d8877c1339e6ea40de290f919c1932038eae5dade"
+    },
+    {
+      "path": "02_xingzhi_fullbody21/original_package/external_edu3_flat_20260721/integration/meshes/link_2.STL",
+      "bytes": 143884,
+      "sha256": "dd791cd2902d22da4cce85ba51b7c10c5cbb0e5aab4b738eb97fced3e9a615f5"
+    },
+    {
+      "path": "02_xingzhi_fullbody21/original_package/external_edu3_flat_20260721/integration/meshes/link_20.STL",
+      "bytes": 143584,
+      "sha256": "685659a3cdc8e20c5c284e545cffd9ae30fdf3a2c51627b04b3439ef17f2d5fc"
+    },
+    {
+      "path": "02_xingzhi_fullbody21/original_package/external_edu3_flat_20260721/integration/meshes/link_21.STL",
+      "bytes": 168284,
+      "sha256": "5ab8aba5cb2fc376c7ca338f24e3e57ecf4af69c53de629ad68696535fbd4c39"
+    },
+    {
+      "path": "02_xingzhi_fullbody21/original_package/external_edu3_flat_20260721/integration/meshes/link_22.STL",
+      "bytes": 230884,
+      "sha256": "c7a97564a049e8d0a123748c0bcf9b9d16932a3f70945fcfc12ca3517721b457"
+    },
+    {
+      "path": "02_xingzhi_fullbody21/original_package/external_edu3_flat_20260721/integration/meshes/link_3.STL",
+      "bytes": 332084,
+      "sha256": "94df510ba74ec5e033d352fd6dd4c2ba0beffdbaf60e7bfd7fb23260580e9398"
+    },
+    {
+      "path": "02_xingzhi_fullbody21/original_package/external_edu3_flat_20260721/integration/meshes/link_4.STL",
+      "bytes": 2425484,
+      "sha256": "ee04be722306d0a429068bfe2f8ffb0352ccd54a56e1e472cbe450e80cac2920"
+    },
+    {
+      "path": "02_xingzhi_fullbody21/original_package/external_edu3_flat_20260721/integration/meshes/link_5.STL",
+      "bytes": 105984,
+      "sha256": "ecd0306c8c605399a7a8ad103468aecf464f7f41bbf6bd84bb6298f7b8457b37"
+    },
+    {
+      "path": "02_xingzhi_fullbody21/original_package/external_edu3_flat_20260721/integration/meshes/link_6.STL",
+      "bytes": 442584,
+      "sha256": "2a977dbc89665b07e86e84614f60725c89b5228a6c34aa016a1c36fffbb7e3a4"
+    },
+    {
+      "path": "02_xingzhi_fullbody21/original_package/external_edu3_flat_20260721/integration/meshes/link_7.STL",
+      "bytes": 197284,
+      "sha256": "2f0a8a646538a8561eef80f8a016b7d15d09297d603530bc212dcda879d55459"
+    },
+    {
+      "path": "02_xingzhi_fullbody21/original_package/external_edu3_flat_20260721/integration/meshes/link_8.STL",
+      "bytes": 143884,
+      "sha256": "b0ba210a8911fef18a242fbe8a6e71759b255326c170074476b04fffe4eb7a34"
+    },
+    {
+      "path": "02_xingzhi_fullbody21/original_package/external_edu3_flat_20260721/integration/meshes/link_9.STL",
+      "bytes": 331984,
+      "sha256": "9e3fcb0b82545d3b385faf548dbbdace196a84c0856278d65cd6147f64592746"
+    },
+    {
+      "path": "02_xingzhi_fullbody21/original_package/external_edu3_flat_20260721/integration/runtime_readback_external.py",
+      "bytes": 7552,
+      "sha256": "3de7917cf6e05014884862ef429d56623c80de21f26156498ea0675bfa1233ba"
+    },
+    {
+      "path": "02_xingzhi_fullbody21/original_package/external_edu3_flat_20260721/integration/train_external_copy.py",
+      "bytes": 11491,
+      "sha256": "8064adafa7f33393f727f09dd9f75367b930c900826b0da96439f9a5f7b8170b"
+    },
+    {
+      "path": "02_xingzhi_fullbody21/original_package/external_edu3_flat_20260721/integration/train_external_edu3.py",
+      "bytes": 494,
+      "sha256": "e9dd06caa4ea38c4697f2d54f62cff704245959df6b73824f67d2e8ed0f1738e"
+    },
+    {
+      "path": "02_xingzhi_fullbody21/original_package/external_edu3_flat_20260721/integration/urdf/edu3_nqj13_trainable_fullbody.urdf",
+      "bytes": 27415,
+      "sha256": "f989ed31778c14587c43491b52b9f427a05ca268ddc53d77beb91589a168c0f0"
+    },
+    {
+      "path": "02_xingzhi_fullbody21/original_package/external_edu3_flat_20260721/integration/usd/.asset_hash",
+      "bytes": 32,
+      "sha256": "d753c50734514e67b074f87c87ffbc740e1054214a8b46fd142487ba3543090e"
+    },
+    {
+      "path": "02_xingzhi_fullbody21/original_package/external_edu3_flat_20260721/integration/usd/config.yaml",
+      "bytes": 719,
+      "sha256": "94a2e8df3668ebeb08e26baef7d446bdd0c084c9d0b9a69e446a9239508192fb"
+    },
+    {
+      "path": "02_xingzhi_fullbody21/original_package/external_edu3_flat_20260721/integration/usd/configuration/edu3_nqj13_trainable_fullbody_base.usd",
+      "bytes": 21528073,
+      "sha256": "3669243b83b697e6ba13cd09827bd996d2b5f95341b1bb0160ccbde97eecbc00"
+    },
+    {
+      "path": "02_xingzhi_fullbody21/original_package/external_edu3_flat_20260721/integration/usd/configuration/edu3_nqj13_trainable_fullbody_physics.usd",
+      "bytes": 7796,
+      "sha256": "abab5b7fb372a8ffb55f0b26b7c9afb9cfb618cf1c8bbb9060218b2249042fce"
+    },
+    {
+      "path": "02_xingzhi_fullbody21/original_package/external_edu3_flat_20260721/integration/usd/configuration/edu3_nqj13_trainable_fullbody_robot.usd",
+      "bytes": 2361,
+      "sha256": "994162face263629f95f130a7724d15d4c9e895f0dbe1f42a0569ec068ded973"
+    },
+    {
+      "path": "02_xingzhi_fullbody21/original_package/external_edu3_flat_20260721/integration/usd/configuration/edu3_nqj13_trainable_fullbody_sensor.usd",
+      "bytes": 669,
+      "sha256": "72d8e503116078267720230ca1010f6581fe1908b32ba512fdff3ed9557d8767"
+    },
+    {
+      "path": "02_xingzhi_fullbody21/original_package/external_edu3_flat_20260721/integration/usd/edu3_nqj13_trainable_fullbody.usd",
+      "bytes": 2243,
+      "sha256": "057c53a757f5d6e9516d1024186c05b8fdf424e3e4134c8a567409864251b320"
+    },
+    {
+      "path": "02_xingzhi_fullbody21/original_package/external_edu3_flat_20260721/integration/xingzhi_exact_isaac_eval.py",
+      "bytes": 23385,
+      "sha256": "40028d80abe0a7184155ad12acc57443d27e87a38be1133c807227ac62580429"
+    },
+    {
+      "path": "02_xingzhi_fullbody21/original_package/external_edu3_flat_20260721/meshes/base_link.STL",
+      "bytes": 4870084,
+      "sha256": "b46e15f130e5a57ebe0b2ff47606615f51e005744b1a017d537351aa1f0b90d9"
+    },
+    {
+      "path": "02_xingzhi_fullbody21/original_package/external_edu3_flat_20260721/meshes/link_1.STL",
+      "bytes": 197584,
+      "sha256": "7664d4472ed7f5113d9c69b1a3c37700cee79183ac51914d3f202ffc1abb58f8"
+    },
+    {
+      "path": "02_xingzhi_fullbody21/original_package/external_edu3_flat_20260721/meshes/link_10.STL",
+      "bytes": 2425384,
+      "sha256": "faba313a2e324e91e9400199266ba2a4bf9d300d738f6c5a18ded62e9577c168"
+    },
+    {
+      "path": "02_xingzhi_fullbody21/original_package/external_edu3_flat_20260721/meshes/link_11.STL",
+      "bytes": 105984,
+      "sha256": "d2ee5ae08f081093b6b542384afeb0b3f38794d8c8f0bcde62f350a2007d5b24"
+    },
+    {
+      "path": "02_xingzhi_fullbody21/original_package/external_edu3_flat_20260721/meshes/link_12.STL",
+      "bytes": 442584,
+      "sha256": "56cb60a0ab72fa025c0d72b8abe3c4766c30b997e0c76561eae2846831e7e15c"
+    },
+    {
+      "path": "02_xingzhi_fullbody21/original_package/external_edu3_flat_20260721/meshes/link_13.STL",
+      "bytes": 1292484,
+      "sha256": "b478e95f4b93b7637fdd5a58c5a63fce5e41f02e5d0a003de2803916f67f7be0"
+    },
+    {
+      "path": "02_xingzhi_fullbody21/original_package/external_edu3_flat_20260721/meshes/link_14.STL",
+      "bytes": 270084,
+      "sha256": "9af33663f0be2e80081f7caa647cab20c1cd73840a7bd84cafcda18a6aeeb5ae"
+    },
+    {
+      "path": "02_xingzhi_fullbody21/original_package/external_edu3_flat_20260721/meshes/link_15.STL",
+      "bytes": 143584,
+      "sha256": "0ca54186f1cc94134416eecdeccf3a8a969ae21a36225d1e5fba111d7f5d1aa2"
+    },
+    {
+      "path": "02_xingzhi_fullbody21/original_package/external_edu3_flat_20260721/meshes/link_16.STL",
+      "bytes": 168384,
+      "sha256": "fe049105a5fafd06b64fbbeb495a97f2c5737d8668f4c14f6932b843d2811c99"
+    },
+    {
+      "path": "02_xingzhi_fullbody21/original_package/external_edu3_flat_20260721/meshes/link_17.STL",
+      "bytes": 230884,
+      "sha256": "f693e59ead1e110c98b470e7d86e3df9c9a8a8ac0ba816371f33504e190bfbf3"
+    },
+    {
+      "path": "02_xingzhi_fullbody21/original_package/external_edu3_flat_20260721/meshes/link_19.STL",
+      "bytes": 270084,
+      "sha256": "2ebf41801d8578642ece403d8877c1339e6ea40de290f919c1932038eae5dade"
+    },
+    {
+      "path": "02_xingzhi_fullbody21/original_package/external_edu3_flat_20260721/meshes/link_2.STL",
+      "bytes": 143884,
+      "sha256": "dd791cd2902d22da4cce85ba51b7c10c5cbb0e5aab4b738eb97fced3e9a615f5"
+    },
+    {
+      "path": "02_xingzhi_fullbody21/original_package/external_edu3_flat_20260721/meshes/link_20.STL",
+      "bytes": 143584,
+      "sha256": "685659a3cdc8e20c5c284e545cffd9ae30fdf3a2c51627b04b3439ef17f2d5fc"
+    },
+    {
+      "path": "02_xingzhi_fullbody21/original_package/external_edu3_flat_20260721/meshes/link_21.STL",
+      "bytes": 168284,
+      "sha256": "5ab8aba5cb2fc376c7ca338f24e3e57ecf4af69c53de629ad68696535fbd4c39"
+    },
+    {
+      "path": "02_xingzhi_fullbody21/original_package/external_edu3_flat_20260721/meshes/link_22.STL",
+      "bytes": 230884,
+      "sha256": "c7a97564a049e8d0a123748c0bcf9b9d16932a3f70945fcfc12ca3517721b457"
+    },
+    {
+      "path": "02_xingzhi_fullbody21/original_package/external_edu3_flat_20260721/meshes/link_3.STL",
+      "bytes": 332084,
+      "sha256": "94df510ba74ec5e033d352fd6dd4c2ba0beffdbaf60e7bfd7fb23260580e9398"
+    },
+    {
+      "path": "02_xingzhi_fullbody21/original_package/external_edu3_flat_20260721/meshes/link_4.STL",
+      "bytes": 2425484,
+      "sha256": "ee04be722306d0a429068bfe2f8ffb0352ccd54a56e1e472cbe450e80cac2920"
+    },
+    {
+      "path": "02_xingzhi_fullbody21/original_package/external_edu3_flat_20260721/meshes/link_5.STL",
+      "bytes": 105984,
+      "sha256": "ecd0306c8c605399a7a8ad103468aecf464f7f41bbf6bd84bb6298f7b8457b37"
+    },
+    {
+      "path": "02_xingzhi_fullbody21/original_package/external_edu3_flat_20260721/meshes/link_6.STL",
+      "bytes": 442584,
+      "sha256": "2a977dbc89665b07e86e84614f60725c89b5228a6c34aa016a1c36fffbb7e3a4"
+    },
+    {
+      "path": "02_xingzhi_fullbody21/original_package/external_edu3_flat_20260721/meshes/link_7.STL",
+      "bytes": 197284,
+      "sha256": "2f0a8a646538a8561eef80f8a016b7d15d09297d603530bc212dcda879d55459"
+    },
+    {
+      "path": "02_xingzhi_fullbody21/original_package/external_edu3_flat_20260721/meshes/link_8.STL",
+      "bytes": 143884,
+      "sha256": "b0ba210a8911fef18a242fbe8a6e71759b255326c170074476b04fffe4eb7a34"
+    },
+    {
+      "path": "02_xingzhi_fullbody21/original_package/external_edu3_flat_20260721/meshes/link_9.STL",
+      "bytes": 331984,
+      "sha256": "9e3fcb0b82545d3b385faf548dbbdace196a84c0856278d65cd6147f64592746"
+    },
+    {
+      "path": "02_xingzhi_fullbody21/original_package/external_edu3_flat_20260721/mjcf/edu3_nqj13_trainable_fullbody.xml",
+      "bytes": 26527,
+      "sha256": "27bcafacf9b713f88ca81e887d6d31f6fff25bfc0b5754445643775b91347853"
+    },
+    {
+      "path": "02_xingzhi_fullbody21/original_package/external_edu3_flat_20260721/provenance/raw.urdf",
+      "bytes": 30140,
+      "sha256": "e3a444c38e1a975d5fdf66d5121eab74b7e5858da714aff48965aecdfe0439e9"
+    },
+    {
+      "path": "02_xingzhi_fullbody21/original_package/external_edu3_flat_20260721/provenance/reference.urdf",
+      "bytes": 27415,
+      "sha256": "f989ed31778c14587c43491b52b9f427a05ca268ddc53d77beb91589a168c0f0"
+    },
+    {
+      "path": "02_xingzhi_fullbody21/original_package/external_edu3_flat_20260721/provenance/runtime_readback_probe.json",
+      "bytes": 24345,
+      "sha256": "47a297af5bab632ca3cfe721aa51ebca76dac39c765d538ff9139168463f29cb"
+    },
+    {
+      "path": "02_xingzhi_fullbody21/original_package/external_edu3_flat_20260721/provenance/runtime_readback_probe_final.json",
+      "bytes": 6406,
+      "sha256": "91b9bf5b05867ec9fb378b2dbfcee1e5fc29fdad33c0214221b43ab4651ede89"
+    },
+    {
+      "path": "02_xingzhi_fullbody21/original_package/external_edu3_flat_20260721/provenance/runtime_verify.md",
+      "bytes": 435,
+      "sha256": "4d684fb0bf5214c0ac17a091e2e2a1e91df5e6bd116c5bd32653ea32129d3d4c"
+    },
+    {
+      "path": "02_xingzhi_fullbody21/original_package/external_edu3_flat_20260721/scripts/mujoco/edu3_sim/actuator_backend.py",
+      "bytes": 976,
+      "sha256": "c46c118c3420ce94880d418681cd8396f8511284fd633d1456180e2d34c73968"
+    },
+    {
+      "path": "02_xingzhi_fullbody21/original_package/external_edu3_flat_20260721/scripts/mujoco/edu3_sim/edu3_deploy_config.py",
+      "bytes": 4734,
+      "sha256": "670a79d4bd4a1839f39e6e17826eb7aacc6c8c38d3d2ce684982061523910442"
+    },
+    {
+      "path": "02_xingzhi_fullbody21/original_package/external_edu3_flat_20260721/scripts/mujoco/edu3_sim/isaac_joint_names.txt",
+      "bytes": 442,
+      "sha256": "5fc3f353ed7b4a4a6afa74e920e14ad3b7216fd8c8a6da6d91f59d73c022475f"
+    },
+    {
+      "path": "02_xingzhi_fullbody21/original_package/external_edu3_flat_20260721/scripts/mujoco/edu3_sim/joint_order.py",
+      "bytes": 3013,
+      "sha256": "603612989d9e5f191b1665746bb99cb9d042e84148a339c4037d6a59063a4f38"
+    },
+    {
+      "path": "02_xingzhi_fullbody21/original_package/external_edu3_flat_20260721/scripts/mujoco/edu3_sim/sim2sim_edu3.py",
+      "bytes": 20111,
+      "sha256": "50bab7ca47919aa013398f64394beaa2ed6296e9683277ea4e3f4b82b450bb40"
+    },
+    {
+      "path": "02_xingzhi_fullbody21/original_package/external_edu3_flat_20260721/scripts/mujoco/edu3_sim/simulation.mp4",
+      "bytes": 31247783,
+      "sha256": "b260a58c465d898b45dd034f88472c07580c77aaa17d24f34e2dd903193be361"
+    },
+    {
+      "path": "02_xingzhi_fullbody21/original_package/external_edu3_flat_20260721/tools/build_trainable_edu3_nqj13.py",
+      "bytes": 14349,
+      "sha256": "b4f9f46add72c20525c1d7201ef4fccae974c08ec9c359c11c1f2da0899bd52f"
+    },
+    {
+      "path": "02_xingzhi_fullbody21/original_package/external_edu3_flat_20260721/tools/edu3_usd_patch_friction_kit.py",
+      "bytes": 1400,
+      "sha256": "d688162caa97a7bd7f5c76904be1823c1132140a312a8a0c61ec4874e538e4b0"
+    },
+    {
+      "path": "02_xingzhi_fullbody21/original_package/external_edu3_flat_20260721/tools/edu3_usd_strict_validate_kit.py",
+      "bytes": 3668,
+      "sha256": "117752b61efb74d79525777ce70741be9d76716a84ed21602d2a0b49b0fb4da8"
+    },
+    {
+      "path": "02_xingzhi_fullbody21/original_package/external_edu3_flat_20260721/tools/isaaclab_16env_smoke.py",
+      "bytes": 2175,
+      "sha256": "633e3ae6029ccb8d47a8e72723ece9727ac505f5e148fd4a527dab8c88f5e403"
+    },
+    {
+      "path": "02_xingzhi_fullbody21/original_package/external_edu3_flat_20260721/tools/verify_trainable_edu3_nqj13.py",
+      "bytes": 10058,
+      "sha256": "25b36e4dc6716ed16f71f78827907095d274dcb6ae7918ba9c0d3e580e98f213"
+    },
+    {
+      "path": "02_xingzhi_fullbody21/original_package/external_edu3_flat_20260721/urdf/edu3_nqj13_trainable_fullbody.urdf",
+      "bytes": 27415,
+      "sha256": "f989ed31778c14587c43491b52b9f427a05ca268ddc53d77beb91589a168c0f0"
+    },
+    {
+      "path": "02_xingzhi_fullbody21/original_package/external_edu3_flat_20260721/usd/.asset_hash",
+      "bytes": 32,
+      "sha256": "d753c50734514e67b074f87c87ffbc740e1054214a8b46fd142487ba3543090e"
+    },
+    {
+      "path": "02_xingzhi_fullbody21/original_package/external_edu3_flat_20260721/usd/config.yaml",
+      "bytes": 719,
+      "sha256": "94a2e8df3668ebeb08e26baef7d446bdd0c084c9d0b9a69e446a9239508192fb"
+    },
+    {
+      "path": "02_xingzhi_fullbody21/original_package/external_edu3_flat_20260721/usd/configuration/edu3_nqj13_trainable_fullbody_base.usd",
+      "bytes": 21528073,
+      "sha256": "3669243b83b697e6ba13cd09827bd996d2b5f95341b1bb0160ccbde97eecbc00"
+    },
+    {
+      "path": "02_xingzhi_fullbody21/original_package/external_edu3_flat_20260721/usd/configuration/edu3_nqj13_trainable_fullbody_physics.usd",
+      "bytes": 7796,
+      "sha256": "abab5b7fb372a8ffb55f0b26b7c9afb9cfb618cf1c8bbb9060218b2249042fce"
+    },
+    {
+      "path": "02_xingzhi_fullbody21/original_package/external_edu3_flat_20260721/usd/configuration/edu3_nqj13_trainable_fullbody_robot.usd",
+      "bytes": 2361,
+      "sha256": "994162face263629f95f130a7724d15d4c9e895f0dbe1f42a0569ec068ded973"
+    },
+    {
+      "path": "02_xingzhi_fullbody21/original_package/external_edu3_flat_20260721/usd/configuration/edu3_nqj13_trainable_fullbody_sensor.usd",
+      "bytes": 669,
+      "sha256": "72d8e503116078267720230ca1010f6581fe1908b32ba512fdff3ed9557d8767"
+    },
+    {
+      "path": "02_xingzhi_fullbody21/original_package/external_edu3_flat_20260721/usd/edu3_nqj13_trainable_fullbody.usd",
+      "bytes": 2243,
+      "sha256": "057c53a757f5d6e9516d1024186c05b8fdf424e3e4134c8a567409864251b320"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/README.md",
+      "bytes": 2219,
+      "sha256": "1572e10e084eb3eb1856cbe4b303bfe617d014e657235997aab350165c57bccf"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/assets/edu3_official/FINAL_VERIFICATION.md",
+      "bytes": 1983,
+      "sha256": "74a7b773132402d98dde9d8c6953918eb45e4a1eabd39901dfb07439db77b4b0"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/assets/edu3_official/PACKAGE_SHA256SUMS",
+      "bytes": 4214,
+      "sha256": "a4bff78e07659b5350091e4d74ff2eb0bc93dc61ce03541ef49ea5a663a4e357"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/assets/edu3_official/README.md",
+      "bytes": 3791,
+      "sha256": "3346b6cb94d397f71bb36490db54bc3a71b85b0fbd75bb9c4ca589af2ab86ab5"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/assets/edu3_official/TRAIN_EDU3_FLAT.md",
+      "bytes": 1178,
+      "sha256": "ae45697ddbf14d7b5db479bfea4d4bb603d30f4b94f8c6d82b7dfa2d81ce372f"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/assets/edu3_official/VERIFICATION.md",
+      "bytes": 574,
+      "sha256": "98ca72371f531c06ebd4ccc8c39b85c63d69e462a999e4bb70a7faee68548a8e"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/assets/edu3_official/asset_manifest.json",
+      "bytes": 7608,
+      "sha256": "19e3fb460977800b4ebd08c505a3db6e1ae1f294dc5328020ad35f096005ea45"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/assets/edu3_official/edu3_nqj13_flat/REWARDS.md",
+      "bytes": 1034,
+      "sha256": "05cdb2a36da5b8235c867d56f7f36b2b2a1dabd2d1c49d2dba57eb257074765d"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/assets/edu3_official/edu3_nqj13_flat/__init__.py",
+      "bytes": 425,
+      "sha256": "50e3f19dce4b5178264d7a0d424b1e762c8b38fa84d0b10cc1dc0d750322e4a9"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/assets/edu3_official/edu3_nqj13_flat/agents/__init__.py",
+      "bytes": 85,
+      "sha256": "eba86cac0332b83d2e9b897737eaca477c5636d2f69f18e453977f669082cd07"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/assets/edu3_official/edu3_nqj13_flat/agents/edu3_flat_agent_cfg.py",
+      "bytes": 1584,
+      "sha256": "177e8c13c14c17b6d161cac8bc7a557a1607b90d973f1e0cbeae2e97c51af46b"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/assets/edu3_official/edu3_nqj13_flat/edu3_flat_env.py",
+      "bytes": 711,
+      "sha256": "132b8b5bc8d87d976c88613e4a674aaf9bcfcd09d7892c4942bdfeb30b3a793a"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/assets/edu3_official/edu3_nqj13_flat/edu3_flat_env_cfg.py",
+      "bytes": 11701,
+      "sha256": "e574b9da7332fd5c201dae59898d35f8273c6b1fda8100c9c928fd0557c5afd5"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/assets/edu3_official/edu3_nqj13_flat/gait_params.py",
+      "bytes": 1283,
+      "sha256": "09f0cc06584d86893366eb17d684f44a2989a039f1028c38c47380567135420a"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/assets/edu3_official/edu3_nqj13_flat/mdp/__init__.py",
+      "bytes": 303,
+      "sha256": "d672b7088eeabdf922f479bba9add1bbef54487127575b8b45e42efd173a8355"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/assets/edu3_official/edu3_nqj13_flat/mdp/rewards.py",
+      "bytes": 5842,
+      "sha256": "88113b3611ca6f235294b472951af08a668a0a272879042cd08e935f7c64cc2f"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/assets/edu3_official/edu3_nqj13_flat/robot_cfg.py",
+      "bytes": 1216,
+      "sha256": "9b3933896a50b3f5637a2261886fe3943e48c5b55336c7d3da05cc9e707c6e02"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/assets/edu3_official/edu3_robot/__init__.py",
+      "bytes": 413,
+      "sha256": "4798f27f8b95a2f0169b74530e8c36bd43e05177101ff288a585f7004f15ab19"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/assets/edu3_official/edu3_robot/edu3_legacy_friction_gate.py",
+      "bytes": 2157,
+      "sha256": "06459e05da155aafe0281bb607f28a33beb499a7f8abf0ba21c03747062aeeb3"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/assets/edu3_official/edu3_robot/edu3_nqj13_trainable_cfg.py",
+      "bytes": 5800,
+      "sha256": "8a62e86c0e5d620646c7c69d49a75d237c4c4db8e6e8032e437ca06d7edba06c"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/assets/edu3_official/edu3_robot/measured_friction_actuator.py",
+      "bytes": 2719,
+      "sha256": "306ed3a5c4dc1054642e2acf6d9ba52cdcd1ffd53856ad0f017a0103a7c645d4"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/assets/edu3_official/integration/asset_manifest.json",
+      "bytes": 7608,
+      "sha256": "19e3fb460977800b4ebd08c505a3db6e1ae1f294dc5328020ad35f096005ea45"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/assets/edu3_official/integration/edu3_nqj13_flat_external/REWARDS.md",
+      "bytes": 1034,
+      "sha256": "05cdb2a36da5b8235c867d56f7f36b2b2a1dabd2d1c49d2dba57eb257074765d"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/assets/edu3_official/integration/edu3_nqj13_flat_external/__init__.py",
+      "bytes": 470,
+      "sha256": "a47049bd1b7a043a6cdab220e20b37ae1793a032e4fafbc173eb17fa6ac2c368"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/assets/edu3_official/integration/edu3_nqj13_flat_external/agents/__init__.py",
+      "bytes": 85,
+      "sha256": "eba86cac0332b83d2e9b897737eaca477c5636d2f69f18e453977f669082cd07"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/assets/edu3_official/integration/edu3_nqj13_flat_external/agents/edu3_flat_agent_cfg.py",
+      "bytes": 1584,
+      "sha256": "177e8c13c14c17b6d161cac8bc7a557a1607b90d973f1e0cbeae2e97c51af46b"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/assets/edu3_official/integration/edu3_nqj13_flat_external/edu3_flat_env.py",
+      "bytes": 711,
+      "sha256": "132b8b5bc8d87d976c88613e4a674aaf9bcfcd09d7892c4942bdfeb30b3a793a"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/assets/edu3_official/integration/edu3_nqj13_flat_external/edu3_flat_env_cfg.py",
+      "bytes": 11701,
+      "sha256": "e574b9da7332fd5c201dae59898d35f8273c6b1fda8100c9c928fd0557c5afd5"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/assets/edu3_official/integration/edu3_nqj13_flat_external/gait_params.py",
+      "bytes": 1283,
+      "sha256": "09f0cc06584d86893366eb17d684f44a2989a039f1028c38c47380567135420a"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/assets/edu3_official/integration/edu3_nqj13_flat_external/mdp/__init__.py",
+      "bytes": 303,
+      "sha256": "d672b7088eeabdf922f479bba9add1bbef54487127575b8b45e42efd173a8355"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/assets/edu3_official/integration/edu3_nqj13_flat_external/mdp/rewards.py",
+      "bytes": 5842,
+      "sha256": "88113b3611ca6f235294b472951af08a668a0a272879042cd08e935f7c64cc2f"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/assets/edu3_official/integration/edu3_nqj13_flat_external/robot_cfg.py",
+      "bytes": 1216,
+      "sha256": "9b3933896a50b3f5637a2261886fe3943e48c5b55336c7d3da05cc9e707c6e02"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/assets/edu3_official/integration/edu3_robot/__init__.py",
+      "bytes": 413,
+      "sha256": "4798f27f8b95a2f0169b74530e8c36bd43e05177101ff288a585f7004f15ab19"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/assets/edu3_official/integration/edu3_robot/edu3_legacy_friction_gate.py",
+      "bytes": 2157,
+      "sha256": "06459e05da155aafe0281bb607f28a33beb499a7f8abf0ba21c03747062aeeb3"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/assets/edu3_official/integration/edu3_robot/edu3_nqj13_trainable_cfg.py",
+      "bytes": 5800,
+      "sha256": "8a62e86c0e5d620646c7c69d49a75d237c4c4db8e6e8032e437ca06d7edba06c"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/assets/edu3_official/integration/edu3_robot/measured_friction_actuator.py",
+      "bytes": 2719,
+      "sha256": "306ed3a5c4dc1054642e2acf6d9ba52cdcd1ffd53856ad0f017a0103a7c645d4"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/assets/edu3_official/integration/external_compat_patch.py",
+      "bytes": 6773,
+      "sha256": "15680951c56630a60af7b86a9439af1e53ebcd92aa100b20ae9c07c459c9a4e1"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/assets/edu3_official/integration/external_mujoco_eval.py",
+      "bytes": 7992,
+      "sha256": "85708f7444b59725c2f67f4ad702883b8e17bd2d6e8e9f043e2a94fd123171b8"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/assets/edu3_official/integration/external_play_eval.py",
+      "bytes": 23806,
+      "sha256": "4a904074e3a8d899476294453f0bb0922738f56b75e616e1f363a263be6b6ab1"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/assets/edu3_official/integration/finalize_runtime_readback_external.py",
+      "bytes": 5398,
+      "sha256": "a9ae5ecdfac8eccd7abd1d96e92070287ae0b8dc4af3f0f92bbce3692617f7eb"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/assets/edu3_official/integration/launch_external_probe_dual_gpu.sh",
+      "bytes": 1982,
+      "sha256": "2b6500b5f7f5c36b1cb16a217d0e4fe6a849e113eb97f7aa6f009a61b1a35e43"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/assets/edu3_official/integration/meshes/base_link.STL",
+      "bytes": 4870084,
+      "sha256": "b46e15f130e5a57ebe0b2ff47606615f51e005744b1a017d537351aa1f0b90d9"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/assets/edu3_official/integration/meshes/link_1.STL",
+      "bytes": 197584,
+      "sha256": "7664d4472ed7f5113d9c69b1a3c37700cee79183ac51914d3f202ffc1abb58f8"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/assets/edu3_official/integration/meshes/link_10.STL",
+      "bytes": 2425384,
+      "sha256": "faba313a2e324e91e9400199266ba2a4bf9d300d738f6c5a18ded62e9577c168"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/assets/edu3_official/integration/meshes/link_11.STL",
+      "bytes": 105984,
+      "sha256": "d2ee5ae08f081093b6b542384afeb0b3f38794d8c8f0bcde62f350a2007d5b24"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/assets/edu3_official/integration/meshes/link_12.STL",
+      "bytes": 442584,
+      "sha256": "56cb60a0ab72fa025c0d72b8abe3c4766c30b997e0c76561eae2846831e7e15c"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/assets/edu3_official/integration/meshes/link_13.STL",
+      "bytes": 1292484,
+      "sha256": "b478e95f4b93b7637fdd5a58c5a63fce5e41f02e5d0a003de2803916f67f7be0"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/assets/edu3_official/integration/meshes/link_14.STL",
+      "bytes": 270084,
+      "sha256": "9af33663f0be2e80081f7caa647cab20c1cd73840a7bd84cafcda18a6aeeb5ae"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/assets/edu3_official/integration/meshes/link_15.STL",
+      "bytes": 143584,
+      "sha256": "0ca54186f1cc94134416eecdeccf3a8a969ae21a36225d1e5fba111d7f5d1aa2"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/assets/edu3_official/integration/meshes/link_16.STL",
+      "bytes": 168384,
+      "sha256": "fe049105a5fafd06b64fbbeb495a97f2c5737d8668f4c14f6932b843d2811c99"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/assets/edu3_official/integration/meshes/link_17.STL",
+      "bytes": 230884,
+      "sha256": "f693e59ead1e110c98b470e7d86e3df9c9a8a8ac0ba816371f33504e190bfbf3"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/assets/edu3_official/integration/meshes/link_19.STL",
+      "bytes": 270084,
+      "sha256": "2ebf41801d8578642ece403d8877c1339e6ea40de290f919c1932038eae5dade"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/assets/edu3_official/integration/meshes/link_2.STL",
+      "bytes": 143884,
+      "sha256": "dd791cd2902d22da4cce85ba51b7c10c5cbb0e5aab4b738eb97fced3e9a615f5"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/assets/edu3_official/integration/meshes/link_20.STL",
+      "bytes": 143584,
+      "sha256": "685659a3cdc8e20c5c284e545cffd9ae30fdf3a2c51627b04b3439ef17f2d5fc"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/assets/edu3_official/integration/meshes/link_21.STL",
+      "bytes": 168284,
+      "sha256": "5ab8aba5cb2fc376c7ca338f24e3e57ecf4af69c53de629ad68696535fbd4c39"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/assets/edu3_official/integration/meshes/link_22.STL",
+      "bytes": 230884,
+      "sha256": "c7a97564a049e8d0a123748c0bcf9b9d16932a3f70945fcfc12ca3517721b457"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/assets/edu3_official/integration/meshes/link_3.STL",
+      "bytes": 332084,
+      "sha256": "94df510ba74ec5e033d352fd6dd4c2ba0beffdbaf60e7bfd7fb23260580e9398"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/assets/edu3_official/integration/meshes/link_4.STL",
+      "bytes": 2425484,
+      "sha256": "ee04be722306d0a429068bfe2f8ffb0352ccd54a56e1e472cbe450e80cac2920"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/assets/edu3_official/integration/meshes/link_5.STL",
+      "bytes": 105984,
+      "sha256": "ecd0306c8c605399a7a8ad103468aecf464f7f41bbf6bd84bb6298f7b8457b37"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/assets/edu3_official/integration/meshes/link_6.STL",
+      "bytes": 442584,
+      "sha256": "2a977dbc89665b07e86e84614f60725c89b5228a6c34aa016a1c36fffbb7e3a4"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/assets/edu3_official/integration/meshes/link_7.STL",
+      "bytes": 197284,
+      "sha256": "2f0a8a646538a8561eef80f8a016b7d15d09297d603530bc212dcda879d55459"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/assets/edu3_official/integration/meshes/link_8.STL",
+      "bytes": 143884,
+      "sha256": "b0ba210a8911fef18a242fbe8a6e71759b255326c170074476b04fffe4eb7a34"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/assets/edu3_official/integration/meshes/link_9.STL",
+      "bytes": 331984,
+      "sha256": "9e3fcb0b82545d3b385faf548dbbdace196a84c0856278d65cd6147f64592746"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/assets/edu3_official/integration/runtime_readback_external.py",
+      "bytes": 7552,
+      "sha256": "3de7917cf6e05014884862ef429d56623c80de21f26156498ea0675bfa1233ba"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/assets/edu3_official/integration/train_external_copy.py",
+      "bytes": 11491,
+      "sha256": "8064adafa7f33393f727f09dd9f75367b930c900826b0da96439f9a5f7b8170b"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/assets/edu3_official/integration/train_external_edu3.py",
+      "bytes": 494,
+      "sha256": "e9dd06caa4ea38c4697f2d54f62cff704245959df6b73824f67d2e8ed0f1738e"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/assets/edu3_official/integration/urdf/edu3_nqj13_trainable_fullbody.urdf",
+      "bytes": 27415,
+      "sha256": "f989ed31778c14587c43491b52b9f427a05ca268ddc53d77beb91589a168c0f0"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/assets/edu3_official/integration/usd/.asset_hash",
+      "bytes": 32,
+      "sha256": "d753c50734514e67b074f87c87ffbc740e1054214a8b46fd142487ba3543090e"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/assets/edu3_official/integration/usd/config.yaml",
+      "bytes": 719,
+      "sha256": "94a2e8df3668ebeb08e26baef7d446bdd0c084c9d0b9a69e446a9239508192fb"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/assets/edu3_official/integration/usd/configuration/edu3_nqj13_trainable_fullbody_base.usd",
+      "bytes": 21528073,
+      "sha256": "3669243b83b697e6ba13cd09827bd996d2b5f95341b1bb0160ccbde97eecbc00"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/assets/edu3_official/integration/usd/configuration/edu3_nqj13_trainable_fullbody_physics.usd",
+      "bytes": 7796,
+      "sha256": "abab5b7fb372a8ffb55f0b26b7c9afb9cfb618cf1c8bbb9060218b2249042fce"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/assets/edu3_official/integration/usd/configuration/edu3_nqj13_trainable_fullbody_robot.usd",
+      "bytes": 2361,
+      "sha256": "994162face263629f95f130a7724d15d4c9e895f0dbe1f42a0569ec068ded973"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/assets/edu3_official/integration/usd/configuration/edu3_nqj13_trainable_fullbody_sensor.usd",
+      "bytes": 669,
+      "sha256": "72d8e503116078267720230ca1010f6581fe1908b32ba512fdff3ed9557d8767"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/assets/edu3_official/integration/usd/edu3_nqj13_trainable_fullbody.usd",
+      "bytes": 2243,
+      "sha256": "057c53a757f5d6e9516d1024186c05b8fdf424e3e4134c8a567409864251b320"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/assets/edu3_official/integration/xingzhi_exact_isaac_eval.py",
+      "bytes": 23385,
+      "sha256": "40028d80abe0a7184155ad12acc57443d27e87a38be1133c807227ac62580429"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/assets/edu3_official/meshes/base_link.STL",
+      "bytes": 4870084,
+      "sha256": "b46e15f130e5a57ebe0b2ff47606615f51e005744b1a017d537351aa1f0b90d9"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/assets/edu3_official/meshes/link_1.STL",
+      "bytes": 197584,
+      "sha256": "7664d4472ed7f5113d9c69b1a3c37700cee79183ac51914d3f202ffc1abb58f8"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/assets/edu3_official/meshes/link_10.STL",
+      "bytes": 2425384,
+      "sha256": "faba313a2e324e91e9400199266ba2a4bf9d300d738f6c5a18ded62e9577c168"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/assets/edu3_official/meshes/link_11.STL",
+      "bytes": 105984,
+      "sha256": "d2ee5ae08f081093b6b542384afeb0b3f38794d8c8f0bcde62f350a2007d5b24"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/assets/edu3_official/meshes/link_12.STL",
+      "bytes": 442584,
+      "sha256": "56cb60a0ab72fa025c0d72b8abe3c4766c30b997e0c76561eae2846831e7e15c"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/assets/edu3_official/meshes/link_13.STL",
+      "bytes": 1292484,
+      "sha256": "b478e95f4b93b7637fdd5a58c5a63fce5e41f02e5d0a003de2803916f67f7be0"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/assets/edu3_official/meshes/link_14.STL",
+      "bytes": 270084,
+      "sha256": "9af33663f0be2e80081f7caa647cab20c1cd73840a7bd84cafcda18a6aeeb5ae"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/assets/edu3_official/meshes/link_15.STL",
+      "bytes": 143584,
+      "sha256": "0ca54186f1cc94134416eecdeccf3a8a969ae21a36225d1e5fba111d7f5d1aa2"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/assets/edu3_official/meshes/link_16.STL",
+      "bytes": 168384,
+      "sha256": "fe049105a5fafd06b64fbbeb495a97f2c5737d8668f4c14f6932b843d2811c99"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/assets/edu3_official/meshes/link_17.STL",
+      "bytes": 230884,
+      "sha256": "f693e59ead1e110c98b470e7d86e3df9c9a8a8ac0ba816371f33504e190bfbf3"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/assets/edu3_official/meshes/link_19.STL",
+      "bytes": 270084,
+      "sha256": "2ebf41801d8578642ece403d8877c1339e6ea40de290f919c1932038eae5dade"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/assets/edu3_official/meshes/link_2.STL",
+      "bytes": 143884,
+      "sha256": "dd791cd2902d22da4cce85ba51b7c10c5cbb0e5aab4b738eb97fced3e9a615f5"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/assets/edu3_official/meshes/link_20.STL",
+      "bytes": 143584,
+      "sha256": "685659a3cdc8e20c5c284e545cffd9ae30fdf3a2c51627b04b3439ef17f2d5fc"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/assets/edu3_official/meshes/link_21.STL",
+      "bytes": 168284,
+      "sha256": "5ab8aba5cb2fc376c7ca338f24e3e57ecf4af69c53de629ad68696535fbd4c39"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/assets/edu3_official/meshes/link_22.STL",
+      "bytes": 230884,
+      "sha256": "c7a97564a049e8d0a123748c0bcf9b9d16932a3f70945fcfc12ca3517721b457"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/assets/edu3_official/meshes/link_3.STL",
+      "bytes": 332084,
+      "sha256": "94df510ba74ec5e033d352fd6dd4c2ba0beffdbaf60e7bfd7fb23260580e9398"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/assets/edu3_official/meshes/link_4.STL",
+      "bytes": 2425484,
+      "sha256": "ee04be722306d0a429068bfe2f8ffb0352ccd54a56e1e472cbe450e80cac2920"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/assets/edu3_official/meshes/link_5.STL",
+      "bytes": 105984,
+      "sha256": "ecd0306c8c605399a7a8ad103468aecf464f7f41bbf6bd84bb6298f7b8457b37"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/assets/edu3_official/meshes/link_6.STL",
+      "bytes": 442584,
+      "sha256": "2a977dbc89665b07e86e84614f60725c89b5228a6c34aa016a1c36fffbb7e3a4"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/assets/edu3_official/meshes/link_7.STL",
+      "bytes": 197284,
+      "sha256": "2f0a8a646538a8561eef80f8a016b7d15d09297d603530bc212dcda879d55459"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/assets/edu3_official/meshes/link_8.STL",
+      "bytes": 143884,
+      "sha256": "b0ba210a8911fef18a242fbe8a6e71759b255326c170074476b04fffe4eb7a34"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/assets/edu3_official/meshes/link_9.STL",
+      "bytes": 331984,
+      "sha256": "9e3fcb0b82545d3b385faf548dbbdace196a84c0856278d65cd6147f64592746"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/assets/edu3_official/mjcf/edu3_nqj13_trainable_fullbody.xml",
+      "bytes": 26527,
+      "sha256": "27bcafacf9b713f88ca81e887d6d31f6fff25bfc0b5754445643775b91347853"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/assets/edu3_official/mjcf/edu3_reference_25_10_v1.xml",
+      "bytes": 26325,
+      "sha256": "72fdbc8f918a374cb06dcc1b8a0e89e148558b20e724fa20402dc7fcbde6c85b"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/assets/edu3_official/provenance/raw.urdf",
+      "bytes": 30140,
+      "sha256": "e3a444c38e1a975d5fdf66d5121eab74b7e5858da714aff48965aecdfe0439e9"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/assets/edu3_official/provenance/reference.urdf",
+      "bytes": 27415,
+      "sha256": "f989ed31778c14587c43491b52b9f427a05ca268ddc53d77beb91589a168c0f0"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/assets/edu3_official/provenance/runtime_readback_probe.json",
+      "bytes": 24345,
+      "sha256": "47a297af5bab632ca3cfe721aa51ebca76dac39c765d538ff9139168463f29cb"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/assets/edu3_official/provenance/runtime_readback_probe_final.json",
+      "bytes": 6406,
+      "sha256": "91b9bf5b05867ec9fb378b2dbfcee1e5fc29fdad33c0214221b43ab4651ede89"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/assets/edu3_official/provenance/runtime_verify.md",
+      "bytes": 435,
+      "sha256": "4d684fb0bf5214c0ac17a091e2e2a1e91df5e6bd116c5bd32653ea32129d3d4c"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/assets/edu3_official/scripts/mujoco/edu3_sim/actuator_backend.py",
+      "bytes": 976,
+      "sha256": "c46c118c3420ce94880d418681cd8396f8511284fd633d1456180e2d34c73968"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/assets/edu3_official/scripts/mujoco/edu3_sim/edu3_deploy_config.py",
+      "bytes": 4734,
+      "sha256": "670a79d4bd4a1839f39e6e17826eb7aacc6c8c38d3d2ce684982061523910442"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/assets/edu3_official/scripts/mujoco/edu3_sim/isaac_joint_names.txt",
+      "bytes": 442,
+      "sha256": "5fc3f353ed7b4a4a6afa74e920e14ad3b7216fd8c8a6da6d91f59d73c022475f"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/assets/edu3_official/scripts/mujoco/edu3_sim/joint_order.py",
+      "bytes": 3013,
+      "sha256": "603612989d9e5f191b1665746bb99cb9d042e84148a339c4037d6a59063a4f38"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/assets/edu3_official/scripts/mujoco/edu3_sim/sim2sim_edu3.py",
+      "bytes": 20111,
+      "sha256": "50bab7ca47919aa013398f64394beaa2ed6296e9683277ea4e3f4b82b450bb40"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/assets/edu3_official/scripts/mujoco/edu3_sim/simulation.mp4",
+      "bytes": 31247783,
+      "sha256": "b260a58c465d898b45dd034f88472c07580c77aaa17d24f34e2dd903193be361"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/assets/edu3_official/tools/build_trainable_edu3_nqj13.py",
+      "bytes": 14349,
+      "sha256": "b4f9f46add72c20525c1d7201ef4fccae974c08ec9c359c11c1f2da0899bd52f"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/assets/edu3_official/tools/edu3_usd_patch_friction_kit.py",
+      "bytes": 1400,
+      "sha256": "d688162caa97a7bd7f5c76904be1823c1132140a312a8a0c61ec4874e538e4b0"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/assets/edu3_official/tools/edu3_usd_strict_validate_kit.py",
+      "bytes": 3668,
+      "sha256": "117752b61efb74d79525777ce70741be9d76716a84ed21602d2a0b49b0fb4da8"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/assets/edu3_official/tools/isaaclab_16env_smoke.py",
+      "bytes": 2175,
+      "sha256": "633e3ae6029ccb8d47a8e72723ece9727ac505f5e148fd4a527dab8c88f5e403"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/assets/edu3_official/tools/verify_trainable_edu3_nqj13.py",
+      "bytes": 10058,
+      "sha256": "25b36e4dc6716ed16f71f78827907095d274dcb6ae7918ba9c0d3e580e98f213"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/assets/edu3_official/urdf/edu3_nqj13_trainable_fullbody.urdf",
+      "bytes": 27415,
+      "sha256": "f989ed31778c14587c43491b52b9f427a05ca268ddc53d77beb91589a168c0f0"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/assets/edu3_official/usd/.asset_hash",
+      "bytes": 32,
+      "sha256": "d753c50734514e67b074f87c87ffbc740e1054214a8b46fd142487ba3543090e"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/assets/edu3_official/usd/config.yaml",
+      "bytes": 719,
+      "sha256": "94a2e8df3668ebeb08e26baef7d446bdd0c084c9d0b9a69e446a9239508192fb"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/assets/edu3_official/usd/configuration/edu3_nqj13_trainable_fullbody_base.usd",
+      "bytes": 21528073,
+      "sha256": "3669243b83b697e6ba13cd09827bd996d2b5f95341b1bb0160ccbde97eecbc00"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/assets/edu3_official/usd/configuration/edu3_nqj13_trainable_fullbody_physics.usd",
+      "bytes": 7796,
+      "sha256": "abab5b7fb372a8ffb55f0b26b7c9afb9cfb618cf1c8bbb9060218b2249042fce"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/assets/edu3_official/usd/configuration/edu3_nqj13_trainable_fullbody_robot.usd",
+      "bytes": 2361,
+      "sha256": "994162face263629f95f130a7724d15d4c9e895f0dbe1f42a0569ec068ded973"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/assets/edu3_official/usd/configuration/edu3_nqj13_trainable_fullbody_sensor.usd",
+      "bytes": 669,
+      "sha256": "72d8e503116078267720230ca1010f6581fe1908b32ba512fdff3ed9557d8767"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/assets/edu3_official/usd/edu3_nqj13_trainable_fullbody.usd",
+      "bytes": 2243,
+      "sha256": "057c53a757f5d6e9516d1024186c05b8fdf424e3e4134c8a567409864251b320"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/contract_and_tools/build_edu3_reference_contract.py",
+      "bytes": 7680,
+      "sha256": "68e870e21fa15d19562db67ee77790413f88106f7d114bf5fb10fb91651ba8dc"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/contract_and_tools/edu3_reference_contract_v1.json",
+      "bytes": 14314,
+      "sha256": "3f3a53c4a00808aca079d6dd3fe0d126ed5931ee555838adfda036491c76a34d"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/contract_and_tools/edu3_walk_from_xiaohai_v1.json",
+      "bytes": 384489,
+      "sha256": "156b5d1700c54423ad531f545c9240f81288ef0b9a766305d0416ac2783fa03e"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/contract_and_tools/eval_edu3_reference_isaac.py",
+      "bytes": 12253,
+      "sha256": "0ade4371471e0cd45391217b393d5d34341337a3ab8e6835af028bf90b364bdf"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/contract_and_tools/eval_edu3_reference_mujoco_velocity_ab.py",
+      "bytes": 19470,
+      "sha256": "ffd242d35cfcdb8ae41287a54c5998a7fe940d1fdf3a7424a04a2e93435a869a"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/contract_and_tools/generate_mjcf_from_contract.py",
+      "bytes": 4077,
+      "sha256": "daa42afefca9eea19aba796986ce1e0ca841c1baff93f4193226afed3717063a"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/contract_and_tools/render_edu3_reference.py",
+      "bytes": 2558,
+      "sha256": "e8cebbc60f373d5e22b6a640c2cdb407bdf3a571b7b44cc74ec73e7062f6ffa1"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/contract_and_tools/retarget_xiaohai_to_edu3.py",
+      "bytes": 10166,
+      "sha256": "5b26db0713c291a8429182137192f94a55c322489df0be9a2dbed6dc59b656ac"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/contract_and_tools/start_edu3_reference_dual.sh",
+      "bytes": 1160,
+      "sha256": "f3deb6b12215736c2e9fb71442fc16684c0944f6445c96ee235d68499c349c5a"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/eval/seed42/EDU3_Reference_seed42_model1000_Isaac.mp4",
+      "bytes": 1787158,
+      "sha256": "60c0d4c8cba7a0a622bae9cd8a0bceae38de614708213c7c3b6cc64474163f36"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/eval/seed42/EDU3_Reference_seed42_model1000_Isaac_summary.json",
+      "bytes": 3036,
+      "sha256": "9a8ab4e597f87b88f4adcf0348a0ae1cec44b021b5f67f87ac77d55119c806cb"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/eval/seed42/EDU3_Reference_seed42_model1000_MuJoCo_RootOmegaFix_MuJoCo.mp4",
+      "bytes": 924000,
+      "sha256": "6555262d51092470be7c12577629b52be6a8ca5152e78955b36ee6acdf060afc"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/eval/seed42/EDU3_Reference_seed42_model1000_MuJoCo_RootOmegaFix_MuJoCo_dump.npz",
+      "bytes": 4414907,
+      "sha256": "35d7ee9da94eb52a57cbe4806d14eb84c8865b4a7c9925a5bb155a659d3ea7fd"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/eval/seed42/EDU3_Reference_seed42_model1000_MuJoCo_RootOmegaFix_MuJoCo_first2.json",
+      "bytes": 32877,
+      "sha256": "812617f37de6be195e1641b8b39b39330413cbbafe4b12e4e578032ba3476e3d"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/eval/seed42/EDU3_Reference_seed42_model1000_MuJoCo_RootOmegaFix_MuJoCo_summary.json",
+      "bytes": 4471,
+      "sha256": "91b1ee93f4b141dff8e1601b903c33ef54bf88cb7420bac02b57901fe55b1db0"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/eval/seed43/EDU3_Reference_seed43_model1000_Isaac.mp4",
+      "bytes": 1581624,
+      "sha256": "0f894748a3c9351324ed787ce3b132bcb98e19aa4673a744434eb256feb1cab7"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/eval/seed43/EDU3_Reference_seed43_model1000_Isaac_summary.json",
+      "bytes": 3050,
+      "sha256": "aef506c909a6de7f2efa5aa41975c66ddb352d721a63947ee8f390291dcf28a6"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/eval/seed43/EDU3_Reference_seed43_model1000_MuJoCo_RootOmegaFix_MuJoCo.mp4",
+      "bytes": 936543,
+      "sha256": "daf252bcaa2589229e16890188821705ec2d7883e3893ccb3c9645f0f3372553"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/eval/seed43/EDU3_Reference_seed43_model1000_MuJoCo_RootOmegaFix_MuJoCo_dump.npz",
+      "bytes": 4412151,
+      "sha256": "086657f68e0d4f47846ebb8a691dcdd4453b57a4aa5712da71c2694aa5564390"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/eval/seed43/EDU3_Reference_seed43_model1000_MuJoCo_RootOmegaFix_MuJoCo_first2.json",
+      "bytes": 32844,
+      "sha256": "13cefda1276815f69257c41d1d60357dbd90c26c38b268ad7de150dd6904d57b"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/eval/seed43/EDU3_Reference_seed43_model1000_MuJoCo_RootOmegaFix_MuJoCo_summary.json",
+      "bytes": 4507,
+      "sha256": "74efbf7515a8a4d42098dde0297e4fb519446902d7eeff992ea125f630e7ec89"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/models/seed42/exported_policy.pt",
+      "bytes": 2219776,
+      "sha256": "7ee1b74e1f0ca81fe18aaf1cfe959c7cdf534d60e534e61262923cb6ddc34a76"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/models/seed42/model_1000.pt",
+      "bytes": 17832693,
+      "sha256": "a8ad050e7fcbca048d114cf3387beb88d4c3e533f870a99e285bebe4a1c45c8e"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/models/seed42/provenance/compiled_runtime_readback.json",
+      "bytes": 22191,
+      "sha256": "d1a03981060f11d577fdaf1b183747ebb705b168b58d3f6ee75203736377c99f"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/models/seed42/provenance/edu3_reference_25_10_v1.xml",
+      "bytes": 26325,
+      "sha256": "72fdbc8f918a374cb06dcc1b8a0e89e148558b20e724fa20402dc7fcbde6c85b"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/models/seed42/provenance/edu3_reference_contract_v1.json",
+      "bytes": 14314,
+      "sha256": "3f3a53c4a00808aca079d6dd3fe0d126ed5931ee555838adfda036491c76a34d"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/models/seed42/provenance/generated_mjcf_readback_v1.json",
+      "bytes": 556,
+      "sha256": "e9d03c6883fe46e3dcf1f458b5b4643e0c8897d931ecedb85d4c01602d8979d3"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/models/seed42/provenance/pulse_compare_v1.json",
+      "bytes": 23272,
+      "sha256": "0d2139e8fada73aa471d36f5cb97d6b990c4158295fd34abb7745115175705b8"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/models/seed42/provenance/pulse_isaac_v1.json",
+      "bytes": 11517,
+      "sha256": "21bd5769dce3e7164597e05b91f3abb787a5f534ab66625b58bfe331a1096ba3"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/models/seed42/provenance/pulse_mujoco_v1.json",
+      "bytes": 11242,
+      "sha256": "8f938e964b7c4256bdfb1c27647a04ce04c109d8631866af9c9a69407e5961f5"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/models/seed42/provenance/retarget_report_v1.json",
+      "bytes": 11215,
+      "sha256": "6bb36096b9719c082bdbe5d4657bd81840a67890f79d6d91d6beea885669e38f"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/models/seed42/provenance/target_mapping_probe.json",
+      "bytes": 8569,
+      "sha256": "206c715541b4af11e100deec03d54a79136fdb2bbd0e0c725d323c7aa6f302a0"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/models/seed42/provenance/training_fingerprint.json",
+      "bytes": 1607,
+      "sha256": "f3983ccbddb27ae7a8db357b79d64f559169ebaa5e690379ecc6961f6b3e5635"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/models/seed42/py/base_config.py",
+      "bytes": 5608,
+      "sha256": "6d3cce896751efd0ba2615653ef5f3054f974637a56b75ace8f6f18e3b7a8576"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/models/seed42/py/base_env_config.py",
+      "bytes": 3499,
+      "sha256": "a27c751949460922719a017466f4415267f04f897eba25763fc0b592866b5a33"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/models/seed42/py/edu3_reference_mimic_config.py",
+      "bytes": 3913,
+      "sha256": "06ce9539adfc777b3cbf10d639e4fc548725a3199a6c34cb1cd97ce6c54e0ed8"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/models/seed42/py/hi_mimic_capture_phase0_config.py",
+      "bytes": 636,
+      "sha256": "f1dc8c40ceb28eea7be69a98868772941bef025ef262b03c1b83bf0409a0e760"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/models/seed42/py/hi_mimic_capture_rsi_config.py",
+      "bytes": 479,
+      "sha256": "f69106308537c4ee457264a12ae4eed4f4389eee7433cf61bdb1b24664545f47"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/models/seed42/py/hi_mimic_capture_rsi_env.py",
+      "bytes": 4152,
+      "sha256": "35024bf40916103cf6b00fb8c9326046eb860b407e48776179ad555f453c71f8"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/models/seed42/py/hi_mimic_capture_rsi_v2_config.py",
+      "bytes": 710,
+      "sha256": "bdf46d0b9b9ee327fe1a966c23cfab034e245ba1a135f84b6a2f0fcb0f564915"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/models/seed42/py/hi_mimic_config.py",
+      "bytes": 8220,
+      "sha256": "9cfeecbdd224eef16d89d633741d9ce819ae28da5e7cc713bec06ed5c0cda78d"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/models/seed42/py/hi_mimic_diag_env.py",
+      "bytes": 1819,
+      "sha256": "ab6183cf42fdc939f76807a845410bc14cdc0886ed36299aee0ba8caebeea3ef"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/models/seed42/py/hi_mimic_env.py",
+      "bytes": 32576,
+      "sha256": "7f68fd46504363e421de5efa57c4293f74827ff949de685f2143ef0bb9d22c71"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/models/seed42/py/hi_mimic_et_base_phase0_config.py",
+      "bytes": 713,
+      "sha256": "58044ee310c9b978207618b8e8147d8b083efef654dcca0618e6612fc2a1a560"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/models/seed42/py/hi_mimic_et_diag_config.py",
+      "bytes": 1117,
+      "sha256": "46766cc23100e7a7f45081098243bcadc77bc059daf2325580c9610d671e7cb2"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/models/seed42/py/hi_mimic_et_only_config.py",
+      "bytes": 548,
+      "sha256": "d189ba07c84de931edfe6e43fc067f682ee912fa6616156e3ad464eb4c3c181b"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/models/seed42/py/hi_mimic_et_phase0_config.py",
+      "bytes": 429,
+      "sha256": "fc63a6b4507f8c1e765bd9b10c663c971f6a4a04b2ad8dce69e0a198a52d2d54"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/models/seed42/py/hi_mimic_rewards.py",
+      "bytes": 7805,
+      "sha256": "c65a878a7fead689c39f7e5cd342114b8f27f7002b1b24f34f74ae234bab9e38"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/models/seed43/exported_policy.pt",
+      "bytes": 2219776,
+      "sha256": "513e11e8f29305fba40ce15cb9a1e4dc6d767932f6a45e76ee3d752110d8e595"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/models/seed43/model_1000.pt",
+      "bytes": 17832693,
+      "sha256": "b88a4269a52a05cdad13f06a4622ee88d3dd29aadc74181a3c94801bfdde2333"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/models/seed43/provenance/compiled_runtime_readback.json",
+      "bytes": 22190,
+      "sha256": "f96a82db177776a49a381b6596af4b22617a096697b3a7daeac64b6ee46b9f60"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/models/seed43/provenance/edu3_reference_25_10_v1.xml",
+      "bytes": 26325,
+      "sha256": "72fdbc8f918a374cb06dcc1b8a0e89e148558b20e724fa20402dc7fcbde6c85b"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/models/seed43/provenance/edu3_reference_contract_v1.json",
+      "bytes": 14314,
+      "sha256": "3f3a53c4a00808aca079d6dd3fe0d126ed5931ee555838adfda036491c76a34d"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/models/seed43/provenance/generated_mjcf_readback_v1.json",
+      "bytes": 556,
+      "sha256": "e9d03c6883fe46e3dcf1f458b5b4643e0c8897d931ecedb85d4c01602d8979d3"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/models/seed43/provenance/pulse_compare_v1.json",
+      "bytes": 23272,
+      "sha256": "0d2139e8fada73aa471d36f5cb97d6b990c4158295fd34abb7745115175705b8"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/models/seed43/provenance/pulse_isaac_v1.json",
+      "bytes": 11517,
+      "sha256": "21bd5769dce3e7164597e05b91f3abb787a5f534ab66625b58bfe331a1096ba3"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/models/seed43/provenance/pulse_mujoco_v1.json",
+      "bytes": 11242,
+      "sha256": "8f938e964b7c4256bdfb1c27647a04ce04c109d8631866af9c9a69407e5961f5"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/models/seed43/provenance/retarget_report_v1.json",
+      "bytes": 11215,
+      "sha256": "6bb36096b9719c082bdbe5d4657bd81840a67890f79d6d91d6beea885669e38f"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/models/seed43/provenance/target_mapping_probe.json",
+      "bytes": 8569,
+      "sha256": "206c715541b4af11e100deec03d54a79136fdb2bbd0e0c725d323c7aa6f302a0"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/models/seed43/provenance/training_fingerprint.json",
+      "bytes": 1607,
+      "sha256": "6e4e73fae396561f6bef12e76ba96c6b18108b53c11d52350dc0945bd1b93ad0"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/models/seed43/py/base_config.py",
+      "bytes": 5608,
+      "sha256": "6d3cce896751efd0ba2615653ef5f3054f974637a56b75ace8f6f18e3b7a8576"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/models/seed43/py/base_env_config.py",
+      "bytes": 3499,
+      "sha256": "a27c751949460922719a017466f4415267f04f897eba25763fc0b592866b5a33"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/models/seed43/py/edu3_reference_mimic_config.py",
+      "bytes": 3913,
+      "sha256": "06ce9539adfc777b3cbf10d639e4fc548725a3199a6c34cb1cd97ce6c54e0ed8"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/models/seed43/py/hi_mimic_capture_phase0_config.py",
+      "bytes": 636,
+      "sha256": "f1dc8c40ceb28eea7be69a98868772941bef025ef262b03c1b83bf0409a0e760"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/models/seed43/py/hi_mimic_capture_rsi_config.py",
+      "bytes": 479,
+      "sha256": "f69106308537c4ee457264a12ae4eed4f4389eee7433cf61bdb1b24664545f47"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/models/seed43/py/hi_mimic_capture_rsi_env.py",
+      "bytes": 4152,
+      "sha256": "35024bf40916103cf6b00fb8c9326046eb860b407e48776179ad555f453c71f8"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/models/seed43/py/hi_mimic_capture_rsi_v2_config.py",
+      "bytes": 710,
+      "sha256": "bdf46d0b9b9ee327fe1a966c23cfab034e245ba1a135f84b6a2f0fcb0f564915"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/models/seed43/py/hi_mimic_config.py",
+      "bytes": 8220,
+      "sha256": "9cfeecbdd224eef16d89d633741d9ce819ae28da5e7cc713bec06ed5c0cda78d"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/models/seed43/py/hi_mimic_diag_env.py",
+      "bytes": 1819,
+      "sha256": "ab6183cf42fdc939f76807a845410bc14cdc0886ed36299aee0ba8caebeea3ef"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/models/seed43/py/hi_mimic_env.py",
+      "bytes": 32576,
+      "sha256": "7f68fd46504363e421de5efa57c4293f74827ff949de685f2143ef0bb9d22c71"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/models/seed43/py/hi_mimic_et_base_phase0_config.py",
+      "bytes": 713,
+      "sha256": "58044ee310c9b978207618b8e8147d8b083efef654dcca0618e6612fc2a1a560"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/models/seed43/py/hi_mimic_et_diag_config.py",
+      "bytes": 1117,
+      "sha256": "46766cc23100e7a7f45081098243bcadc77bc059daf2325580c9610d671e7cb2"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/models/seed43/py/hi_mimic_et_only_config.py",
+      "bytes": 548,
+      "sha256": "d189ba07c84de931edfe6e43fc067f682ee912fa6616156e3ad464eb4c3c181b"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/models/seed43/py/hi_mimic_et_phase0_config.py",
+      "bytes": 429,
+      "sha256": "fc63a6b4507f8c1e765bd9b10c663c971f6a4a04b2ad8dce69e0a198a52d2d54"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/models/seed43/py/hi_mimic_rewards.py",
+      "bytes": 7805,
+      "sha256": "c65a878a7fead689c39f7e5cd342114b8f27f7002b1b24f34f74ae234bab9e38"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/project/mimic_real/MUJOCO_LOG.TXT",
+      "bytes": 119,
+      "sha256": "8f21d61e8a35ba8cb3907148fb97aea776d701c44f36c5216482bc3c66c9070e"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/project/mimic_real/__init__.py",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/project/mimic_real/agents/__init__.py",
+      "bytes": 146,
+      "sha256": "5bdbe2775cbef7ed8b7ce76607dc4c9ece08be784387b4f5f143e8f955795f2d"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/project/mimic_real/agents/modules/__init__.py",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/project/mimic_real/agents/modules/actor_critic.py",
+      "bytes": 5494,
+      "sha256": "f054d0f8a605ae7dc6cb57a5f7b5749a8189fcccc649ffed2ae6f177139fc518"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/project/mimic_real/agents/modules/normalizer.py",
+      "bytes": 4030,
+      "sha256": "680c4c5796a6e4d966b2e54c8637c43ae5c2fb63c3d3c12befac40eea2cb56db"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/project/mimic_real/agents/on_policy_runner.py",
+      "bytes": 17288,
+      "sha256": "8c5a71a53252351253bb0f9efcddfe05e82e70fc1cf96c7a086facdeb686acb7"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/project/mimic_real/agents/ppo.py",
+      "bytes": 11126,
+      "sha256": "bee44d6f6f6fa89775dce54d708f9c8e695f2843efcf4c66edce88305f60cc94"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/project/mimic_real/agents/storage/__init__.py",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/project/mimic_real/agents/storage/rollout_storage.py",
+      "bytes": 7547,
+      "sha256": "12f30ae6f6fecc0a422897a16aa372763d5d91b913c562c980edf0c0a03d07c5"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/project/mimic_real/agents/utils/__init__.py",
+      "bytes": 188,
+      "sha256": "3764bcc9adef9073a6c71390df9ca5d8fd732a68a4c757017caa0b12f9b495e0"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/project/mimic_real/agents/utils/neptune_utils.py",
+      "bytes": 3149,
+      "sha256": "67ed73233e48e84eabefc0f03439f10b08af981def4e4b22f7f320136ec97979"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/project/mimic_real/agents/utils/utils.py",
+      "bytes": 5763,
+      "sha256": "57d3cfede363237de86843fed1cbaf23f177efa8bdb5953ea0bf90d9c647b73a"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/project/mimic_real/agents/vec_env.py",
+      "bytes": 3819,
+      "sha256": "a86e975ec74d662e47a3f331536e3248107ec2c6dbc89afce281042f9d536f8d"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/project/mimic_real/assets/__init__.py",
+      "bytes": 151,
+      "sha256": "792375074d69232d552e434c9f2dad51413ae324395528e879e1fe1b33ae51d6"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/project/mimic_real/assets/edu3_reference/edu3_reference_25_10_v1.xml",
+      "bytes": 26325,
+      "sha256": "6b77849c7b420cf9bc286e62275f40b1791c811193c48743220873ca4bdfd243"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/project/mimic_real/assets/urdf/hi/CMakeLists.txt",
+      "bytes": 293,
+      "sha256": "5a65765c500b7346465024ee6e26a8c7c3881fb4496da9c1403dac33d7096097"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/project/mimic_real/assets/urdf/hi/config/joint_names_hi_23dof_250401.yaml",
+      "bytes": 497,
+      "sha256": "fe8b3e09254cf7629bd4af83f58a777dc7fd5395cc02858623747c57180ad315"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/project/mimic_real/assets/urdf/hi/convert.txt",
+      "bytes": 291,
+      "sha256": "3ddd81548a31da0772ac63bcb2dbb09e28306e40587833d0c417cae914c22af8"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/project/mimic_real/assets/urdf/hi/launch/display.launch",
+      "bytes": 506,
+      "sha256": "ea8decb671b65207ab64c743178353fb533d6f5c7dcb64c94b069b790156a0a7"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/project/mimic_real/assets/urdf/hi/launch/gazebo.launch",
+      "bytes": 573,
+      "sha256": "337b82a78a74ee4fe6a9c220d303c67da76e7182c38b65d9f35198d1a70da7b5"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/project/mimic_real/assets/urdf/hi/meshes/base_link.STL",
+      "bytes": 2500084,
+      "sha256": "2d6156137a7db36cf978ba55fa2f72fc2f5cb84d8f226708c3f0725ba1ef768a"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/project/mimic_real/assets/urdf/hi/meshes/l_ankle_pitch_link.STL",
+      "bytes": 154584,
+      "sha256": "1bf1957f5b38d72fd5ab8e1e5b370a307757ab1a06da45cbd6055c0dc9684aeb"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/project/mimic_real/assets/urdf/hi/meshes/l_ankle_roll_link.STL",
+      "bytes": 941884,
+      "sha256": "3477609588fa7550e0c1f4170db869266fe6ac3737f70dd8722f5ed12fb79932"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/project/mimic_real/assets/urdf/hi/meshes/l_calf_link.STL",
+      "bytes": 471884,
+      "sha256": "49d06b77febfcbe9d87ea7e1f08f7b5819518096cfbbb73d47cb7c58e25e28ef"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/project/mimic_real/assets/urdf/hi/meshes/l_elbow_link.STL",
+      "bytes": 247984,
+      "sha256": "95fa11eaff9d35cb68e4709593105f72c754503ccc3d4b3f8c6f17141d4f5ad8"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/project/mimic_real/assets/urdf/hi/meshes/l_hip_pitch_link.STL",
+      "bytes": 316284,
+      "sha256": "28a31bdc870bec72158e6522cabf0d59c9dff8e8a0ca2e56d4b7d3657498e128"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/project/mimic_real/assets/urdf/hi/meshes/l_hip_roll_link.STL",
+      "bytes": 299284,
+      "sha256": "292cee92d821be91b4bcab483c8d0cd15fe65426c1a8e5be66bf86fb98073b9e"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/project/mimic_real/assets/urdf/hi/meshes/l_shoulder_pitch_link.STL",
+      "bytes": 383884,
+      "sha256": "31fbc500ac731225a738ed1260673f0f9914c5703e94d83746f25477c4d000bf"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/project/mimic_real/assets/urdf/hi/meshes/l_shoulder_roll_link.STL",
+      "bytes": 247984,
+      "sha256": "b3fa41bb6c004e1b33252937031ac613af84165fd1fa7c79312686da4bb49b0a"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/project/mimic_real/assets/urdf/hi/meshes/l_thigh_link.STL",
+      "bytes": 254184,
+      "sha256": "1c46b3a490bf4a743eb1353c7c3ebeb9e537aaaebf6aa2ce8db601d3bd4325d8"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/project/mimic_real/assets/urdf/hi/meshes/l_upper_arm_link.STL",
+      "bytes": 331784,
+      "sha256": "a693e81cb7fd27c031ef393b491331509cda7d80c28bc138941e630f1a730a98"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/project/mimic_real/assets/urdf/hi/meshes/l_wrist_link.STL",
+      "bytes": 176784,
+      "sha256": "1f4b81cb5d95774bb21b2e12d512246b54a0f4ff4895eae3d6b9b1bb924bd872"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/project/mimic_real/assets/urdf/hi/meshes/r_ankle_pitch_link.STL",
+      "bytes": 154584,
+      "sha256": "6c71bafebada0baf8dd9271595670a7e48777710e2532ea5c92baebd5c79f5fa"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/project/mimic_real/assets/urdf/hi/meshes/r_ankle_roll_link.STL",
+      "bytes": 941884,
+      "sha256": "ba4adda4450e22bd79c357559d3607cab457f1fefcaad9c63faa6360f5d86d84"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/project/mimic_real/assets/urdf/hi/meshes/r_calf_link.STL",
+      "bytes": 470784,
+      "sha256": "93bf445b61a0dcb16f6f8b6c37260c11a4614b65025ed9c703cbfd439d277e52"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/project/mimic_real/assets/urdf/hi/meshes/r_elbow_link.STL",
+      "bytes": 247984,
+      "sha256": "9e810d2ed9a1feea136bb8256f20870f528682bc9c477c4c89f77fe89a35a8c4"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/project/mimic_real/assets/urdf/hi/meshes/r_hip_pitch_link.STL",
+      "bytes": 316284,
+      "sha256": "a8624b1343654ae76e1b4edbdba2b2bb16fddd43167346534f500cf0ca8037c6"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/project/mimic_real/assets/urdf/hi/meshes/r_hip_roll_link.STL",
+      "bytes": 299284,
+      "sha256": "7a0455ab915ab4b1f35d8bcccace7a4774cc6c9d9d2ae6f93450119daee70c93"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/project/mimic_real/assets/urdf/hi/meshes/r_shoulder_pitch_link.STL",
+      "bytes": 383884,
+      "sha256": "df3467fae52844efb3e3578636ea53c9292b5dae5c987fb8a0ae602cecb2f881"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/project/mimic_real/assets/urdf/hi/meshes/r_shoulder_roll_link.STL",
+      "bytes": 247984,
+      "sha256": "39ce01d173aa13ac79646ae61a33845c75718fa4bc424e15ab1fb2f802dbbcca"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/project/mimic_real/assets/urdf/hi/meshes/r_thigh_link.STL",
+      "bytes": 254184,
+      "sha256": "db0881d7fb61dfe8942e9f0346a60794ee88f293a19f825ad182394244a940c3"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/project/mimic_real/assets/urdf/hi/meshes/r_upper_arm_link.STL",
+      "bytes": 331784,
+      "sha256": "d126f63dfcaecdabca3680ba7bcd8092855dc03c0f1ccf7be7a5a7000f2ee2ff"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/project/mimic_real/assets/urdf/hi/meshes/r_wrist_link.STL",
+      "bytes": 176784,
+      "sha256": "6a9b67636ecd1a15be2d3120388cce73042d201d33581a308538e05c80bcf2d3"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/project/mimic_real/assets/urdf/hi/meshes/waist_link.STL",
+      "bytes": 497884,
+      "sha256": "c81b06b5c6e04dc5e9aa418dfb33dea15e5424fd7c63541e24eb901ae61c1646"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/project/mimic_real/assets/urdf/hi/mjcf/hi_23dof_250425.xml",
+      "bytes": 27571,
+      "sha256": "56f0e39e30b9b6d30c41476b927ce50e32b5297872d3107c1c12a4381d3365e6"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/project/mimic_real/assets/urdf/hi/mjcf/hi_23dof_250425_runtime_limits.xml",
+      "bytes": 27540,
+      "sha256": "ee9feba569ab32a9c8115725793fecc7eba497add1b1788804a3d9fdfbadaa59"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/project/mimic_real/assets/urdf/hi/mjcf/hi_23dof_250425_runtime_limits_official_dynamics.xml",
+      "bytes": 27547,
+      "sha256": "9614ba734a6baff3ea6d6536347cfb97c6ce8ce3175a7fff85a8f2b5565a6c3f"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/project/mimic_real/assets/urdf/hi/mjcf/hi_23dof_250425_runtime_limits_uniform_armature001.xml",
+      "bytes": 27563,
+      "sha256": "38bf412b9b339930e57ad43ec8694fa992a8e09eba9484f08bd05e0db8cdfcf1"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/project/mimic_real/assets/urdf/hi/mjcf/hi_23dof_250425_runtime_limits_uniform_armature001_footbox_diag.xml",
+      "bytes": 23237,
+      "sha256": "0e35539d3e58f7ee04fe73f6196bcef0d9bfce1802e0b47aaabad0b0b5d3b4fd"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/project/mimic_real/assets/urdf/hi/mjcf/hi_23dof_pulse_fixed.xml",
+      "bytes": 27602,
+      "sha256": "6fb1047f72f6006839d47c7aa46a737ec9563710d42049b923aca7beb89b6873"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/project/mimic_real/assets/urdf/hi/mjcf/hi_23dof_pulse_free.xml",
+      "bytes": 27570,
+      "sha256": "690788639682348cf06688bff03dfa8f34567832c7a991f85fcb29b62ed8c1e6"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/project/mimic_real/assets/urdf/hi/mjcf/hi_new.xml",
+      "bytes": 27758,
+      "sha256": "42a96c9082969be680ed12047601e16d09d94e652e839e4e729fc2470c31f0d7"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/project/mimic_real/assets/urdf/hi/mjmodel.xml",
+      "bytes": 15523,
+      "sha256": "a15d475f0a5ff38ae37b0ac9e64b04944b52021d2b76dc942173d50d9a9d3735"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/project/mimic_real/assets/urdf/hi/package.xml",
+      "bytes": 660,
+      "sha256": "a59b21a0c620caec86dc34363a3c45ec5cd89e35ef32b41f9b0a4c3bc46134db"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/project/mimic_real/assets/urdf/hi/urdf/hi_23dof_250401.gv",
+      "bytes": 4658,
+      "sha256": "7249b99e7f67508b34cf2ebee1779be8dfda44d181addabab933d0840261d6fb"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/project/mimic_real/assets/urdf/hi/urdf/hi_23dof_250401.pdf",
+      "bytes": 16124,
+      "sha256": "7eeb85c1152c4f9a788a3d771ddc681f19affab2f2898e831b50461f5fb96ff6"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/project/mimic_real/assets/urdf/hi/urdf/hi_23dof_250401_rl.urdf",
+      "bytes": 28804,
+      "sha256": "7cdb5d5a5320a746deb339d21ca61231f2cd23da41299d3a58105acc6610175b"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/project/mimic_real/assets/usd/edu3_reference/__init__.py",
+      "bytes": 93,
+      "sha256": "828225c1e910826869e43902d9558d31d538899bbc14bc8e4f49375eedbb44cf"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/project/mimic_real/assets/usd/edu3_reference/contract.py",
+      "bytes": 1914,
+      "sha256": "b592cef73471c5cd3c0b1027458256a775ed6b1ee0687efb7dab6b503cf6c79d"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/project/mimic_real/assets/usd/edu3_reference/edu3_reference.py",
+      "bytes": 3010,
+      "sha256": "20d8bfdaddad8a0f4abf58704545fff0bb76e707ba941cbc8c2d53db41cdbbc1"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/project/mimic_real/assets/usd/edu3_reference/measured_friction_actuator.py",
+      "bytes": 2979,
+      "sha256": "2bc1ea643e879ad4d191e88d7559dfa53f417044c6121ff7047114a8f46bad8c"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/project/mimic_real/assets/usd/edu3_reference/training_provenance.py",
+      "bytes": 9750,
+      "sha256": "a6f5363e90b9f9f4df2f3be1ad09f04023471a9bd40503620fb661a641c8b7d6"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/project/mimic_real/assets/usd/high_torque/__init__.py",
+      "bytes": 59,
+      "sha256": "6ca703fb20ba7495cf921bd72d04fb7f3b98d699e8d779bf9297ad98972b67b0"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/project/mimic_real/assets/usd/high_torque/hi/.asset_hash",
+      "bytes": 32,
+      "sha256": "8b5311e79e43f42e97edad275d78487cc3ae69f742f46a92cb39a4c1a0d1b6f2"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/project/mimic_real/assets/usd/high_torque/hi/config.yaml",
+      "bytes": 677,
+      "sha256": "36f0d567668b72015e787f92806f2ef77afe77209e704494243dcd5072d87a38"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/project/mimic_real/assets/usd/high_torque/hi/configuration/hi_base.usd",
+      "bytes": 15349639,
+      "sha256": "e6467251f325f7659c3e709b6ddb75cebeb5e0d0d63af0a57d44a7327e808281"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/project/mimic_real/assets/usd/high_torque/hi/configuration/hi_physics.usd",
+      "bytes": 8902,
+      "sha256": "2bfdd07577e1a1e5c95ba4a8bb1b059545db55251fbe170ae12bbe56032210e8"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/project/mimic_real/assets/usd/high_torque/hi/configuration/hi_sensor.usd",
+      "bytes": 655,
+      "sha256": "824a78be498594425eca6780aa9efef35172f09998080223814c04266a20a3cc"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/project/mimic_real/assets/usd/high_torque/hi/hi.usd",
+      "bytes": 1605,
+      "sha256": "49f034138c62c322f69bfb4c155030498a86409947fd0ddaf3fdb58daadf4618"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/project/mimic_real/assets/usd/high_torque/hi_massfixed/.asset_hash",
+      "bytes": 32,
+      "sha256": "f1f0bdf2be05b1cdaafbbd511b3511707b5ebd59c8607c85a0795f0f3e99f819"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/project/mimic_real/assets/usd/high_torque/hi_massfixed/config.yaml",
+      "bytes": 674,
+      "sha256": "cc7389f681cb6f27614045be503f819a88dff5c550da13dfe6e280a7b54cec0f"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/project/mimic_real/assets/usd/high_torque/hi_massfixed/configuration/hi_base.usd",
+      "bytes": 15351434,
+      "sha256": "de5062b01b008d72368b79d38ba28949fb6c3ec5474a4a565eb3a60853e1bf2a"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/project/mimic_real/assets/usd/high_torque/hi_massfixed/configuration/hi_physics.usd",
+      "bytes": 9143,
+      "sha256": "faa9b2b7c7796e5b7a0b9fb37a217a2373917cd8468619f042f23dc8e2e80716"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/project/mimic_real/assets/usd/high_torque/hi_massfixed/configuration/hi_robot.usd",
+      "bytes": 2875,
+      "sha256": "edaadcada34654567db4ba4ac03a110f669bcdb7d840922bd64af307654e19bb"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/project/mimic_real/assets/usd/high_torque/hi_massfixed/configuration/hi_sensor.usd",
+      "bytes": 655,
+      "sha256": "48fb58061db8274922639ce19bb958dbaa78b98bf69f05e7a6407348d1d6f26a"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/project/mimic_real/assets/usd/high_torque/hi_massfixed/hi.usd",
+      "bytes": 1466,
+      "sha256": "97218452646e671feed0b8e7a20599f04007bbae0faf4014f2857756334f85c9"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/project/mimic_real/assets/usd/high_torque/high_torque.py",
+      "bytes": 4443,
+      "sha256": "8d82c736c64734c3ca639c50328ac52ccaf21e2398a2fd81b4764746d1b5b6db"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/project/mimic_real/data/__init__.py",
+      "bytes": 685,
+      "sha256": "ad8fef580835b3785565c18be64ff1e0f304856661f2d35c556207a448a8f4c2"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/project/mimic_real/data/edu3_walk_from_xiaohai_v1.json",
+      "bytes": 384489,
+      "sha256": "156b5d1700c54423ad531f545c9240f81288ef0b9a766305d0416ac2783fa03e"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/project/mimic_real/data/hi/boxing.json",
+      "bytes": 186581,
+      "sha256": "358f4970b46c2a9dcae8afc233087c7a4a3e507bb48135526ae4aa118709571a"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/project/mimic_real/data/hi/boxing.pkl",
+      "bytes": 46913,
+      "sha256": "116c3ff6a1f215c5b1265a94a845db6122a38f1b53ae68b81011ead008491d3b"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/project/mimic_real/data/hi/crawl.json",
+      "bytes": 1001723,
+      "sha256": "21d043414a64aaa8aa72507c63065bb5d5def7c263280c4580c6ecc5a15d1969"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/project/mimic_real/data/hi/pushup.json",
+      "bytes": 268738,
+      "sha256": "0fd8278394cd75dac472fbea3c27efd976ea3daafd7b4e4a751d03628fe33e34"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/project/mimic_real/data/hi/pushup.pkl",
+      "bytes": 33761,
+      "sha256": "03b08abddcb31f483e6db683fbf0bdc0f19b02e7e1ef7b8ee365b69614dd226e"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/project/mimic_real/data/hi/run.pkl",
+      "bytes": 77073,
+      "sha256": "4ee0fb8ef6338f7a720900c3df40033f1771e06cb606d85c20d55eb80935476c"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/project/mimic_real/data/hi/side_flip.pkl",
+      "bytes": 380161,
+      "sha256": "7b98e0d1abd7ebb3de57865bf63880ce3dfca1ff46397614e7bf4a6858e98021"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/project/mimic_real/data/hi/swing_arm.pkl",
+      "bytes": 152225,
+      "sha256": "7114b732d08fcd67d1aaf9717a8958314a893d33dbc55c96b774a1ce9272362f"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/project/mimic_real/data/hi/walk.json",
+      "bytes": 618483,
+      "sha256": "e35f671bb84a92fd93961e9a7fe6decec705e9436fe65a968ea18ed61b7a3aa9"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/project/mimic_real/data/hi/walk.pkl",
+      "bytes": 152225,
+      "sha256": "9c009d6a2250b01f9ac3f91c4bff36235d8e7f0d49a084d40296e13a911d78a4"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/project/mimic_real/data/hi/walk_startup.json",
+      "bytes": 421829,
+      "sha256": "526f070c2bad2a510667860b3bb4b1bc6a2b9b0cb0dc4bdf1e4b7a4d8b12208a"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/project/mimic_real/data/hi/walk_v2_clearance.json",
+      "bytes": 590913,
+      "sha256": "684e81f1b8edb30020dee4c362524f6a9b8067a5b309e7e584736df046d50317"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/project/mimic_real/data/hi/walk_v2_clearance_report.json",
+      "bytes": 3723,
+      "sha256": "d7559c8fa8a8249714da756133e365b46ecc2d655a4295d28caed065e79124eb"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/project/mimic_real/data/hi/waving.json",
+      "bytes": 438301,
+      "sha256": "be8e3beab54f7733331902709a27eab6e43517e65a40bc0e7e6b309862a44e46"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/project/mimic_real/data/hi/waving.pkl",
+      "bytes": 107265,
+      "sha256": "3f8a0be427fe6dfa2eb113e351b3d50847335573dada06eadd34837ac3f8d55e"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/project/mimic_real/envs/__init__.py",
+      "bytes": 2559,
+      "sha256": "11135f07d79dd16a2c18e3cf1bc7138a17a72069109a68ff39b72d199907553f"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/project/mimic_real/envs/__init__.py.bak_pre_et_only_20260722",
+      "bytes": 640,
+      "sha256": "f460290e01dc6dc735156a657560de22730b7abb8c8315efe6521c145d13a42a"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/project/mimic_real/envs/base/base_config.py",
+      "bytes": 5397,
+      "sha256": "97e94c9432c32d302da8eb0ef60ef32a3928b60f0a8e1d311e18dfc4804f724b"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/project/mimic_real/envs/base/base_env.py",
+      "bytes": 15612,
+      "sha256": "f52791897f36b4ef45781667d2c185ddb6aae03bc9d5141804cc1e5968108f5f"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/project/mimic_real/envs/base/base_env_config.py",
+      "bytes": 5485,
+      "sha256": "e3e5bab83e8f488d917d63fa3ae98723b1460f3fe1c5180861718814b2b24003"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/project/mimic_real/envs/base/clean_env.py",
+      "bytes": 19277,
+      "sha256": "8a03229f4a63b289623a2a055a0d1d80eb7489b93b182ee85724997b7c721869"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/project/mimic_real/envs/base/clean_env_config.py",
+      "bytes": 4935,
+      "sha256": "6d61ead59f99b49410ad8fc403344c6331e5b9f8c6df96e460dc9fd536219f17"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/project/mimic_real/envs/hi_clean/hi_clean_config.py",
+      "bytes": 5551,
+      "sha256": "cfb98433a45088751c06091a4a9b80702b263726774d2a2e51ba611a35aeb78f"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/project/mimic_real/envs/hi_clean/hi_mdp/__init__.py",
+      "bytes": 66,
+      "sha256": "37f1abac477a083ef99d817323edffbd2cbf8e25878bd82c2a280d719dd5c5d1"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/project/mimic_real/envs/hi_clean/hi_mdp/hi_mimic_rewards.py",
+      "bytes": 4962,
+      "sha256": "14e3af25c694ebab8f61e69eee4af327b79fd7d94b7ded6d860ac399f7291a6e"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/project/mimic_real/envs/mimic/base_config.py",
+      "bytes": 5608,
+      "sha256": "6d3cce896751efd0ba2615653ef5f3054f974637a56b75ace8f6f18e3b7a8576"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/project/mimic_real/envs/mimic/base_env_config.py",
+      "bytes": 3499,
+      "sha256": "a27c751949460922719a017466f4415267f04f897eba25763fc0b592866b5a33"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/project/mimic_real/envs/mimic/edu3_reference_mimic_config.py",
+      "bytes": 3913,
+      "sha256": "06ce9539adfc777b3cbf10d639e4fc548725a3199a6c34cb1cd97ce6c54e0ed8"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/project/mimic_real/envs/mimic/hi_mimic_capture_phase0_config.py",
+      "bytes": 636,
+      "sha256": "f1dc8c40ceb28eea7be69a98868772941bef025ef262b03c1b83bf0409a0e760"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/project/mimic_real/envs/mimic/hi_mimic_capture_rsi_config.py",
+      "bytes": 479,
+      "sha256": "f69106308537c4ee457264a12ae4eed4f4389eee7433cf61bdb1b24664545f47"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/project/mimic_real/envs/mimic/hi_mimic_capture_rsi_env.py",
+      "bytes": 4152,
+      "sha256": "35024bf40916103cf6b00fb8c9326046eb860b407e48776179ad555f453c71f8"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/project/mimic_real/envs/mimic/hi_mimic_capture_rsi_v2_config.py",
+      "bytes": 710,
+      "sha256": "bdf46d0b9b9ee327fe1a966c23cfab034e245ba1a135f84b6a2f0fcb0f564915"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/project/mimic_real/envs/mimic/hi_mimic_config.py",
+      "bytes": 8220,
+      "sha256": "9cfeecbdd224eef16d89d633741d9ce819ae28da5e7cc713bec06ed5c0cda78d"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/project/mimic_real/envs/mimic/hi_mimic_diag_env.py",
+      "bytes": 1819,
+      "sha256": "ab6183cf42fdc939f76807a845410bc14cdc0886ed36299aee0ba8caebeea3ef"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/project/mimic_real/envs/mimic/hi_mimic_env.py",
+      "bytes": 32576,
+      "sha256": "7f68fd46504363e421de5efa57c4293f74827ff949de685f2143ef0bb9d22c71"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/project/mimic_real/envs/mimic/hi_mimic_env.py.bak_pre_quat_apply_20260722",
+      "bytes": 31732,
+      "sha256": "7a02440c820962026d9c197edef00570d5169952f11174c6af347d1f3a948b3d"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/project/mimic_real/envs/mimic/hi_mimic_et_base_phase0_config.py",
+      "bytes": 713,
+      "sha256": "58044ee310c9b978207618b8e8147d8b083efef654dcca0618e6612fc2a1a560"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/project/mimic_real/envs/mimic/hi_mimic_et_diag_config.py",
+      "bytes": 1117,
+      "sha256": "46766cc23100e7a7f45081098243bcadc77bc059daf2325580c9610d671e7cb2"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/project/mimic_real/envs/mimic/hi_mimic_et_only_config.py",
+      "bytes": 548,
+      "sha256": "d189ba07c84de931edfe6e43fc067f682ee912fa6616156e3ad464eb4c3c181b"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/project/mimic_real/envs/mimic/hi_mimic_et_phase0_config.py",
+      "bytes": 429,
+      "sha256": "fc63a6b4507f8c1e765bd9b10c663c971f6a4a04b2ad8dce69e0a198a52d2d54"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/project/mimic_real/envs/mimic/hi_mimic_rewards.py",
+      "bytes": 7805,
+      "sha256": "c65a878a7fead689c39f7e5cd342114b8f27f7002b1b24f34f74ae234bab9e38"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/project/mimic_real/envs/mimic/hi_mimic_rewards.py.bak_pre_quat_apply_20260722",
+      "bytes": 7807,
+      "sha256": "001d16063b48b11adcd04700b052fcef93423a79d676760930a50684b67752e9"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/project/mimic_real/envs/motion_loader/motion_loader.py",
+      "bytes": 15696,
+      "sha256": "87708f3f4c19d4a3efeef8ae48c77733243c767a8b41581a9b8f3d2f691820ae"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/project/mimic_real/envs/motion_loader/motion_loader_from_json.py",
+      "bytes": 8074,
+      "sha256": "c262a51964ea06eff298c6e8ffb7716bb60a4e64b97f3cced5c2c14e1464a885"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/project/mimic_real/envs/motion_loader/motion_loader_from_pkl.py",
+      "bytes": 7688,
+      "sha256": "1375b8ae11ae6c893e7a92c763235ba33c6d34224e53233667111b295fa10344"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/project/mimic_real/scripts/check_motion_loader.py",
+      "bytes": 351,
+      "sha256": "64f185bbd5fdc7ace0b50a1faff695a567af6be3ab6544b5775c168903b8555c"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/project/mimic_real/scripts/checkmjcf.py",
+      "bytes": 1001,
+      "sha256": "907d2c98da45426a4bb34ae978e54a89e1a1e300bb6694dea27e863a991b77f9"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/project/mimic_real/scripts/compare_edu3_pulse.py",
+      "bytes": 2306,
+      "sha256": "c24a76aa4edf47271a1e6676016c72f4cd823c362039e7f37aa507c62070e426"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/project/mimic_real/scripts/edu3_pulse_isaac.py",
+      "bytes": 4517,
+      "sha256": "b94c25630e19d9dbe07a00f23d5c34a4c2eef5439cc1e8cd04f3397586a3b54c"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/project/mimic_real/scripts/edu3_pulse_mujoco.py",
+      "bytes": 3823,
+      "sha256": "62eab525d50ab766d2e696ddd09030f1aef9027e7316d612e9db3db95b60f053"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/project/mimic_real/scripts/export_portable_dcmotor_generic.py",
+      "bytes": 9135,
+      "sha256": "4595e31c44110b859ce41873c2036f1b658b088d0b3714b8a40bd1cd8ea43cd0"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/project/mimic_real/scripts/export_xiaohai_model10000.py",
+      "bytes": 9177,
+      "sha256": "5d3877cfe1d69ca6176361b37f4c559affec78d3fe570d67a55a4c8ca32f4e9f"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/project/mimic_real/scripts/export_xiaohai_model15000.py",
+      "bytes": 9178,
+      "sha256": "787e7c3573b637eb9433a2e41359558f455ab99d8e3b08c0c71abfafb1d1985e"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/project/mimic_real/scripts/first_cycle_probe_targetclamp_isaac.py",
+      "bytes": 4990,
+      "sha256": "95ecb7aa07c6a206ccf5f8bff66b1198c9e10a128211b98fc5c722a9d318f273"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/project/mimic_real/scripts/first_cycle_probe_v2.py",
+      "bytes": 4852,
+      "sha256": "6ce8be9b8ca8df14ef865dff896364f8f89386112c01c97262cf2d09114bb217"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/project/mimic_real/scripts/motion_loader.py",
+      "bytes": 7467,
+      "sha256": "c543a9727a34bec5ec2dc2b980aa46fd42ce6a3ec10388cc1fd7b173cdb796d9"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/project/mimic_real/scripts/mujoco_first_cycle_probe.py",
+      "bytes": 2954,
+      "sha256": "2d67c88866d297ef82b42576c4bd4e0e86ff3a6190ad9651b9f750629fd5d8b4"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/project/mimic_real/scripts/mujoco_first_cycle_probe_implicitservo.py",
+      "bytes": 3789,
+      "sha256": "59707a672bd2f9a0651649b25ea51869a59638418daf1a653d7d581f93491322"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/project/mimic_real/scripts/mujoco_first_cycle_probe_implicitservo_nocontact.py",
+      "bytes": 3857,
+      "sha256": "bb76bb6e16abfdc13023a668f00d161b8c05f4a9f0112a7e4700fc496587cab2"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/project/mimic_real/scripts/play.py",
+      "bytes": 3262,
+      "sha256": "14059b267b37645c8aed8a5f2aa5d76227e5cb43388ceb1a8b93614ead0bcc0e"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/project/mimic_real/scripts/play_capture_phase0_r1_eval.py",
+      "bytes": 6824,
+      "sha256": "fd4ed1e2480f054b098bc64c75fa9666fea4519dd5cddd8ed4c899240cfd38d9"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/project/mimic_real/scripts/play_capture_rsi_r2_eval.py",
+      "bytes": 7451,
+      "sha256": "cc103ca2b989e54212b1add9d41ce39984c48f46128fa9beb54342d660f84ab3"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/project/mimic_real/scripts/play_capture_rsi_r2_eval_model10000_phase0.py",
+      "bytes": 8730,
+      "sha256": "5b482001f66c33209a3aebe6668503dcc6feb87a63b69244f05d10fae1e68993"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/project/mimic_real/scripts/play_capture_rsi_r2_eval_model11000_phase0.py",
+      "bytes": 8731,
+      "sha256": "3f679fa31f6d6603cee636bd536902fcc04023898063983048037f84860b1d6d"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/project/mimic_real/scripts/play_capture_rsi_r2_eval_model12000_phase0.py",
+      "bytes": 8731,
+      "sha256": "e8014f25c70898f1741946d39491632a2b124b3f523c285ff9c614a947d48228"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/project/mimic_real/scripts/play_capture_rsi_r2_eval_model13000_phase0.py",
+      "bytes": 8731,
+      "sha256": "f2b91e6ae1b7e0bc2da984652a5f2f6b96efb602e9ecec4d6bf4162b0da30490"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/project/mimic_real/scripts/play_capture_rsi_r2_eval_model14000_phase0.py",
+      "bytes": 8731,
+      "sha256": "dbd10f5b26ca948cc115a4beb41138426d333399edb0d454d00b71aae2d538e7"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/project/mimic_real/scripts/play_capture_rsi_r2_eval_model15000_phase0.py",
+      "bytes": 8731,
+      "sha256": "b9b8e0248aaa3c04cf668aaae87e4f85b78088f38f0cf91a7e92d52654c5d264"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/project/mimic_real/scripts/play_capture_rsi_r2_eval_model2000.py",
+      "bytes": 7821,
+      "sha256": "2e9848de72dba67c0b5fe0fdd29cefbab610bf61a4c9d05fc6e5bf1ae7c93d70"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/project/mimic_real/scripts/play_capture_rsi_r2_eval_model3000.py",
+      "bytes": 7821,
+      "sha256": "8e14e2d0b67fda3ed4aa94b7435174d39603b6effa9b26c5f370249a8f599cf6"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/project/mimic_real/scripts/play_capture_rsi_r2_eval_model5000.py",
+      "bytes": 7821,
+      "sha256": "05437a69da83a6d262deb3b4e957a79073e1b5340cfbb5ad41fec29b5576b0fa"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/project/mimic_real/scripts/play_capture_rsi_r2_eval_model5000_phase0.py",
+      "bytes": 8725,
+      "sha256": "5cabe31fa7b4906c110f2c5c161873c38e1b1263d1d60bbcb34eac8eaee50521"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/project/mimic_real/scripts/play_capture_rsi_r2_eval_model6000_phase0.py",
+      "bytes": 8725,
+      "sha256": "539b212b6f6b6d0aedf4922ea56ec9aa493d81c972f23d727fcc2faa1976e67e"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/project/mimic_real/scripts/play_capture_rsi_r2_eval_model8000_phase0.py",
+      "bytes": 8726,
+      "sha256": "d1e809bb59a4853a99e81e6a3346c6a46716bf7a89f024f4956403d1ad47f102"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/project/mimic_real/scripts/play_capture_rsi_r2_eval_model9000_phase0.py",
+      "bytes": 8726,
+      "sha256": "992288ecab7648b542bf95856c6780d56817b9b60135e76e8f2442622e74b0fd"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/project/mimic_real/scripts/play_model15000_portable_dcmotor_isaac.py",
+      "bytes": 11180,
+      "sha256": "e588272f98770a130c42ac40bb93d3757ff42939b1c26bcdc9b5f8b62070445f"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/project/mimic_real/scripts/play_model15000_portable_explicit_isaac.py",
+      "bytes": 11133,
+      "sha256": "b7fb43765e25f0d07f4af23c70c024afba5974b8653b2bad801fbecb633b97e8"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/project/mimic_real/scripts/play_model15000_targetclamp_isaac.py",
+      "bytes": 10017,
+      "sha256": "47427c0eb300ac4e192a7dcc392fa34790e5bf01bc325ed792d100f763d14776"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/project/mimic_real/scripts/play_portable_dcmotor_generic_isaac.py",
+      "bytes": 10996,
+      "sha256": "48b8c959e678c589e6e07308e9e873c52f716c7a1c8d082b8fff2a23a658a29e"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/project/mimic_real/scripts/play_portable_dcmotor_trace_isaac.py",
+      "bytes": 12070,
+      "sha256": "46dc6cbb1d4cfb85f25f0e6ce64cb76ba3ae3e878d5b97f284a713ce9c9dc364"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/project/mimic_real/scripts/play_portable_dcmotor_trace_mujoco.py",
+      "bytes": 12640,
+      "sha256": "8cc77189c07bbaebb4b9d518a73d1aa48c95691359443a25b9b5959dad43e16f"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/project/mimic_real/scripts/play_r1f_seed42.py",
+      "bytes": 3338,
+      "sha256": "dbbe3d1872b920e36d7b45dc53ecfc70c68f3c143c17f0fbe73bbcd5913112ad"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/project/mimic_real/scripts/play_r1f_seed42_model2000_eval.py",
+      "bytes": 4771,
+      "sha256": "ba4a31ea9cbfe79493f5f050fe8d0f8d8045e3ef1da23b32f2afa3cf2b0e904d"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/project/mimic_real/scripts/play_r1f_seed42_model3000_eval.py",
+      "bytes": 4771,
+      "sha256": "371b9e333cc89b9e112181485f5f4355180ff797fb6df7941974a8f6b40909d0"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/project/mimic_real/scripts/play_r1f_seed42_strict_video.py",
+      "bytes": 4301,
+      "sha256": "361ce97cb1dcbd91e931a284fff0eb516bb8e7631830afbc9be864c050dc8e45"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/project/mimic_real/scripts/play_r1f_seed42_viewport_video.py",
+      "bytes": 4743,
+      "sha256": "4db6b231add98b0e0ca09378546e28bc9ec87ebf5c89a91f96a9ad8b5cca1927"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/project/mimic_real/scripts/play_r1f_seed42_z002_video.py",
+      "bytes": 4903,
+      "sha256": "f06641a3b51738d74cb0c7fd06d51515328d3c19c91191aeb0dfe14311e91348"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/project/mimic_real/scripts/play_r1f_seed43.py",
+      "bytes": 3416,
+      "sha256": "51ec0be40ab809f8738e1b036f7e80eba122ecb88409c8bb319a887139844819"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/project/mimic_real/scripts/play_r1f_seed43_viewport_video.py",
+      "bytes": 4743,
+      "sha256": "f882aeed9c84453c6184e05cde5d572a2f97e80bf673700a510134ed5d80039b"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/project/mimic_real/scripts/play_reference_only_video.py",
+      "bytes": 4962,
+      "sha256": "dd17440e017ff586afae29efbab1eac3f124a92666fbf64009d1b26ca841adb0"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/project/mimic_real/scripts/play_walk_v2_seed42_eval.py",
+      "bytes": 8724,
+      "sha256": "53ff573002d8ddcfbf850874cf3a617345936e20302da5cd4d5d5d0f3f2b3d23"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/project/mimic_real/scripts/play_walk_v2_seed43_eval.py",
+      "bytes": 8724,
+      "sha256": "4decf732cf8ce07ea2f76559e9e2bcc3ca9ec541a8f6a77b355d8485b515eac9"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/project/mimic_real/scripts/play_xiaohai_startup_ab_diag.py",
+      "bytes": 12676,
+      "sha256": "5c693da24cec9c203d0f17523c44629253f67c2ea2970bfaa375edc9057619c9"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/project/mimic_real/scripts/play_xiaohai_startup_ab_diag_model10000.py",
+      "bytes": 12678,
+      "sha256": "52ba3a4cde47056c562a3836071a6d10826885beacc110b6795e2e5d2cbf2283"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/project/mimic_real/scripts/portable_r1_first_cycle_isaac.py",
+      "bytes": 6180,
+      "sha256": "e9d78ca54848015d6b7289dceb4c9373ef26954814436b363e78a317e70ec939"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/project/mimic_real/scripts/portable_r1_first_cycle_mujoco.py",
+      "bytes": 2968,
+      "sha256": "e6026490e39fb4b1bb980816f8239b1604894da5e004812d4d278d717160fc1f"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/project/mimic_real/scripts/portable_r1_pulse_isaac.py",
+      "bytes": 5388,
+      "sha256": "48870c7eae98fc1feb04d03eca694fc0ceb4d814cdd15b491e293d5a75780a03"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/project/mimic_real/scripts/portable_r1_pulse_isolated_isaac.py",
+      "bytes": 6082,
+      "sha256": "81993485f0f4ad00e576e3e51bf8d3f4c97f9abc2c430ff5f137794c4954865b"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/project/mimic_real/scripts/portable_r1_pulse_isolated_mujoco.py",
+      "bytes": 3314,
+      "sha256": "e3f07dca944362407bc67e20e368bc517ffad523e76d7f27056e9859eeeaa5f6"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/project/mimic_real/scripts/portable_r1_pulse_mujoco.py",
+      "bytes": 3030,
+      "sha256": "c04607f78ff2e454e5ae3e75f87f637cad34edb2b4aa0e93b27a46951a6970aa"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/project/mimic_real/scripts/portable_r1_torque_armature_isaac.py",
+      "bytes": 5866,
+      "sha256": "494c73d1891972f3f4bdf0dc5684e8b3121393a2ea7d7bfa404382b730ed395e"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/project/mimic_real/scripts/portable_r1_torque_armature_mujoco.py",
+      "bytes": 3603,
+      "sha256": "2f88d34c705ce59b506de9f91467faf5a6d03b55c5ee243771a88f0fea025961"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/project/mimic_real/scripts/portable_r1_torque_pulse_isaac.py",
+      "bytes": 5744,
+      "sha256": "d2c3a4bdc36e8eb16b094eb21000e93c5e887a98ea921c9d81e8e646d87fa00f"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/project/mimic_real/scripts/portable_r1_torque_pulse_mujoco.py",
+      "bytes": 3375,
+      "sha256": "5f415b8621d1419ec97b93dd1398bcac6ec4ad91f12840edc2b4a007fce1fe4f"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/project/mimic_real/scripts/portable_r2_first_cycle_contact_armature001_isaac.py",
+      "bytes": 6181,
+      "sha256": "4d300a15d5a46b29d762e9a02aef565bb255f1b30030d878da104ea874e43230"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/project/mimic_real/scripts/portable_r3_first_cycle_velguard_isaac.py",
+      "bytes": 6179,
+      "sha256": "ca51422a23ede44b32e0e9134a9612692eb0580b396b57ac50bd26b7ea53f3c9"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/project/mimic_real/scripts/portable_r3_first_cycle_velguard_mujoco.py",
+      "bytes": 3116,
+      "sha256": "39da6a2f8ee1b2e261c781755e60ad93c11c5ab9816b90906cebe85ff9bd8dbb"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/project/mimic_real/scripts/portable_r4_first_cycle_dcmotor_isaac.py",
+      "bytes": 6229,
+      "sha256": "62bd7fa2a9cf2c2d25cebc2757922d10f22e37ccdd6ce0b370c4bbb029a86e1f"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/project/mimic_real/scripts/portable_r4_first_cycle_dcmotor_mujoco.py",
+      "bytes": 3550,
+      "sha256": "b42d3abbdef49490d95bc04a9a6961cce7e8b987198fc04805929d1b5a145cf7"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/project/mimic_real/scripts/probe_capture_rsi.py",
+      "bytes": 1864,
+      "sha256": "e20711af940539fc742860d0fdf49df453c755f0144ae724bf3b3e86e468b77c"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/project/mimic_real/scripts/probe_edu3_contract.py",
+      "bytes": 4310,
+      "sha256": "87889f593cb316871305c07ca02a0664ad8cd26527de5572b61bcb248ef28c67"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/project/mimic_real/scripts/probe_xiaohai_reference_pd.py",
+      "bytes": 4838,
+      "sha256": "5e157c27aeeefd0cc85796da7f4740179d4d73a62e5ccb6c7796531dc74afb3f"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/project/mimic_real/scripts/pulse_gate.py",
+      "bytes": 4195,
+      "sha256": "5debcd7983c9ee337f3824af1e6161f418aeac1d5c91c4b28091c146933760da"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/project/mimic_real/scripts/record_x11.py",
+      "bytes": 1012,
+      "sha256": "bad04bf40e8ab5df4ead34245de17dc05ebaa02cbc0fabfbc0acfd2cc7fb4a52"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/project/mimic_real/scripts/run_probe_xiaohai_reference_pd.py",
+      "bytes": 478,
+      "sha256": "3b3761276e396d8c8cc57b05c469c95ec4cfec0e159c047d750833484bd47761"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/project/mimic_real/scripts/sim2sim (copy).py",
+      "bytes": 11754,
+      "sha256": "0990a26e5dbd8798bf96b743e5c0ec8dccf00d53b29974f7812b0f178667a2d0"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/project/mimic_real/scripts/sim2sim copy.py",
+      "bytes": 11445,
+      "sha256": "9264b5abf86800b038048c1ee0e667eb8945036e889a1783b9ef4f3a8af6235d"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/project/mimic_real/scripts/sim2sim.py",
+      "bytes": 10838,
+      "sha256": "6a45845a4954fea337ed58f4ff3d872baf2c398c24f3fe3404ba41ad41618c03"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/project/mimic_real/scripts/sim2sim_one.py",
+      "bytes": 12351,
+      "sha256": "b3c2d251e9a21ced5c0b2019ea1a1175c3f5ebe29dab7a459a47f2a655ff5a7c"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/project/mimic_real/scripts/sim2sim_walk_eval.py",
+      "bytes": 9765,
+      "sha256": "f1e50816b46b5643a7746ce4a6510d69cbcc62af4c3548aa09c50cbefef03015"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/project/mimic_real/scripts/sim2sim_walk_eval_aligned.py",
+      "bytes": 11229,
+      "sha256": "80f012a380b1d0373b9365ed340a54c43b43b4e139e0d73fe5a83189261de38e"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/project/mimic_real/scripts/sim2sim_walk_eval_implicitservo.py",
+      "bytes": 12597,
+      "sha256": "3eabc04c2cfe2f73fae67c6c334686aab4f8ac2a9edab3515e31483cc6e7e3ad"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/project/mimic_real/scripts/sim2sim_walk_eval_implicitservo_dt01.py",
+      "bytes": 12601,
+      "sha256": "bb0f8ab2e700db9147cace236dfc01c126e51ad3b219c283e2ec0c17a7b7158c"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/project/mimic_real/scripts/sim2sim_walk_eval_implicitservo_passivedamp.py",
+      "bytes": 12632,
+      "sha256": "ba8e608f184a33c93680e002815630b1909d2a742fb7a5d7305e26d14a89868e"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/project/mimic_real/scripts/sim2sim_walk_eval_implicitservo_velcap.py",
+      "bytes": 12671,
+      "sha256": "586a7697640265ea6926ef2376e476380c7b1696e2eda8db6e22a9a9da7d6329"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/project/mimic_real/scripts/sim2sim_walk_eval_implicitservo_vellimit.py",
+      "bytes": 12875,
+      "sha256": "0ad757742c2c094f329c5fb4e022b2298ab50de8dc757ba52344c635445bc7ff"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/project/mimic_real/scripts/sim2sim_walk_eval_targetclamp.py",
+      "bytes": 11812,
+      "sha256": "964b3ca93396351f81657c25617f86380c41746e06d262625d5d1e5b8350035a"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/project/mimic_real/scripts/sim2sim_walk_eval_zeroomega.py",
+      "bytes": 11198,
+      "sha256": "8a1e221f5400798e8f44610019afaec6d462cf5b2960b3817c22a7325a9a0d31"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/project/mimic_real/scripts/sim2sim_walk_eval_zeroomega_velclamp.py",
+      "bytes": 11264,
+      "sha256": "00e1dfc228d574cca4eba368ad96c5e51cda6843cbe2fec0cd81e4ad3fab95bb"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/project/mimic_real/scripts/sim2sim_walk_eval_zeroomega_velclamp_dt01.py",
+      "bytes": 11266,
+      "sha256": "cc84dec7ef1fdbd10af37a177ffc11e31119757b535337b3cdfd48e94a9a324a"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/project/mimic_real/scripts/test.py",
+      "bytes": 1921,
+      "sha256": "17cfbf68e08497c83c205d4374f1ba3fc2529ca86cff65898f2e0aa2d39de1e0"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/project/mimic_real/scripts/test_phase_transition.py",
+      "bytes": 5096,
+      "sha256": "7967361e71bae6e2c9794836e858eee1552156ebfdf4d39151fa200442bcb4d2"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/project/mimic_real/scripts/test_pytorch_kinmatics.py",
+      "bytes": 6851,
+      "sha256": "bb1a914819aad570b2206a0767c85863c4ccfda5f9664dd6c981278f42e6d2b0"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/project/mimic_real/scripts/train.py",
+      "bytes": 3525,
+      "sha256": "8c20fd9a1097742902c887d7af03387227ba3c40790c4c5fe3d8c370f79fd522"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/project/mimic_real/scripts/train_capture_rsi.py",
+      "bytes": 2713,
+      "sha256": "7dca85a3d1b85f003ca4cda9c3dbb4a7c46be29a5a2d73a3d425481c50f4d137"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/project/mimic_real/scripts/train_capture_rsi_portable_dcmotor_resume.py",
+      "bytes": 5981,
+      "sha256": "91c22b7695d6dbfe7cc23338cd7ebf18666ec75d33387a20ec6e8bfa30622a36"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/project/mimic_real/scripts/train_capture_rsi_resume.py",
+      "bytes": 3053,
+      "sha256": "6e3129c9326c948639d9969cce1f6e37e63a5709743f575f131e721646da7d02"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/project/mimic_real/scripts/train_capture_rsi_v2.py",
+      "bytes": 2521,
+      "sha256": "3aea38ce44a6ac4615dfadae6de066bae55a8a80edac9b8ab8b64737bf3a6650"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/project/mimic_real/scripts/train_edu3_reference.py",
+      "bytes": 2746,
+      "sha256": "ac74b004c90ed1668393a71bebfc2c7c0dec7d17721c38c14968efb32b4ba682"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/project/mimic_real/scripts/train_phase0.py",
+      "bytes": 3632,
+      "sha256": "44946e3ba1b082a6e33cae3cab1acb304bdea1d68defa04117d0980c0a51b43d"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/project/mimic_real/scripts/vis_motion.py",
+      "bytes": 1422,
+      "sha256": "91b8ba6d42c27a61ad6527aff711bed7596c40e63a545789dfbf80d530fc2246"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/project/mimic_real/scripts/xiaohai_model15000_mujoco_official_dynamics.py",
+      "bytes": 11235,
+      "sha256": "971a07cabe06123271b524e84bdada04880dedb5b317ed02ddfed91d13b50579"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/project/mimic_real/scripts/xiaohai_model15000_mujoco_position_servo_probe.py",
+      "bytes": 12755,
+      "sha256": "dfa6c3ecd425ecb4f8a6fdb96c4a172ee51677d5ac2bf73f4728aa4a93b9c7fd"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/project/mimic_real/scripts/xiaohai_model15000_portable_dcmotor_mujoco.py",
+      "bytes": 11912,
+      "sha256": "18ed45fbb1ec056e057b2042a8554d4d2523eb05d51764f8bf4bd7e216a546b2"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/project/mimic_real/scripts/xiaohai_physx_collision_material_probe.py",
+      "bytes": 6429,
+      "sha256": "3be736cc0dde49ae6bfd5bef87830bf4430594d859979bf628bd1934fccac0bb"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/project/mimic_real/utils/__init__.py",
+      "bytes": 40,
+      "sha256": "562ba5834cbf986c3f1717b997b79c1026a7c839a73b27ee503fc63a41510e3f"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/project/mimic_real/utils/cli_args.py",
+      "bytes": 2545,
+      "sha256": "66d25d4574057006184a4826ba3a690ce9feae7ed9c4d53c6dcef48fc7c96c50"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/project/mimic_real/utils/env_utils/__init__.py",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/project/mimic_real/utils/env_utils/marker.py",
+      "bytes": 2774,
+      "sha256": "8249436119e9adf632de0368f28cd73bc05440d0ac71fd933d5c616d9216d51a"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/project/mimic_real/utils/env_utils/scene.py",
+      "bytes": 3143,
+      "sha256": "2d94b40ee36a9d2b2827d833a9226d6aaca000fd005eb876f1c309691f7d5e0e"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/project/mimic_real/utils/keyboard.py",
+      "bytes": 2737,
+      "sha256": "3f7c843d15d4ac4493990cea430f78004d4a2685a3f3f338026c12b5e7a38e81"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/project/mimic_real/utils/save_file.py",
+      "bytes": 807,
+      "sha256": "0425d45b52feb27bc8db4db97088f5a6e4ddf0454abb22a550dc151a0914e458"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/project/mimic_real/utils/task_registry.py",
+      "bytes": 994,
+      "sha256": "1755c91d580a16c915c6da4d0d5e2c7a35a9fca1e5b503fb1483cfb1e31791f6"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/provenance/edu3_walk_reference_v1.mp4",
+      "bytes": 1028764,
+      "sha256": "f8a7d1bd342d9b10dfa63e16263f96f601ac835518c89155e1826673bf69c42c"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/provenance/generated_mjcf_readback_v1.json",
+      "bytes": 556,
+      "sha256": "e9d03c6883fe46e3dcf1f458b5b4643e0c8897d931ecedb85d4c01602d8979d3"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/provenance/pulse_compare_v1.json",
+      "bytes": 23272,
+      "sha256": "0d2139e8fada73aa471d36f5cb97d6b990c4158295fd34abb7745115175705b8"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/provenance/pulse_isaac_v1.json",
+      "bytes": 11517,
+      "sha256": "21bd5769dce3e7164597e05b91f3abb787a5f534ab66625b58bfe331a1096ba3"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/provenance/pulse_mujoco_v1.json",
+      "bytes": 11242,
+      "sha256": "8f938e964b7c4256bdfb1c27647a04ce04c109d8631866af9c9a69407e5961f5"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/provenance/retarget_report_v1.json",
+      "bytes": 11215,
+      "sha256": "6bb36096b9719c082bdbe5d4657bd81840a67890f79d6d91d6beea885669e38f"
+    },
+    {
+      "path": "03_reference_mimic_fullbody21/provenance/target_mapping_probe.json",
+      "bytes": 8569,
+      "sha256": "206c715541b4af11e100deec03d54a79136fdb2bbd0e0c725d323c7aa6f302a0"
+    },
+    {
+      "path": "README.md",
+      "bytes": 2544,
+      "sha256": "2ad1abb741f448453603b3555cac014e14f1049cce39464fc505cc894ccf1e81"
+    },
+    {
+      "path": "REPRODUCE.md",
+      "bytes": 2408,
+      "sha256": "507b54a7aa12a562c8ec30409607d9327e9c212a67eee32d7edfe33357f9dc8a"
+    },
+    {
+      "path": "tools/build_manifest.py",
+      "bytes": 2179,
+      "sha256": "f6fc35dcf9714833fdf2a25805d9d581a1ba1e906a8907b3c5848fc4b35445f8"
+    }
+  ]
+}

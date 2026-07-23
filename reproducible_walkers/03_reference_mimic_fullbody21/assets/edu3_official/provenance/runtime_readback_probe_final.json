@@ -1,0 +1,239 @@
+{
+  "status": "PASS",
+  "errors": [],
+  "task": "Edu3-Flat-External-20260721",
+  "device": "cuda:0",
+  "num_envs": 4,
+  "joint_names": [
+    "left_thigh_pitch_joint",
+    "right_thigh_pitch_joint",
+    "torso_joint",
+    "left_thigh_roll_joint",
+    "right_thigh_roll_joint",
+    "left_arm_pitch_joint",
+    "right_arm_pitch_joint",
+    "left_thigh_yaw_joint",
+    "right_thigh_yaw_joint",
+    "left_arm_roll_joint",
+    "right_arm_roll_joint",
+    "left_knee_joint",
+    "right_knee_joint",
+    "left_arm_yaw_joint",
+    "right_arm_yaw_joint",
+    "left_ankle_pitch_joint",
+    "right_ankle_pitch_joint",
+    "left_elbow_pitch_joint",
+    "right_elbow_pitch_joint",
+    "left_ankle_roll_joint",
+    "right_ankle_roll_joint"
+  ],
+  "joint_position_limits_runtime": [
+    [
+      -1.5707999,
+      0.7854
+    ],
+    [
+      -0.7854,
+      1.5707999
+    ],
+    [
+      -0.7854,
+      0.7854
+    ],
+    [
+      -0.3491,
+      0.7854
+    ],
+    [
+      -0.7854,
+      0.3491
+    ],
+    [
+      -2.3561997,
+      0.7854
+    ],
+    [
+      -0.7854,
+      2.3561997
+    ],
+    [
+      -0.7854,
+      0.7854
+    ],
+    [
+      -0.7854,
+      0.7854
+    ],
+    [
+      0.0,
+      2.3561997
+    ],
+    [
+      -2.3561997,
+      0.0
+    ],
+    [
+      0.0,
+      1.2216998
+    ],
+    [
+      -1.2216998,
+      0.0
+    ],
+    [
+      -0.7854,
+      0.7854
+    ],
+    [
+      -0.7854,
+      0.7854
+    ],
+    [
+      -0.4363,
+      0.4363
+    ],
+    [
+      -0.4363,
+      0.4363
+    ],
+    [
+      0.0,
+      1.5707999
+    ],
+    [
+      -1.5707999,
+      0.0
+    ],
+    [
+      -0.4363,
+      0.4363
+    ],
+    [
+      -0.4363,
+      0.4363
+    ]
+  ],
+  "joint_velocity_limits_runtime": [
+    24.0,
+    24.0,
+    24.0,
+    24.0,
+    24.0,
+    24.0,
+    24.0,
+    24.0,
+    24.0,
+    24.0,
+    24.0,
+    24.0,
+    24.0,
+    24.0,
+    24.0,
+    12.0,
+    12.0,
+    24.0,
+    24.0,
+    12.0,
+    12.0
+  ],
+  "motor_effort_contract_boundary": "MeasuredFrictionDelayedPDActuator.effort_limit",
+  "actuator_effort_limits_by_joint": {
+    "left_thigh_pitch_joint": 50.0,
+    "right_thigh_pitch_joint": 50.0,
+    "left_knee_joint": 50.0,
+    "right_knee_joint": 50.0,
+    "torso_joint": 20.0,
+    "left_thigh_roll_joint": 20.0,
+    "right_thigh_roll_joint": 20.0,
+    "left_thigh_yaw_joint": 20.0,
+    "right_thigh_yaw_joint": 20.0,
+    "left_ankle_pitch_joint": 40.0,
+    "right_ankle_pitch_joint": 40.0,
+    "left_ankle_roll_joint": 40.0,
+    "right_ankle_roll_joint": 40.0,
+    "left_arm_pitch_joint": 10.0,
+    "right_arm_pitch_joint": 10.0,
+    "left_arm_roll_joint": 10.0,
+    "right_arm_roll_joint": 10.0,
+    "left_arm_yaw_joint": 10.0,
+    "right_arm_yaw_joint": 10.0,
+    "left_elbow_pitch_joint": 10.0,
+    "right_elbow_pitch_joint": 10.0
+  },
+  "actuator_armatures_by_joint": {
+    "left_thigh_pitch_joint": 0.026489999145269394,
+    "right_thigh_pitch_joint": 0.026489999145269394,
+    "left_knee_joint": 0.026489999145269394,
+    "right_knee_joint": 0.026489999145269394,
+    "torso_joint": 0.00673669995740056,
+    "left_thigh_roll_joint": 0.00673669995740056,
+    "right_thigh_roll_joint": 0.00673669995740056,
+    "left_thigh_yaw_joint": 0.00673669995740056,
+    "right_thigh_yaw_joint": 0.00673669995740056,
+    "left_ankle_pitch_joint": 0.00673669995740056,
+    "right_ankle_pitch_joint": 0.00673669995740056,
+    "left_ankle_roll_joint": 0.00673669995740056,
+    "right_ankle_roll_joint": 0.00673669995740056,
+    "left_arm_pitch_joint": 0.00673669995740056,
+    "right_arm_pitch_joint": 0.00673669995740056,
+    "left_arm_roll_joint": 0.00673669995740056,
+    "right_arm_roll_joint": 0.00673669995740056,
+    "left_arm_yaw_joint": 0.00673669995740056,
+    "right_arm_yaw_joint": 0.00673669995740056,
+    "left_elbow_pitch_joint": 0.00673669995740056,
+    "right_elbow_pitch_joint": 0.00673669995740056
+  },
+  "physx_constraint_max_force_unlimited": true,
+  "physx_constraint_max_force_runtime": [
+    1000000000.0,
+    1000000000.0,
+    1000000000.0,
+    1000000000.0,
+    1000000000.0,
+    1000000000.0,
+    1000000000.0,
+    1000000000.0,
+    1000000000.0,
+    1000000000.0,
+    1000000000.0,
+    1000000000.0,
+    1000000000.0,
+    1000000000.0,
+    1000000000.0,
+    1000000000.0,
+    1000000000.0,
+    1000000000.0,
+    1000000000.0,
+    1000000000.0,
+    1000000000.0
+  ],
+  "legacy_physx_friction_all_zero": true,
+  "explicit_si_friction_model": "enabled by EDU3 package startup configuration",
+  "runtime_total_mass_kg": 9.270000457763672,
+  "zero_action_20_step_finite": true,
+  "raw_probe_file": "/home/zero/external_edu3_flat_20260721/provenance/runtime_readback_probe.json",
+  "raw_probe_parser_errors_superseded": [
+    "effort left_thigh_pitch_joint: runtime=1000000000.0, expected=10.0",
+    "effort right_thigh_pitch_joint: runtime=1000000000.0, expected=10.0",
+    "effort torso_joint: runtime=1000000000.0, expected=20.0",
+    "effort left_thigh_roll_joint: runtime=1000000000.0, expected=10.0",
+    "effort right_thigh_roll_joint: runtime=1000000000.0, expected=10.0",
+    "effort left_arm_pitch_joint: runtime=1000000000.0, expected=10.0",
+    "effort right_arm_pitch_joint: runtime=1000000000.0, expected=10.0",
+    "effort left_thigh_yaw_joint: runtime=1000000000.0, expected=10.0",
+    "effort right_thigh_yaw_joint: runtime=1000000000.0, expected=10.0",
+    "effort left_arm_roll_joint: runtime=1000000000.0, expected=10.0",
+    "effort right_arm_roll_joint: runtime=1000000000.0, expected=10.0",
+    "effort left_knee_joint: runtime=1000000000.0, expected=50.0",
+    "effort right_knee_joint: runtime=1000000000.0, expected=50.0",
+    "effort left_arm_yaw_joint: runtime=1000000000.0, expected=10.0",
+    "effort right_arm_yaw_joint: runtime=1000000000.0, expected=10.0",
+    "effort left_ankle_pitch_joint: runtime=1000000000.0, expected=40.0",
+    "effort right_ankle_pitch_joint: runtime=1000000000.0, expected=40.0",
+    "effort left_elbow_pitch_joint: runtime=1000000000.0, expected=10.0",
+    "effort right_elbow_pitch_joint: runtime=1000000000.0, expected=10.0",
+    "effort left_ankle_roll_joint: runtime=1000000000.0, expected=40.0",
+    "effort right_ankle_roll_joint: runtime=1000000000.0, expected=40.0"
+  ],
+  "note": "The raw probe compared motor limits to PhysX constraint max-force and therefore reported a false failure. This final gate validates the actual actuator clipping boundary and separately records the intentionally unlimited PhysX constraint field."
+}

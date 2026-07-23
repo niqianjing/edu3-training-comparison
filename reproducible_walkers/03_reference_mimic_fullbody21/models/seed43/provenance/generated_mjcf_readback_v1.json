@@ -1,0 +1,10 @@
+{
+  "status": "PASS",
+  "contract_path": "/home/zero/edu3_reference_mimic_v1/contract/edu3_reference_contract_v1.json",
+  "contract_sha256": "3f3a53c4a00808aca079d6dd3fe0d126ed5931ee555838adfda036491c76a34d",
+  "source_mjcf_sha256": "27bcafacf9b713f88ca81e887d6d31f6fff25bfc0b5754445643775b91347853",
+  "generated_mjcf_path": "/home/zero/edu3_reference_mimic_v1/assets/edu3_official/mjcf/edu3_reference_25_10_v1.xml",
+  "generated_mjcf_sha256": "72fdbc8f918a374cb06dcc1b8a0e89e148558b20e724fa20402dc7fcbde6c85b",
+  "joint_count": 21,
+  "motor_count": 21
+}

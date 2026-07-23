@@ -1,0 +1,40 @@
+{
+  "status": "PASS",
+  "hostname": "ubuntu",
+  "argv": [
+    "mimic_real/scripts/train_edu3_reference.py",
+    "--task",
+    "edu3_reference_mimic_r1",
+    "--num_envs",
+    "4096",
+    "--seed",
+    "43",
+    "--device",
+    "cuda:1",
+    "--headless",
+    "--max_iterations",
+    "1001",
+    "--run_name",
+    "EDU3_XIAOHAI_REF_25_10_V1_seed43"
+  ],
+  "contract_version": "EDU3-REFERENCE-25-10-V1",
+  "contract_sha256": "3f3a53c4a00808aca079d6dd3fe0d126ed5931ee555838adfda036491c76a34d",
+  "generated_mjcf_sha256": "72fdbc8f918a374cb06dcc1b8a0e89e148558b20e724fa20402dc7fcbde6c85b",
+  "compiled_runtime_readback_sha256": "f96a82db177776a49a381b6596af4b22617a096697b3a7daeac64b6ee46b9f60",
+  "evidence_sha256": {
+    "retarget_report_v1.json": "6bb36096b9719c082bdbe5d4657bd81840a67890f79d6d91d6beea885669e38f",
+    "target_mapping_probe.json": "206c715541b4af11e100deec03d54a79136fdb2bbd0e0c725d323c7aa6f302a0",
+    "generated_mjcf_readback_v1.json": "e9d03c6883fe46e3dcf1f458b5b4643e0c8897d931ecedb85d4c01602d8979d3",
+    "pulse_isaac_v1.json": "21bd5769dce3e7164597e05b91f3abb787a5f534ab66625b58bfe331a1096ba3",
+    "pulse_mujoco_v1.json": "8f938e964b7c4256bdfb1c27647a04ce04c109d8631866af9c9a69407e5961f5",
+    "pulse_compare_v1.json": "0d2139e8fada73aa471d36f5cb97d6b990c4158295fd34abb7745115175705b8"
+  },
+  "project_python_tree_sha256": "b76e12cb71fe86dd1a23b739191f13ce2fc27cdaca4bdd82b7c7eace6f85eda3",
+  "versions": {
+    "python": "3.11.15 (main, Mar 11 2026, 17:20:07) [GCC 14.3.0]",
+    "torch": "2.7.0+cu128",
+    "isaaclab": "0.47.2",
+    "isaacsim": "5.1.0.0",
+    "mujoco": "3.3.3"
+  }
+}

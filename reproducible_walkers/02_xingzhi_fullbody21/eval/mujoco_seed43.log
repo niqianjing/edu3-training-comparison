@@ -1,0 +1,17 @@
+Loading MJCF from: /home/zero/external_edu3_flat_20260721/mjcf/edu3_nqj13_trainable_fullbody.xml
+NOTE: URDF alphabetical BFS != Isaac joint_names; using Isaac order from Lab.
+  BFS: ['left_thigh_pitch_joint', 'right_thigh_pitch_joint', 'torso_joint', 'left_arm_pitch_joint', 'left_thigh_roll_joint', 'right_arm_pitch_joint', 'right_thigh_roll_joint', 'left_arm_roll_joint', 'left_thigh_yaw_joint', 'right_arm_roll_joint', 'right_thigh_yaw_joint', 'left_arm_yaw_joint', 'left_knee_joint', 'right_arm_yaw_joint', 'right_knee_joint', 'left_ankle_pitch_joint', 'left_elbow_pitch_joint', 'right_ankle_pitch_joint', 'right_elbow_pitch_joint', 'left_ankle_roll_joint', 'right_ankle_roll_joint']
+  Isaac: ['left_thigh_pitch_joint', 'right_thigh_pitch_joint', 'torso_joint', 'left_thigh_roll_joint', 'right_thigh_roll_joint', 'left_arm_pitch_joint', 'right_arm_pitch_joint', 'left_thigh_yaw_joint', 'right_thigh_yaw_joint', 'left_arm_roll_joint', 'right_arm_roll_joint', 'left_knee_joint', 'right_knee_joint', 'left_arm_yaw_joint', 'right_arm_yaw_joint', 'left_ankle_pitch_joint', 'right_ankle_pitch_joint', 'left_elbow_pitch_joint', 'right_elbow_pitch_joint', 'left_ankle_roll_joint', 'right_ankle_roll_joint']
+Using 21 joints in Isaac Lab / PhysX DOF order.
+MuJoCo revolute joints count: 21
+Headless video: 1920x1080 @ 50 Hz → /home/zero/xingzhi_exact_eval_20260721/mujoco_seed43.mp4
+Running simulation (policy=on) cmd=(0.200, 0.000, 0.000) obs=10×74=740 ...
+[t=1.0s] cmd_vx=+0.200 vx_avg=+0.192m/s err_avg=0.044 cmd_wz=+0.000 wz_avg=-0.143rad/s z_avg=0.374m |action|_max_avg=1.000
+[t=2.0s] cmd_vx=+0.200 vx_avg=+0.202m/s err_avg=0.016 cmd_wz=+0.000 wz_avg=-0.047rad/s z_avg=0.372m |action|_max_avg=1.000
+[t=3.0s] cmd_vx=+0.200 vx_avg=+0.200m/s err_avg=0.016 cmd_wz=+0.000 wz_avg=-0.051rad/s z_avg=0.372m |action|_max_avg=1.000
+[t=4.0s] cmd_vx=+0.200 vx_avg=+0.200m/s err_avg=0.016 cmd_wz=+0.000 wz_avg=-0.051rad/s z_avg=0.372m |action|_max_avg=1.000
+[t=5.0s] cmd_vx=+0.200 vx_avg=+0.200m/s err_avg=0.016 cmd_wz=+0.000 wz_avg=-0.051rad/s z_avg=0.372m |action|_max_avg=1.000
+[t=6.0s] cmd_vx=+0.200 vx_avg=+0.200m/s err_avg=0.016 cmd_wz=+0.000 wz_avg=-0.051rad/s z_avg=0.372m |action|_max_avg=1.000
+[t=7.0s] cmd_vx=+0.200 vx_avg=+0.200m/s err_avg=0.016 cmd_wz=+0.000 wz_avg=-0.051rad/s z_avg=0.372m |action|_max_avg=1.000
+[t=8.0s] cmd_vx=+0.200 vx_avg=+0.200m/s err_avg=0.016 cmd_wz=+0.000 wz_avg=-0.051rad/s z_avg=0.372m |action|_max_avg=1.000
+Video saved to: /home/zero/xingzhi_exact_eval_20260721/mujoco_seed43.mp4
