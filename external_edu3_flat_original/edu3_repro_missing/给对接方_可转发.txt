@@ -1,0 +1,19 @@
+给对接方（可直接转发）
+
+您好。针对此前反馈的 72/74 维、动作限位、奖励兼容实现、MuJoCo 不一致问题，现补发「复现补丁包」`edu3_repro_missing.tar.gz`。
+
+本包是对已发送资产任务包的补齐，包含：
+1. 实际训练使用的 `robolab/tasks/direct/base/`（相位 sin/cos + 全部基础奖励）
+2. `Edu3-Flat` 注册桥
+3. 视频对应模型 `policy.pt` 与 `env.yaml`/`agent.yaml`
+4. 与训练对齐的 MuJoCo 脚本 + 参考视频
+
+请按包内 `REPRO.md` 用本包文件覆盖你们为跑通而改过的 base / 奖励 / MuJoCo，先不要保留：
+- 目标角 ROM 平滑限位
+- MuJoCo dt=1ms
+- 去掉目标延迟
+- 本地重写的 9 个奖励函数
+
+建议先只跑本包 policy + 本包 MuJoCo（vx=0.2）复现视频，再谈重训与消融对比。
+
+版本：Isaac Sim 5.1.0 / Isaac Lab 2.3.2 / MuJoCo 3.3.3
